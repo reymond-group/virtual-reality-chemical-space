@@ -1,0 +1,162 @@
+5288206
+  -OEChem-10051720033D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+   -0.4557   -0.7158    2.1325 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2665   -3.0769   -0.4239 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3863    1.0895   -1.4865 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9813    1.5630    0.6704 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3476    1.9327   -0.5086 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367   -0.9837   -0.7155 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6043    0.6170    1.1737 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0928    1.7030    0.5846 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7666   -1.0461    0.8269 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5514    0.1851    0.4268 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2347   -1.8777   -0.3126 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3645    1.0023   -0.6504 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9686   -1.8234   -0.9040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2341    0.0230    0.1953 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6352    0.2830    1.3671 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392   -2.9071   -0.8573 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6328    3.0510   -1.3711 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3026    0.9811   -0.1475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4844   -1.6747    1.3711 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6571    1.0115   -1.4674 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2048   -2.4986   -1.7227 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7600   -1.0663   -1.4249 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9337    1.1424    1.9602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7483   -3.5232   -1.6845 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6490    2.9385   -1.7569 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9184    3.0639   -2.1978 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5433    3.9694   -0.7857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0863    1.7183   -1.7637 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 16  2  0  0  0  0
+  3 18  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02816
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BCPHJDLBOJMWOD-VIFPVBQESA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(SC=C(NC=C1C=O)C(O)=O)C1=CN(C)N=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N4O3S/c1-14-3-7(12-13-14)9-6(4-15)2-11-8(5-18-9)10(16)17/h2-5,9,11H,1H3,(H,16,17)/t9-/m0/s1
+
+> <INCHI_KEY>
+BCPHJDLBOJMWOD-VIFPVBQESA-N
+
+> <FORMULA>
+C10H10N4O3S
+
+> <MOLECULAR_WEIGHT>
+266.276
+
+> <EXACT_MASS>
+266.047360896
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.724553089220507
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(7S)-6-formyl-7-(1-methyl-1H-1,2,3-triazol-4-yl)-4,7-dihydro-1,4-thiazepine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.10
+
+> <JCHEM_LOGP>
+-0.797800233333333
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.686059480057516
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.883742881123204
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.1563768780500574
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.11
+
+> <JCHEM_REFRACTIVITY>
+77.73659999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(7S)-6-formyl-7-(1-methyl-1,2,3-triazol-4-yl)-4,7-dihydro-1,4-thiazepine-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,141 @@
+7068808
+  -OEChem-10051720333D
+
+ 18 17  0     1  0  0  0  0  0999 V2000
+   -0.6283    0.0836   -0.7176 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5863   -0.0722    0.0061 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4706   -0.4156   -1.3195 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5482   -0.3167   -0.7475 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0807   -1.7117    0.3039 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6353   -1.2241    0.8860 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9817    1.2408    0.4784 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911    1.8967   -0.2353 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.8136    0.6378    0.5578 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3112    0.4661    0.7970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5574   -0.5847   -0.0095 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2893    0.8554    1.5223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1416   -0.3502    1.5077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1098    1.3730    1.2457 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9880    2.1116   -0.3706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5651    2.7071    0.2342 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5638    1.8158   -1.1676 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4155    0.2477   -2.0469 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  2  0  0  0  0
+  3 18  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  CHG  2   4  -1   8   1
+M  END
+> <DATABASE_ID>
+DB04370
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NOKPBJYHPHHWAN-REOHCLBHSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CSS(O)(=O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO5S2/c4-2(3(5)6)1-10-11(7,8)9/h2H,1,4H2,(H,5,6)(H,7,8,9)/t2-/m0/s1
+
+> <INCHI_KEY>
+NOKPBJYHPHHWAN-REOHCLBHSA-N
+
+> <FORMULA>
+C3H7NO5S2
+
+> <MOLECULAR_WEIGHT>
+201.221
+
+> <EXACT_MASS>
+200.976563719
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.76481574427273
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-(sulfosulfanyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-2.33
+
+> <JCHEM_LOGP>
+-2.348351581435501
+
+> <ALOGPS_LOGS>
+-0.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+1.1699046078189745
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.8719924638681862
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.989135848858341
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.69
+
+> <JCHEM_REFRACTIVITY>
+38.642100000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.38e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-sulphocysteine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

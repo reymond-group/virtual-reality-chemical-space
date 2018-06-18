@@ -1,0 +1,140 @@
+11833
+  -OEChem-10051721273D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+   -0.8938   -1.4626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1747   -1.3016   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4480    0.5787   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7932    1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3575   -0.8140   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7291    1.1467    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9690    0.7210    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4867   -1.6348   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7294    2.8641   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8706    0.3369    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7493   -1.0517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0811   -0.7474    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8696    2.2245    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9059    1.2700    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3873   -2.7161   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2093    3.2311   -0.8917 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2096    3.2315    0.8909 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7278    3.3156   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8562    0.7939    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6381   -1.6755    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08785
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PSGQCCSGKGJLRL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC(=O)OC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O2/c1-7-6-10(11)12-9-5-3-2-4-8(7)9/h2-6H,1H3
+
+> <INCHI_KEY>
+PSGQCCSGKGJLRL-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H8O2
+
+> <MOLECULAR_WEIGHT>
+160.1693
+
+> <EXACT_MASS>
+160.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.40925575083924
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-methyl-2H-chromen-2-one
+
+> <ALOGPS_LOGP>
+2.05
+
+> <JCHEM_LOGP>
+2.0827542203333334
+
+> <ALOGPS_LOGS>
+-2.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.950389882225585
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+45.830600000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.11e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-methylcoumarin
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

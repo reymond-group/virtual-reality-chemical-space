@@ -1,0 +1,129 @@
+76008
+  -OEChem-10051719433D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+   -1.8869    0.0610    0.0007 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5241   -0.2368    0.0069 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8833    0.4655   -0.0139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6365    0.7502    0.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0268   -0.5368    0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9108   -0.5032   -0.0064 C   0  5  0  0  0  0  0  0  0  0  0  0
+    0.4383   -0.8976   -0.8649 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4538   -0.8807    0.8926 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9720    1.1285    0.8545 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9645    1.0910   -0.9104 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5935    1.3900    0.8976 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5890    1.3988   -0.8729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9915   -1.1567    0.9052 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9837   -1.1963   -0.8691 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -0.0147   -0.0123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+M  CHG  2   1   1   6  -1
+M  END
+> <DATABASE_ID>
+DB01826
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FSBLVBBRXSCOKU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCC[N+]#[C-]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9N/c1-3-4-5-6-2/h3-5H2,1H3
+
+> <INCHI_KEY>
+FSBLVBBRXSCOKU-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H9N
+
+> <MOLECULAR_WEIGHT>
+83.1317
+
+> <EXACT_MASS>
+83.073499293
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.220776277928694
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-isocyanobutane
+
+> <ALOGPS_LOGP>
+2.16
+
+> <JCHEM_LOGP>
+-0.634509988542612
+
+> <ALOGPS_LOGS>
+-2.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.21638704055433
+
+> <JCHEM_POLAR_SURFACE_AREA>
+4.36
+
+> <JCHEM_REFRACTIVITY>
+35.3852
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.00e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-butyl isocyanide
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,165 @@
+11987823
+  -OEChem-10051721133D
+
+ 30 30  0     0  0  0  0  0  0999 V2000
+   -2.3369   -2.7833    0.3819 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.4440    0.0385   -0.2699 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0731   -0.0363    0.5848 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1620    2.3006    0.6341 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2523    1.3542   -1.1904 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2771   -1.1787   -1.3215 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8137    0.1928   -1.2275 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7036    0.0036    0.5452 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0739   -1.0717   -0.4146 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9910    1.2572   -0.2983 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3348   -0.0490    0.2026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8018   -0.0876    1.2240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6986   -0.0898    0.8896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1406   -0.0814    0.5662 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8378   -0.0085   -0.1167 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8476   -1.1548    0.1842 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7450    1.2671    0.3141 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7091    0.1270   -0.6877 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2585    0.8630   -0.4028 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2514   -0.8979   -0.4875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7091    0.7536    1.9221 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6937   -0.9812    1.8517 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7995   -1.0087    1.4805 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7884    0.7380    1.6042 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7678    0.9204   -0.6916 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7911   -0.8561   -0.8077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5325   -1.9415   -0.6679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4214    2.1595   -0.4801 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9951    1.6470   -1.7602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0305   -1.4068   -1.9067 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5 29  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7 18  2  0  0  0  0
+  9 16  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08016
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DAUATIBSDSXXHA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)OCCCCC1=C(Cl)NC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12ClN2O6P/c9-6-5(7(12)11-8(13)10-6)3-1-2-4-17-18(14,15)16/h1-4H2,(H2,14,15,16)(H2,10,11,12,13)
+
+> <INCHI_KEY>
+DAUATIBSDSXXHA-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12ClN2O6P
+
+> <MOLECULAR_WEIGHT>
+298.617
+
+> <EXACT_MASS>
+298.012150345
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.210296474029157
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[4-(6-chloro-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-5-yl)butoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-0.01696795133333312
+
+> <ALOGPS_LOGS>
+-2.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.82482334861922
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.807755754588304
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.970527534299002
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.96000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.7812
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.39e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-(4-chloro-2,6-dioxo-1,3-dihydropyrimidin-5-yl)butoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

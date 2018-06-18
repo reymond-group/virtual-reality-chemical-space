@@ -1,0 +1,120 @@
+5288817
+  -OEChem-10051720173D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+   -2.3493    0.0652    0.0001 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6002    0.0907   -0.0001 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -0.9327    0.0005 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.4581    0.8910    1.2899 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.4570    0.8883   -1.2918 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8969   -1.0025    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8858   -1.6336   -0.8912 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8859   -1.6298    0.8966 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0959    0.6683   -1.1707 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  CHG  2   3  -1   4  -1
+M  END
+> <DATABASE_ID>
+DB03498
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MJZCELCYTRONIX-UHFFFAOYSA-L/SDF?record_type=3d
+
+> <SMILES>
+[O-]P([O-])(=O)CS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH5O3PS/c2-5(3,4)1-6/h6H,1H2,(H2,2,3,4)/p-2
+
+> <INCHI_KEY>
+MJZCELCYTRONIX-UHFFFAOYSA-L
+
+> <FORMULA>
+CH3O3PS
+
+> <MOLECULAR_WEIGHT>
+126.071
+
+> <EXACT_MASS>
+125.954051164
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.123692091657201
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+-2
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(sulfanylmethyl)phosphonate
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+-0.7444176406666665
+
+> <ALOGPS_LOGS>
+-1.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.132516695707592
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.6391736266635766
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.19
+
+> <JCHEM_REFRACTIVITY>
+22.474
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mercaptomethyl phosphonate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

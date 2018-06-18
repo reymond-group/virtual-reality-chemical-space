@@ -1,0 +1,162 @@
+3647
+  -OEChem-10051719223D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+   -3.1069    0.9830   -0.0060 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2494    1.6808   -0.0702 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4244   -2.7627   -0.0109 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1651   -1.0579   -1.1285 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1819   -1.0196    1.0458 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4240    1.3029    1.3717 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1255    1.9915   -1.0467 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3508    0.9385   -0.6779 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7491    2.9001   -0.6971 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4140   -2.0373    0.0418 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0562   -0.3411   -0.5206 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7084    2.0581    1.5443 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4996    0.2519    0.0129 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3536   -1.1440    0.0370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8849    0.5863   -0.0308 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0653   -0.7939   -0.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4013    1.1160   -0.0209 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7878   -1.6080    0.1832 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0425   -1.6466    0.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4320   -1.3980   -0.0287 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5631    2.1902   -0.0248 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4498   -2.3780   -0.2258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0389   -1.4950    1.2437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1045   -2.7255    0.0231 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2113   -3.0279    0.1122 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2264   -0.4336   -1.5300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5584    3.0351    1.8300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3670    1.4127    2.2696 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  2  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2  9  2  0  0  0  0
+  2 12  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5 20  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 18 23  1  0  0  0  0
+ 19 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00774
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DMDGGSIALPNSEE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8F3N3O4S2/c9-8(10,11)4-1-5-7(2-6(4)19(12,15)16)20(17,18)14-3-13-5/h1-2,13-14H,3H2,(H2,12,15,16)
+
+> <INCHI_KEY>
+DMDGGSIALPNSEE-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8F3N3O4S2
+
+> <MOLECULAR_WEIGHT>
+331.292
+
+> <EXACT_MASS>
+330.990831754
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.682968710783264
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,1-dioxo-6-(trifluoromethyl)-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+> <ALOGPS_LOGP>
+0.44
+
+> <JCHEM_LOGP>
+-0.30181397099999996
+
+> <ALOGPS_LOGS>
+-2.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.202550200977978
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.065968668241249
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.73831760768688
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.36
+
+> <JCHEM_REFRACTIVITY>
+64.27850000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.58e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroflumethiazide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

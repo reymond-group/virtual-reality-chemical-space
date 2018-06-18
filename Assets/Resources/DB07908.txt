@@ -1,0 +1,162 @@
+5288573
+  -OEChem-10051721113D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    0.0236    1.6213    0.2106 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7890    0.6051   -1.3404 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1762    2.1028    0.4946 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6744    0.7519   -0.3462 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6327   -1.1323    0.2580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6038   -0.2085    0.4196 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7685   -0.6920    0.0967 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0595   -0.5206    0.6569 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0476    0.6713    0.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2993    1.2512    0.3842 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8899   -2.6183    0.2149 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8570   -1.5694   -0.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8325   -0.6336   -0.6439 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3436    1.1720   -0.0714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1626   -1.0857   -0.1791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4055    0.2847   -0.2014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5129    0.2531    1.2891 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1707   -1.4456    1.2336 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9505   -2.8794    0.2402 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4163   -3.1157    1.0683 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4979   -3.0517   -0.7122 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7210   -2.6476   -0.0150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8803   -0.8749   -0.4381 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4182   -1.4127   -1.2924 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5201    2.2440   -0.0835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9806   -1.7949   -0.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3003    0.4898   -2.1594 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2820   -0.0040   -0.4216 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 16  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07908
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VCGFYFKJZGIZMX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(CCO)C(=O)OC2=CC(O)=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12O4/c1-7-9-3-2-8(14)6-11(9)16-12(15)10(7)4-5-13/h2-3,6,13-14H,4-5H2,1H3
+
+> <INCHI_KEY>
+VCGFYFKJZGIZMX-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H12O4
+
+> <MOLECULAR_WEIGHT>
+220.2213
+
+> <EXACT_MASS>
+220.073558872
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.46868498883854
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-hydroxy-3-(2-hydroxyethyl)-4-methyl-2H-chromen-2-one
+
+> <ALOGPS_LOGP>
+1.35
+
+> <JCHEM_LOGP>
+1.1826294363333334
+
+> <ALOGPS_LOGS>
+-2.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.908187272631949
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.774112782249373
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.4015588884280907
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+58.69830000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.52e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7-hydroxy-3-(2-hydroxyethyl)-4-methylchromen-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

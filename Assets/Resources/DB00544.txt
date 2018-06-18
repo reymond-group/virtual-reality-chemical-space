@@ -1,0 +1,129 @@
+3385
+  -OEChem-10051719173D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+   -2.4548   -0.8375   -0.0007 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6047    1.7485   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8116    0.3571   -0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6158    1.0774    0.0010 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1263   -1.2139    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7579    0.8612    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6093    0.0896    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1377   -0.5646    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2079   -1.5178    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9301    2.0437    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7882   -1.9842   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4549   -2.5718   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00544
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GHASVSINZRGABV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC1=CNC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H3FN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)
+
+> <INCHI_KEY>
+GHASVSINZRGABV-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H3FN2O2
+
+> <MOLECULAR_WEIGHT>
+130.0772
+
+> <EXACT_MASS>
+130.017855555
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.459437340468295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-0.6558480899999999
+
+> <ALOGPS_LOGS>
+-1.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.023248133002948
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.762457313361896
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.97367679819375
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+26.1722
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fluorouracil
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

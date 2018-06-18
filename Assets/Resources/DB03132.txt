@@ -1,0 +1,160 @@
+73555170
+  -OEChem-10051720093D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    3.7418    1.1435    0.1349 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6743   -2.4979   -0.9475 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312   -0.0001   -1.6964 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4329    0.9502    1.4087 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6131    1.4382   -1.0016 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5272    1.9540    0.2081 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4813   -1.4528    0.2728 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.1815   -0.9634    0.8500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1268   -0.4695   -0.2377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6334   -2.3674    0.6001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4352   -0.4607    0.3020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6142   -1.3612   -0.7117 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2896    0.4558   -0.7321 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4676   -0.3287    1.2416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1680    1.5396   -0.8694 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3462    0.7510    1.1085 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1978    1.6694    0.0696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7136   -0.9844    1.8095 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3548   -0.2574    0.9920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9891   -1.1373   -0.3369 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6324   -0.3947   -1.2106 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9958   -2.6729    1.4364 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4587   -3.0849    0.5422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3755   -2.2351    0.9145 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5883   -1.0400    2.0523 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0592    2.2586   -1.6749 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1545    0.8750    1.8243 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8931    2.5009   -0.0137 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 24  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+M  CHG  2   4  -1   7   1
+M  END
+> <DATABASE_ID>
+DB03132
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XBNHRNFODJOFRU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(=O)(=O)CCCSC1=NC2=C(S1)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO3S3/c12-17(13,14)7-3-6-15-10-11-8-4-1-2-5-9(8)16-10/h1-2,4-5H,3,6-7H2,(H,12,13,14)
+
+> <INCHI_KEY>
+XBNHRNFODJOFRU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11NO3S3
+
+> <MOLECULAR_WEIGHT>
+289.394
+
+> <EXACT_MASS>
+288.990105293
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.809887966605054
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(1,3-benzothiazol-2-ylsulfanyl)propane-1-sulfonic acid
+
+> <ALOGPS_LOGP>
+1.19
+
+> <JCHEM_LOGP>
+0.2991651181401332
+
+> <ALOGPS_LOGS>
+-3.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.2753092941271538
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.1075680672091517
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.26
+
+> <JCHEM_REFRACTIVITY>
+68.96179999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-(1,3-benzothiazol-2-ylsulfanyl)propane-1-sulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

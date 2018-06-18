@@ -1,0 +1,157 @@
+5284583
+  -OEChem-10051719313D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+   -1.6080    0.0129   -1.9613 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8869   -0.7536    0.5572 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4043    0.0188    0.0618 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3881   -2.0416   -0.6127 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6702   -0.3064    1.4430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9318    0.3256   -0.4010 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1787   -0.1961    1.5381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6618   -0.5715    0.1423 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5260   -0.1295   -0.7505 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4522    1.6489    0.1687 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8419   -0.8530   -0.0815 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5481    2.8456   -0.1041 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9016    0.4157   -1.4949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1716    0.3866    2.1251 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3353   -1.3296    1.6408 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4614    0.8421    1.7533 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6038   -0.8294    2.3218 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5898   -0.0575   -0.1193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7883   -1.6538    0.0401 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4413    1.8548   -0.2602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6074    1.5683    1.2516 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3684    2.9618   -1.1775 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4176    2.7413    0.3996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0184    3.7635    0.2629 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5273   -2.1033   -1.1466 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9063   -2.9039   -0.4807 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 11  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 25  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01202
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HPHUVLMMVZITSG-LURJTMIESA-N/SDF?record_type=3d
+
+> <SMILES>
+CC[C@H](N1CCCC1=O)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H14N2O2/c1-2-6(8(9)12)10-5-3-4-7(10)11/h6H,2-5H2,1H3,(H2,9,12)/t6-/m0/s1
+
+> <INCHI_KEY>
+HPHUVLMMVZITSG-LURJTMIESA-N
+
+> <FORMULA>
+C8H14N2O2
+
+> <MOLECULAR_WEIGHT>
+170.212
+
+> <EXACT_MASS>
+170.105527699
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.794020666665045
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-(2-oxopyrrolidin-1-yl)butanamide
+
+> <ALOGPS_LOGP>
+-0.64
+
+> <JCHEM_LOGP>
+-0.5936059006666665
+
+> <ALOGPS_LOGS>
+0.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.08866335264141
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5563529151976954
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.4
+
+> <JCHEM_REFRACTIVITY>
+44.0793
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.98e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levetiracetam
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

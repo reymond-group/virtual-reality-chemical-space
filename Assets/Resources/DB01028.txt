@@ -1,0 +1,122 @@
+4116
+  -OEChem-10051719283D
+
+ 12 11  0     0  0  0  0  0  0999 V2000
+    1.5212   -1.8146   -0.0615 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3480    0.9725   -0.0168 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2812    0.3042   -1.3497 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5778    1.4731    0.4770 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2707   -0.6731    0.4434 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2689    0.2391    0.0038 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0991   -0.1813    0.5146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5696   -0.3199   -0.0109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1130   -0.2073    1.6080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8590    0.6631    0.3721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2784   -1.0617    0.3670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6109   -0.3263   -1.1041 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01028
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RFKMCNOHBTXSMU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC(F)(F)C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4Cl2F2O/c1-8-3(6,7)2(4)5/h2H,1H3
+
+> <INCHI_KEY>
+RFKMCNOHBTXSMU-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H4Cl2F2O
+
+> <MOLECULAR_WEIGHT>
+164.966
+
+> <EXACT_MASS>
+163.960726574
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.460974551087322
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,2-dichloro-1,1-difluoro-1-methoxyethane
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+2.305878239333333
+
+> <ALOGPS_LOGS>
+-1.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.525713698322523
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+27.974999999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.46e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methoxyflurane
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

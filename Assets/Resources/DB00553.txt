@@ -1,0 +1,152 @@
+4114
+  -OEChem-10051719183D
+
+ 24 26  0     0  0  0  0  0  0999 V2000
+    2.9262   -0.6841    0.1847 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9069   -0.9016    0.1373 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4864   -2.2724    0.3179 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1969   -0.8986    0.1036 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7101    1.2076   -0.0344 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6637   -0.1757    0.1122 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7108    1.2100   -0.0701 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6938   -0.1768    0.0777 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4872   -0.9183    0.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4985    1.9204   -0.1282 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0889    1.5473   -0.0501 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9943    1.8883   -0.1608 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7813    0.3666    0.0859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1326    1.1929   -0.1035 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1441   -0.2725    0.0521 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1371   -3.0330   -0.6985 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5090    3.0009   -0.2431 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5237    2.5320   -0.1485 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0115    2.9666   -0.2757 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8317    0.1183    0.1278 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0913    1.6956   -0.1708 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9594   -2.6084   -1.6924 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7266   -4.0466   -0.6781 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2102   -3.0942   -0.4973 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00553
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QXKHYNVANLEOEG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=C2OC(=O)C=CC2=CC2=C1OC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H8O4/c1-14-12-10-8(4-5-15-10)6-7-2-3-9(13)16-11(7)12/h2-6H,1H3
+
+> <INCHI_KEY>
+QXKHYNVANLEOEG-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H8O4
+
+> <MOLECULAR_WEIGHT>
+216.192
+
+> <EXACT_MASS>
+216.042258738
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.978883414920794
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+9-methoxy-7H-furo[3,2-g]chromen-7-one
+
+> <ALOGPS_LOGP>
+2.10
+
+> <JCHEM_LOGP>
+1.7848117503333332
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9251351971985664
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.67
+
+> <JCHEM_REFRACTIVITY>
+56.852900000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.64e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methoxsalen
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

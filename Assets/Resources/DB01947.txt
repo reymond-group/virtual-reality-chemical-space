@@ -1,0 +1,145 @@
+5287463
+  -OEChem-10051719453D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    2.4592   -0.1546   -0.0763 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9342   -0.6948   -0.0572 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590    0.5168    1.3817 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3219   -1.5193    0.0324 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8171    0.7140   -1.2471 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7436   -2.4527   -0.0151 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1773    0.0932   -0.0285 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4537   -0.4691   -0.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0258    1.4797   -0.0136 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5786    0.3551    0.0168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1507    2.3040    0.0166 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4271    1.7417    0.0317 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6344   -1.9141   -0.0283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9423    1.9669   -0.0195 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5836   -0.0584    0.0293 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0335    3.3837    0.0295 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3027    2.3837    0.0555 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7252   -2.5371   -0.0522 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5039    0.9730    1.5819 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2972   -1.4720   -0.0602 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01947
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BYNSFVCWJXZPOW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)OC1=C(C=O)C=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7O5P/c8-5-6-3-1-2-4-7(6)12-13(9,10)11/h1-5H,(H2,9,10,11)
+
+> <INCHI_KEY>
+BYNSFVCWJXZPOW-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7O5P
+
+> <MOLECULAR_WEIGHT>
+202.1012
+
+> <EXACT_MASS>
+202.003109846
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.333977022216665
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2-formylphenoxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+0.04
+
+> <JCHEM_LOGP>
+0.7283176933333334
+
+> <ALOGPS_LOGS>
+-1.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.7203914033288985
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.754495324461658
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.300539619649049
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.82999999999998
+
+> <JCHEM_REFRACTIVITY>
+45.4958
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-formylphenoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

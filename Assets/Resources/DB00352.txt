@@ -1,0 +1,138 @@
+2723601
+  -OEChem-10051719133D
+
+ 16 17  0     0  0  0  0  0  0999 V2000
+   -0.1376    3.0286   -0.0004 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6932   -1.4514   -0.0011 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0508    0.6347    0.0006 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7267   -1.5747    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6595    0.7670    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9771   -1.1717    0.0009 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6927    0.4572   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5377   -0.9093   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4126    1.3780   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7532   -0.5469   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6254   -0.6115    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8664   -2.4511   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5409    1.5194    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6980   -0.7436    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0556   -2.1827    0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8387   -0.6367    0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00352
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WYWHKKSPHMUBEB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=S)C2=C(N1)N=CN2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H5N5S/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H4,6,7,8,9,10,11)
+
+> <INCHI_KEY>
+WYWHKKSPHMUBEB-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H5N5S
+
+> <MOLECULAR_WEIGHT>
+167.192
+
+> <EXACT_MASS>
+167.026565875
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.645580884623488
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6,7-dihydro-3H-purine-6-thione
+
+> <ALOGPS_LOGP>
+-0.36
+
+> <JCHEM_LOGP>
+-0.34946934999999996
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.254381575136076
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.526449965810505
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7004519894928056
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.09
+
+> <JCHEM_REFRACTIVITY>
+46.891999999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.34e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thioguanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

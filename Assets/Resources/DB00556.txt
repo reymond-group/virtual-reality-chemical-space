@@ -1,0 +1,117 @@
+6432
+  -OEChem-10051719183D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+    0.0000    1.4092    1.0818 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0001    1.4014   -1.0965 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3335   -1.0243   -1.0873 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3173   -1.0144    1.0936 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3606    0.5613    0.0048 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3195   -1.0111    1.0959 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3607    0.5612    0.0001 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3312   -1.0277   -1.0850 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.5953   -0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2637   -0.2255   -0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2637   -0.2255   -0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00556
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QYSGYZVSCZSLHT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)(F)C(F)(F)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3F8/c4-1(5,2(6,7)8)3(9,10)11
+
+> <INCHI_KEY>
+QYSGYZVSCZSLHT-UHFFFAOYSA-N
+
+> <FORMULA>
+C3F8
+
+> <MOLECULAR_WEIGHT>
+188.0193
+
+> <EXACT_MASS>
+187.98722564
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.095292017715581
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+octafluoropropane
+
+> <ALOGPS_LOGP>
+2.96
+
+> <JCHEM_LOGP>
+2.7823601316666666
+
+> <ALOGPS_LOGS>
+-3.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+17.5372
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+definity
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

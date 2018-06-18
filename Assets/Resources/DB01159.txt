@@ -1,0 +1,111 @@
+3562
+  -OEChem-10051719313D
+
+  8  7  0     1  0  0  0  0  0999 V2000
+    1.8251   -1.4119   -0.0431 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4929    1.6011   -0.0491 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4418    0.9828    0.4379 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146   -0.0521   -1.3396 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2388   -1.1818    0.4537 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6665   -0.0400    0.0097 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7437    0.1019    0.5305 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7650    0.1033    1.6235 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01159
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BCQZXOMGPXTTIC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)(F)C(Cl)Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H
+
+> <INCHI_KEY>
+BCQZXOMGPXTTIC-UHFFFAOYSA-N
+
+> <FORMULA>
+C2HBrClF3
+
+> <MOLECULAR_WEIGHT>
+197.382
+
+> <EXACT_MASS>
+195.890225001
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.783667227362901
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-bromo-2-chloro-1,1,1-trifluoroethane
+
+> <ALOGPS_LOGP>
+2.50
+
+> <JCHEM_LOGP>
+2.1193551299999998
+
+> <ALOGPS_LOGS>
+-1.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+24.633099999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.81e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+halothane
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

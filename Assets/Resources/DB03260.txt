@@ -1,0 +1,146 @@
+16402
+  -OEChem-10051720123D
+
+ 24 23  0     0  0  0  0  0  0999 V2000
+    4.3724    0.2809   -0.0138 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3656   -0.2907   -0.0009 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6098   -0.4287    0.0161 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6327    0.4647    0.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9244    0.3576    0.0385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9160   -0.3703    0.0151 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1629   -0.5353   -0.0296 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1553    0.5218   -0.0313 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5941   -1.0747   -0.8706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5760   -1.0905    0.8904 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6141    1.1053   -0.8840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6168    1.1252    0.8813 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9593    0.9672    0.9507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9325    1.0560   -0.8085 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9373   -0.9934    0.9182 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9157   -1.0502   -0.8463 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1795   -1.2197    0.8250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1436   -1.1400   -0.9428 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1545    1.1300   -0.9421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1643    1.2079    0.8224 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3787    0.9009   -0.8227 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1879   -0.3227   -0.1103 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3700   -0.8673    0.8398 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3610   -0.9413   -0.7857 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 21  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 23  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03260
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NAQMVNRVTILPCV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCCCCCN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2
+
+> <INCHI_KEY>
+NAQMVNRVTILPCV-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H16N2
+
+> <MOLECULAR_WEIGHT>
+116.2046
+
+> <EXACT_MASS>
+116.131348522
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.175615887204192
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hexane-1,6-diamine
+
+> <ALOGPS_LOGP>
+0.27
+
+> <JCHEM_LOGP>
+0.04401706599999997
+
+> <ALOGPS_LOGS>
+-0.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.506527191962237
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.04
+
+> <JCHEM_REFRACTIVITY>
+36.5806
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.34e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,6-diaminohexane
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

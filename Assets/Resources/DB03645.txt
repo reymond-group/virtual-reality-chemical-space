@@ -1,0 +1,134 @@
+445375
+  -OEChem-10051720193D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    1.6512   -0.0133   -0.0768 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6587   -0.5669    1.4357 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7417    1.1720   -0.0611 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8103   -1.0352   -1.1491 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0562   -1.2058    0.0889 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4774    0.0048    0.0340 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2911    0.7420   -0.0780 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0919    0.8885   -0.1572 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1291    0.0138   -0.0364 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0462    1.4208   -1.1135 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0696    1.6329    0.6464 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4061   -1.1266    1.7358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6955    0.9434   -0.0459 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3738    1.7361   -0.2593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0474    0.4972   -0.5806 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03645
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LDKRAXXVBWHMRH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ONC(=O)CP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6NO5P/c4-2(3-5)1-9(6,7)8/h5H,1H2,(H,3,4)(H2,6,7,8)
+
+> <INCHI_KEY>
+LDKRAXXVBWHMRH-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H6NO5P
+
+> <MOLECULAR_WEIGHT>
+155.0465
+
+> <EXACT_MASS>
+154.998358819
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.003661547041569
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(hydroxycarbamoyl)methyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.30
+
+> <JCHEM_LOGP>
+-2.521418272333333
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.084902869718666
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.6579703891763677
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.52588443954262
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.86000000000001
+
+> <JCHEM_REFRACTIVITY>
+27.220799999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phosphonoacetohydroxamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

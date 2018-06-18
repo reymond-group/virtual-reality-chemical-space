@@ -1,0 +1,128 @@
+1349907
+  -OEChem-10051719223D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+   -2.2486   -0.8433    0.0002 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0190    0.7909   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4221   -1.4165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6323   -0.4711   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3831    0.5701    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5619    2.1175    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6186   -0.7476    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0896    1.3843    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2278    2.6508    0.8950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6528    2.0700   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2254    2.6526   -0.8927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3265   -2.4244    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5570   -1.2760    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 12  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00763
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PMRYVIKBURPHAH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1C=CNC1=S
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2S/c1-6-3-2-5-4(6)7/h2-3H,1H3,(H,5,7)
+
+> <INCHI_KEY>
+PMRYVIKBURPHAH-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6N2S
+
+> <MOLECULAR_WEIGHT>
+114.169
+
+> <EXACT_MASS>
+114.025168892
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.63833435680311
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-methyl-2,3-dihydro-1H-imidazole-2-thione
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+0.7456704696666666
+
+> <ALOGPS_LOGS>
+-1.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.411967101924702
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.000000002357205
+
+> <JCHEM_POLAR_SURFACE_AREA>
+15.27
+
+> <JCHEM_REFRACTIVITY>
+33.2322
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methimazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

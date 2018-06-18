@@ -1,0 +1,128 @@
+983
+  -OEChem-10051720243D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    0.0138   -1.1082   -0.0127 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4596    0.4818    0.0591 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5283    0.4138   -0.0429 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8764    0.2165    0.2310 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4771   -0.6762    0.5190 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5021   -2.1300    1.1287 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0127   -1.6524   -1.4104 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6067    2.0703    0.3229 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6916    0.3480   -1.5347 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6965    0.4175    1.0753 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7758    1.8229    0.2020 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3452   -0.3808    0.9090 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0029    0.1768   -1.4462 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3518   -2.6015    0.9944 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5042    2.4646    0.3578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7343   -0.5467   -1.9347 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5058    0.9480    0.9143 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0625    2.0935   -0.4146 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  2  0  0  0  0
+  6 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03896
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UNXRWKVEANCORM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)OP(O)(=O)OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H5O10P3/c1-11(2,3)9-13(7,8)10-12(4,5)6/h(H,7,8)(H2,1,2,3)(H2,4,5,6)
+
+> <INCHI_KEY>
+UNXRWKVEANCORM-UHFFFAOYSA-N
+
+> <FORMULA>
+H5O10P3
+
+> <MOLECULAR_WEIGHT>
+257.955
+
+> <EXACT_MASS>
+257.909555916
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.666679094598368
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[hydroxy(phosphonooxy)phosphoryl]oxy}phosphonic acid
+
+> <JCHEM_LOGP>
+-1.8637007806666663
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+2.430160127721359
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.8897367049259062
+
+> <JCHEM_POLAR_SURFACE_AREA>
+170.82
+
+> <JCHEM_REFRACTIVITY>
+36.3977
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tripolyphosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

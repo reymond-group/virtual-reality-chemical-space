@@ -1,0 +1,136 @@
+4033
+  -OEChem-10051719253D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    3.9109    0.6408    0.1519 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9089    0.6512    0.1363 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0006   -0.2360   -0.2536 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2021    0.4978    0.1422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2005    0.5033    0.1334 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0047   -1.5697    0.3463 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4430   -0.2359   -0.3426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4426   -0.2516   -0.3139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2406    0.6322    1.2315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1866    1.4983   -0.3088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1928    1.4900   -0.3470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2294    0.6688    1.2188 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8430   -2.1807    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0279   -1.5341    1.4418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8512   -2.1765    0.0403 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5704   -1.2265    0.0940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4592   -0.3248   -1.4334 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4608   -0.3963   -1.3987 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5684   -1.2178    0.1760 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00888
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HAWPXGHAZFHHAD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(CCCl)CCCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11Cl2N/c1-8(4-2-6)5-3-7/h2-5H2,1H3
+
+> <INCHI_KEY>
+HAWPXGHAZFHHAD-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11Cl2N
+
+> <MOLECULAR_WEIGHT>
+156.054
+
+> <EXACT_MASS>
+155.026854771
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.841124230761807
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+bis(2-chloroethyl)(methyl)amine
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.5191491536666664
+
+> <ALOGPS_LOGS>
+-0.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.075351573449495
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+38.6747
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.34e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mechlorethamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

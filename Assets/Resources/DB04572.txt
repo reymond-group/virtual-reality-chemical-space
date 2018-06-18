@@ -1,0 +1,147 @@
+5453
+  -OEChem-10051721283D
+
+ 23 25  0     0  0  0  0  0  0999 V2000
+   -0.3484    0.9498    2.1094 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0615    0.0526    0.3907 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3578    0.1092   -0.6574 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2829   -1.5760    0.4968 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2002    0.6587   -0.5169 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5494   -0.6123   -0.2417 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5054    0.8877   -0.2208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6365   -2.2383   -0.7481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6727   -1.9546    0.2999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0376    2.0148   -1.0142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926    1.7084    0.1022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5323   -1.1384    0.7027 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1075   -1.0924   -1.0340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0300    1.4132   -1.0106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5839    1.3712    0.7382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6556   -1.6666   -1.6652 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2870   -3.2573   -0.8504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0121   -2.7887    0.9036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4459   -1.2307    0.0988 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1290    2.5500   -0.7762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4496    2.2072   -1.9955 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0497    1.6867   -0.1376 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7827    2.1426    1.0649 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04572
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FOCVUCIESVLUNU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+S=P(N1CC1)(N1CC1)N1CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N3PS/c11-10(7-1-2-7,8-3-4-8)9-5-6-9/h1-6H2
+
+> <INCHI_KEY>
+FOCVUCIESVLUNU-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H12N3PS
+
+> <MOLECULAR_WEIGHT>
+189.218
+
+> <EXACT_MASS>
+189.048954601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.228092043834042
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+tris(aziridin-1-yl)-λ⁵-phosphanethione
+
+> <ALOGPS_LOGP>
+0.17
+
+> <JCHEM_LOGP>
+-1.0273805153333337
+
+> <ALOGPS_LOGS>
+-1.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.29921290491100205
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.03
+
+> <JCHEM_REFRACTIVITY>
+50.72220000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.27e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thiophosphamide
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

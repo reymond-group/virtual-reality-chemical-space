@@ -1,0 +1,161 @@
+87901
+  -OEChem-10051720033D
+
+ 28 28  0     1  0  0  0  0  0999 V2000
+   -1.5233    1.2016    0.1958 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8906   -2.1805    0.2659 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8891   -2.4150   -0.4037 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2068    1.1059   -0.2445 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2599    2.5642    0.2348 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4087   -0.6206    0.9702 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9323    0.5265   -0.4171 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1231   -1.0959   -0.2601 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3225   -1.2490    0.1868 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1049   -0.0299   -0.2761 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7096    0.1994    0.2806 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1868    1.4194    0.1878 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5495   -0.0608    0.2152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1802    0.0854   -0.0086 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2787    0.5493   -0.9271 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1971   -1.1475   -1.3538 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3596   -1.3671    1.2771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9504    0.0721    1.3444 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1234    0.0289   -1.3725 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5879   -0.0562    1.3097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0907   -0.9326   -0.1629 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8639    1.0818   -1.2659 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4868   -3.0045   -0.0566 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7138   -2.6169    0.0693 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1208    1.0695    0.0852 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2503    0.3739   -0.4569 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2271   -0.0076   -1.8666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1773    1.6191   -1.1311 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6 14  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02813
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NELQYZRSPDCGRQ-DBRKOABJSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)OC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13NO6/c1-3(11)9-5-7(13)6(12)4(2-10)15-8(5)14/h4-7,10,12-13H,2H2,1H3,(H,9,11)/t4-,5-,6-,7-/m1/s1
+
+> <INCHI_KEY>
+NELQYZRSPDCGRQ-DBRKOABJSA-N
+
+> <FORMULA>
+C8H13NO6
+
+> <MOLECULAR_WEIGHT>
+219.1919
+
+> <EXACT_MASS>
+219.074287153
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.287984233834866
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[(3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-oxooxan-3-yl]acetamide
+
+> <ALOGPS_LOGP>
+-2.04
+
+> <JCHEM_LOGP>
+-3.033308379666667
+
+> <ALOGPS_LOGS>
+0.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.866534432715504
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.598223801229564
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2594417022038877
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.09
+
+> <JCHEM_REFRACTIVITY>
+45.880100000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.33e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-[(3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-oxooxan-3-yl]acetamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

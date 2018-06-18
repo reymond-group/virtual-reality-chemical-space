@@ -1,0 +1,117 @@
+5289158
+  -OEChem-10051719553D
+
+ 12 11  0     1  0  0  0  0  0999 V2000
+    2.9165   -1.2999    0.0229 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4855   -0.0860   -0.0792 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4900    0.0430    0.0797 P   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0147   -0.6541    0.1150 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6693    0.8916    1.1956 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4280   -1.3478    0.2827 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3728    0.7978   -1.3653 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7496    0.5526   -1.4107 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5384    1.1028    1.1593 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.7818    1.5775   -1.4372 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4774    1.4443    1.2572 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3985   -1.2643    0.1674 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  CHG  1   9  -1
+M  END
+> <DATABASE_ID>
+DB02423
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HWTUHTNZLQJJEV-UHFFFAOYSA-M/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)O[P@](O)([S-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H4O6P2S/c1-7(2,3)6-8(4,5)9/h(H2,1,2,3)(H2,4,5,9)/p-1
+
+> <INCHI_KEY>
+HWTUHTNZLQJJEV-UHFFFAOYSA-M
+
+> <FORMULA>
+H3O6P2S
+
+> <MOLECULAR_WEIGHT>
+193.033
+
+> <EXACT_MASS>
+192.912556542
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.084396256785272
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[hydroxy(sulfanidyl)phosphoryl]oxy}phosphonic acid
+
+> <JCHEM_LOGP>
+-0.6963212819999999
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+2.837948463106372
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.8904538695060769
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+32.394
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thiopyrophosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

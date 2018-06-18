@@ -1,0 +1,159 @@
+3899
+  -OEChem-10051719293D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+   -5.0481    1.4396    0.0330 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3037   -0.4143   -1.0733 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2600   -0.4465    1.1058 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4998   -0.2095    0.0295 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7343    1.5961   -0.0130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9291   -0.5984   -0.0370 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0619   -1.5284    0.0352 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4545   -0.4197   -0.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2211   -0.0624    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3119   -0.1355   -0.0047 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9914    0.8676   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3010   -1.5283   -0.0334 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3747    1.0462    0.0091 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6844   -1.3496   -0.0207 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9345    0.3851   -0.0309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4250    0.6195    0.0052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7003    0.1285    0.0134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7282   -1.4499    0.0142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7145    2.0599   -0.0043 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4077    1.7767    0.0042 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8968   -2.5373   -0.0499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2210   -1.5717   -0.0487 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7735    2.0569    0.0254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3358   -2.2195   -0.0277 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1678   -2.3728    0.0147 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7924    2.2519   -0.0027 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2928    2.5328   -0.8966 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2876    2.5451    0.8788 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 19 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01097
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VHOGYURTWQBHIL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C=NO1)C(=O)NC1=CC=C(C=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9F3N2O2/c1-7-10(6-16-19-7)11(18)17-9-4-2-8(3-5-9)12(13,14)15/h2-6H,1H3,(H,17,18)
+
+> <INCHI_KEY>
+VHOGYURTWQBHIL-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9F3N2O2
+
+> <MOLECULAR_WEIGHT>
+270.2073
+
+> <EXACT_MASS>
+270.061612157
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.107332045693916
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-methyl-N-[4-(trifluoromethyl)phenyl]-1,2-oxazole-4-carboxamide
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.507085826
+
+> <ALOGPS_LOGS>
+-3.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.412348150077646
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.44625320958288917
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.13
+
+> <JCHEM_REFRACTIVITY>
+64.15690000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.44e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+leflunomide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

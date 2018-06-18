@@ -1,0 +1,139 @@
+123648
+  -OEChem-10051720023D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    4.0543   -0.5771    0.0050 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4533   -2.0082   -1.1872 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5370   -2.0655    1.0735 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8908    2.4594   -0.0112 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.5826    0.3763    0.0248 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6623    1.2270    0.0070 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.0045   -0.5819    0.0269 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3121    0.7785    0.0072 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3276   -0.9957    0.0264 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7125    1.7250   -0.0129 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3521   -0.0493    0.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0445    1.3111   -0.0137 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0483   -1.5997    0.0484 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5612   -2.0585    0.0419 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5147    2.7938   -0.0286 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8264    2.0664   -0.0298 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6146    0.6414   -0.0147 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1551   -2.6914   -1.1330 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 16  1  0  0  0  0
+M  CHG  2   4  -1   6   1
+M  END
+> <DATABASE_ID>
+DB02763
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GANZODCWZFAEGN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC(S)=CC=C1[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5NO4S/c9-7(10)5-3-4(13)1-2-6(5)8(11)12/h1-3,13H,(H,9,10)
+
+> <INCHI_KEY>
+GANZODCWZFAEGN-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5NO4S
+
+> <MOLECULAR_WEIGHT>
+199.184
+
+> <EXACT_MASS>
+198.993928343
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.37595118420083
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-nitro-5-sulfanylbenzoic acid
+
+> <ALOGPS_LOGP>
+2.16
+
+> <JCHEM_LOGP>
+1.6640200929999998
+
+> <ALOGPS_LOGS>
+-3.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.222245000174914
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.1859486842803797
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.12
+
+> <JCHEM_REFRACTIVITY>
+48.64870000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thionitrobenzoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

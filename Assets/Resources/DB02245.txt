@@ -1,0 +1,140 @@
+4470573
+  -OEChem-10051719513D
+
+ 17 18  0     0  0  0  0  0  0999 V2000
+    0.2140    2.5938    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7300   -1.3624    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7502   -1.5544    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6805    0.8113    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0211   -1.1244    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7353    0.4492   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1704    0.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5527   -0.8785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6544   -0.6235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4143    1.3829   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8032   -0.4950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4998    1.3169   -0.9034 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4996    1.3168    0.9036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8515   -2.3684    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7330   -0.8394    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0938   -2.1360    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8859   -0.5946    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02245
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LOSIULRWFAEMFL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC2=C(CC=N2)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N4O/c7-6-9-4-3(1-2-8-4)5(11)10-6/h2H,1H2,(H3,7,9,10,11)
+
+> <INCHI_KEY>
+LOSIULRWFAEMFL-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6N4O
+
+> <MOLECULAR_WEIGHT>
+150.138
+
+> <EXACT_MASS>
+150.054160834
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.906482408169788
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-3H,4H,5H-pyrrolo[2,3-d]pyrimidin-4-one
+
+> <ALOGPS_LOGP>
+-1.22
+
+> <JCHEM_LOGP>
+-1.0636045823333333
+
+> <ALOGPS_LOGS>
+-1.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.554139311750918
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.208927216739854
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.439946798539723
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.84
+
+> <JCHEM_REFRACTIVITY>
+47.817600000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.76e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7-deazaguanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

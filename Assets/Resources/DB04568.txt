@@ -1,0 +1,162 @@
+448820
+  -OEChem-10051720373D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+    0.9422   -0.5709   -0.9246 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2329    2.3758    1.0078 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4291    2.0666   -0.5627 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6572   -2.6690   -0.2037 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2656   -0.1823   -0.1470 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7296   -1.7352    0.4797 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6680    1.6573   -0.7029 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7000    1.0632    0.7724 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1598    1.0164    0.3660 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0287    0.4305   -0.4371 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2515   -0.3204   -0.3631 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6069   -1.4771    0.5606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5021    0.3908   -0.2725 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4557   -1.4598    0.3080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3873   -0.5859    0.1191 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5370    0.4653    1.6766 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8491    1.1283    1.2077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1220    1.1462   -1.2529 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -0.2881   -1.2054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8612   -1.6190    1.3491 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5855   -1.3239    1.0250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4270    2.9101    0.2189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3578    1.9792   -0.8376 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6388   -2.1414    0.5017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4653   -0.5226    0.1610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7838   -2.7915   -0.6135 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8966    2.2733   -0.9366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5914    2.0693   -0.7956 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 14  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 27  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04568
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NKYAAYKKNSYIIW-XVFCMESISA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(CO)O[C@@]([H])(N2C=NC=C2N)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N3O4/c9-5-1-10-3-11(5)8-7(14)6(13)4(2-12)15-8/h1,3-4,6-8,12-14H,2,9H2/t4-,6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+NKYAAYKKNSYIIW-XVFCMESISA-N
+
+> <FORMULA>
+C8H13N3O4
+
+> <MOLECULAR_WEIGHT>
+215.2065
+
+> <EXACT_MASS>
+215.090605919
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.256717345138266
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R)-2-(5-amino-1H-imidazol-1-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-1.50
+
+> <JCHEM_LOGP>
+-2.444810294
+
+> <ALOGPS_LOGS>
+-0.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.891448544566309
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.454636222858003
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.908584977736245
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.76
+
+> <JCHEM_REFRACTIVITY>
+49.562799999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.07e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,3R,4S,5R)-2-(5-aminoimidazol-1-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,145 @@
+6854
+  -OEChem-10051721003D
+
+ 22 24  0     0  0  0  0  0  0999 V2000
+    0.0000    1.6351    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155   -0.4768    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7156   -0.4768    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1320    0.8546    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1320    0.8547    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6969   -1.4903    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6968   -1.4904    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4814    1.2258   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4814    1.2258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0504   -1.1348   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0504   -1.1348   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4347    0.2039   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4346    0.2040   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0001    2.6458    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4130   -2.5389    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4130   -2.5390    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7814    2.2684   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7814    2.2683   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8088   -1.9132   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8088   -1.9132   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4913    0.4591   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4913    0.4591   -0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07301
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UJOBWOGCFQCDNV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1C2=CC=CC=C2C2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9N/c1-3-7-11-9(5-1)10-6-2-4-8-12(10)13-11/h1-8,13H
+
+> <INCHI_KEY>
+UJOBWOGCFQCDNV-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9N
+
+> <MOLECULAR_WEIGHT>
+167.2066
+
+> <EXACT_MASS>
+167.073499293
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.816267005629754
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+9H-carbazole
+
+> <ALOGPS_LOGP>
+3.69
+
+> <JCHEM_LOGP>
+3.0908856893333327
+
+> <ALOGPS_LOGS>
+-3.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.973866610582505
+
+> <JCHEM_POLAR_SURFACE_AREA>
+15.79
+
+> <JCHEM_REFRACTIVITY>
+53.47220000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.69e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+carbazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

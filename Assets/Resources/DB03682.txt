@@ -1,0 +1,161 @@
+3022
+  -OEChem-10051720203D
+
+ 27 29  0     0  0  0  0  0  0999 V2000
+    0.0001   -0.6641    0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1166   -1.9035   -0.0024 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1166   -1.9036   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9656   -2.6379    0.0010 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9655   -2.6380    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7128    1.4822    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7128    1.4822    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0961    0.1446    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0961    0.1446    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4208   -0.2891    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4208   -0.2891    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7187    2.4661    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7187    2.4662   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022    0.7062   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4023    0.7061   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0601    2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0601    2.0603   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7696   -1.6966    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7695   -1.6967   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4691    3.5229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4691    3.5230   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4613    0.4594   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4614    0.4593   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8449    2.8125   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8449    2.8124   -0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3386   -2.8591   -0.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3385   -2.8591   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5 19  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03682
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HBBGSNOHAGNQRQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC=CC2=C1OC1=C2C=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H8O5/c15-13(16)9-5-1-3-7-8-4-2-6-10(14(17)18)12(8)19-11(7)9/h1-6H,(H,15,16)(H,17,18)
+
+> <INCHI_KEY>
+HBBGSNOHAGNQRQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H8O5
+
+> <MOLECULAR_WEIGHT>
+256.2103
+
+> <EXACT_MASS>
+256.037173366
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.79337017254304
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-oxatricyclo[7.4.0.0²,⁷]trideca-1(9),2(7),3,5,10,12-hexaene-6,10-dicarboxylic acid
+
+> <ALOGPS_LOGP>
+2.38
+
+> <JCHEM_LOGP>
+2.466412913
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.5239405635139187
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.8687600065077503
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.484415893030907
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+65.7392
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.27e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+8-oxatricyclo[7.4.0.0²,⁷]trideca-1(9),2(7),3,5,10,12-hexaene-6,10-dicarboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

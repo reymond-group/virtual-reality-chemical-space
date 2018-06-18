@@ -1,0 +1,147 @@
+347590
+  -OEChem-10051720213D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    1.5557   -0.2789    0.8144 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2038    1.6074   -0.4634 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5675    1.9631   -0.1160 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8607    0.7249   -0.2548 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7475   -1.1293   -0.2444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6273    0.8194    0.9069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1558   -0.2502   -1.2077 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6887   -0.0612    1.1157 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2173   -1.1307   -0.9988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3845    1.2723   -0.0307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9837   -1.0362    0.1629 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0746   -2.5005    0.3158 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3264   -1.2288   -1.2499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6696   -0.5455   -0.3195 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4075    1.5770    1.6547 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5658   -0.3314   -2.1170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2856    0.0125    2.0200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4472   -1.8899   -1.7406 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8102   -1.7219    0.3255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5229   -2.4315    1.3128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1824   -3.1330    0.3777 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7940   -3.0076   -0.3358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6132    2.8680   -0.5717 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4206    1.6100    0.3028 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03707
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LAXNJIWNBHHMDO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCS\C(N)=N\C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2S/c1-2-12-9(10)11-8-6-4-3-5-7-8/h3-7H,2H2,1H3,(H2,10,11)
+
+> <INCHI_KEY>
+LAXNJIWNBHHMDO-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12N2S
+
+> <MOLECULAR_WEIGHT>
+180.27
+
+> <EXACT_MASS>
+180.072119084
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.21468661995613
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(E)-N'-phenyl(ethylsulfanyl)methanimidamide
+
+> <ALOGPS_LOGP>
+2.19
+
+> <JCHEM_LOGP>
+2.71558754
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.413644065736486
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.379999999999995
+
+> <JCHEM_REFRACTIVITY>
+56.05070000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-ethyl-N-phenyl-isothiourea
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,119 @@
+6409
+  -OEChem-10051720113D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+    0.4807   -0.7232    1.1234 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4751    0.8403   -0.0276 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4989   -0.8230   -1.0552 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9756   -0.1094    0.0036 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8841    0.7972   -0.0405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4050    0.0180   -0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9581    1.4801    0.8108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9575    1.3813   -0.9620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8951   -0.6244    0.8246 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03226
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RHQDFWAXVIIEBN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H3F3O/c3-2(4,5)1-6/h6H,1H2
+
+> <INCHI_KEY>
+RHQDFWAXVIIEBN-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H3F3O
+
+> <MOLECULAR_WEIGHT>
+100.0398
+
+> <EXACT_MASS>
+100.013599333
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.60629709154685
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,2,2-trifluoroethan-1-ol
+
+> <ALOGPS_LOGP>
+0.61
+
+> <JCHEM_LOGP>
+0.4365191683333333
+
+> <ALOGPS_LOGS>
+-0.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.49132298566903
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.333495326068365
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+13.711399999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trifluoroethanol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

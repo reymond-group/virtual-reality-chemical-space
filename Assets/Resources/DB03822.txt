@@ -1,0 +1,129 @@
+74190
+  -OEChem-10051720233D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+    0.9798   -0.0986    0.0062 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5625   -0.5910    0.0206 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0587    0.9524    1.2328 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0437    0.8506   -1.3015 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9974   -1.2012    0.0393 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5853    0.3895   -0.0089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9318   -0.3018    0.0115 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4930    1.0450    0.8623 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4932    0.9922   -0.9173 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7462    0.4277   -0.0102 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0345   -0.9717   -0.8485 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0346   -0.9194    0.9099 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9275    1.3414    1.4692 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9116    1.2079   -1.5866 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03822
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZJXZSIYSNXKHEA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7O4P/c1-2-6-7(3,4)5/h2H2,1H3,(H2,3,4,5)
+
+> <INCHI_KEY>
+ZJXZSIYSNXKHEA-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H7O4P
+
+> <MOLECULAR_WEIGHT>
+126.0483
+
+> <EXACT_MASS>
+126.008195224
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.816390041685665
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethoxyphosphonic acid
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+-0.2853351453333334
+
+> <ALOGPS_LOGS>
+-0.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.8273333510288055
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8043155661586594
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+23.8828
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.90e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl dihydrogen phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

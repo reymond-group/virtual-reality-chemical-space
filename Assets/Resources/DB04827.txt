@@ -1,0 +1,124 @@
+5641
+  -OEChem-10051720433D
+
+ 13 12  0     0  0  0  0  0  0999 V2000
+   -0.2530    0.4888   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2720   -1.2357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9439    0.9633    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3249   -0.4609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6431    0.2833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0052   -0.0386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2549   -1.0901   -0.8943 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2549   -1.0901    0.8943 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4858   -0.4138    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7199    0.9310    0.8795 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7200    0.9310   -0.8795 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6732    1.9409   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9371    0.7567   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04827
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JOYRKODLDBILNP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO2/c1-2-6-3(4)5/h2H2,1H3,(H2,4,5)
+
+> <INCHI_KEY>
+JOYRKODLDBILNP-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H7NO2
+
+> <MOLECULAR_WEIGHT>
+89.0932
+
+> <EXACT_MASS>
+89.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.644413257751996
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethyl carbamate
+
+> <ALOGPS_LOGP>
+-0.14
+
+> <JCHEM_LOGP>
+-0.054189237333333376
+
+> <ALOGPS_LOGS>
+0.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.473281507740328
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+20.8381
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.71e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+urethane
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

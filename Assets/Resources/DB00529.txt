@@ -1,0 +1,121 @@
+3415
+  -OEChem-10051719173D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+   -0.7096   -0.0151   -0.0918 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1603   -1.2916    0.7990 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2736    1.2210    0.7918 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2538   -0.0439   -1.4925 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7499   -1.1031    0.0053 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5859    1.1683    0.0045 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0615    0.0644   -0.0164 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1074   -1.5462    0.8149 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2399    1.3893    0.8063 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7191   -0.9561    0.0434 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00529
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZJAOAACCNHFJAH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH3O5P/c2-1(3)7(4,5)6/h(H,2,3)(H2,4,5,6)
+
+> <INCHI_KEY>
+ZJAOAACCNHFJAH-UHFFFAOYSA-N
+
+> <FORMULA>
+CH3O5P
+
+> <MOLECULAR_WEIGHT>
+126.0053
+
+> <EXACT_MASS>
+125.971809718
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.888062129212226
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+phosphonoformic acid
+
+> <ALOGPS_LOGP>
+-1.63
+
+> <JCHEM_LOGP>
+-0.8303841046666666
+
+> <ALOGPS_LOGS>
+-0.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.497768602888783
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-0.09567521963130154
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+19.0731
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.68e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+foscarnet
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

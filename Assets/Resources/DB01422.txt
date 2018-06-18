@@ -1,0 +1,144 @@
+19910
+  -OEChem-10051719353D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+    2.5229    2.1997    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4820    0.5549    0.0011 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.5989   -1.4596   -0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3816   -0.5497    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -0.2126    0.0003 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.0253   -0.4298   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2481    0.1770   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1877    0.3598   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3107    1.5678   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0958    1.7487   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0889   -1.8298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1552    2.3530   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0773   -2.5813    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2766   -1.8983    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9678    2.3970   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9434   -2.4825    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2297    3.4372    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0509   -3.6650    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2209   -2.4328    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2210    1.5220    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <DATABASE_ID>
+DB01422
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RJIWZDNTCBHXAL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=C2N=CC=CC2=C(C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H6N2O3/c12-8-4-3-7(11(13)14)6-2-1-5-10-9(6)8/h1-5,12H
+
+> <INCHI_KEY>
+RJIWZDNTCBHXAL-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H6N2O3
+
+> <MOLECULAR_WEIGHT>
+190.1555
+
+> <EXACT_MASS>
+190.037842068
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.163202295729285
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-nitroquinolin-8-ol
+
+> <ALOGPS_LOGP>
+1.90
+
+> <JCHEM_LOGP>
+1.767319339
+
+> <ALOGPS_LOGS>
+-1.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.8755887406986
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.08166459790019
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.94
+
+> <JCHEM_REFRACTIVITY>
+49.284900000000015
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.73e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nitroxoline
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,153 @@
+72258
+  -OEChem-10051720253D
+
+ 24 24  0     1  0  0  0  0  0999 V2000
+   -1.0893   -1.8514   -0.2356 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7372   -1.9878    0.0909 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2350    0.5524    1.1345 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1879   -0.2990    0.1246 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1578    1.7537   -0.0290 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3147   -0.7239    0.1753 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0027    0.5780   -0.2810 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0695   -0.8584   -0.4667 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9081    0.4015   -0.2478 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1430    1.6443   -0.6984 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3405    0.7905    0.4331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2414   -0.7689    1.2685 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2140    0.5069   -1.3572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9674   -1.0514   -1.5414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8564    0.3252   -0.7918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7206    2.5434   -0.4560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9992    1.6343   -1.7852 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0037    1.8437    0.9759 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8304    1.7148    0.1078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2166    0.8328    1.5206 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1955   -1.8089   -1.2013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7358   -1.8942    1.0584 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8241   -0.1819    1.3769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3303   -0.3016   -0.8373 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03955
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LXBIFEVIBLOUGU-KVTDHHQDSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)CN[C@]([H])(CO)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4/c8-2-3-5(10)6(11)4(9)1-7-3/h3-11H,1-2H2/t3-,4-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+LXBIFEVIBLOUGU-KVTDHHQDSA-N
+
+> <FORMULA>
+C6H13NO4
+
+> <MOLECULAR_WEIGHT>
+163.1717
+
+> <EXACT_MASS>
+163.084457909
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.84016774221697
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4R,5R)-2-(hydroxymethyl)piperidine-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.22
+
+> <JCHEM_LOGP>
+-2.885743183
+
+> <ALOGPS_LOGS>
+0.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.040882857401087
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.906053630987142
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.062727249499266
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.95
+
+> <JCHEM_REFRACTIVITY>
+36.5744
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.11e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+deoxymannojirimycin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

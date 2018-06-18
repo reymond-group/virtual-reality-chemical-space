@@ -1,0 +1,137 @@
+3840
+  -OEChem-10051719413D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -0.8380    1.0962    0.2011 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2819    0.3330   -0.5633 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8100    1.0396   -0.1173 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0867   -1.6843   -0.1403 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1472   -0.2555    0.1871 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2195   -1.2180    0.0771 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6080   -0.5473    0.3091 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2070   -0.8379   -0.0355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5084    0.6120   -0.0165 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4824    1.4623    0.0985 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4702   -2.2721    0.0686 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9460   -0.3599    1.3331 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8501   -1.5783    0.0328 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5821    2.5386    0.1226 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2339    0.1572   -0.4718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8138    2.0120   -0.0876 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01759
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BEJNERDRQOWKJM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1=CC(=O)C(O)=CO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O4/c7-2-4-1-5(8)6(9)3-10-4/h1,3,7,9H,2H2
+
+> <INCHI_KEY>
+BEJNERDRQOWKJM-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6O4
+
+> <MOLECULAR_WEIGHT>
+142.1094
+
+> <EXACT_MASS>
+142.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.6336900245295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one
+
+> <ALOGPS_LOGP>
+-1.02
+
+> <JCHEM_LOGP>
+-0.5004820473333333
+
+> <ALOGPS_LOGS>
+-0.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.398079462311536
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.30132270703629
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.083176877268227
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+35.265699999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.23e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+kojic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

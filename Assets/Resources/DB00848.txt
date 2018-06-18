@@ -1,0 +1,153 @@
+26879
+  -OEChem-10051719243D
+
+ 26 28  0     1  0  0  0  0  0999 V2000
+   -3.3517    1.4325   -0.3950 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0554   -0.7198    0.1650 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7955    0.7336   -1.0825 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7739   -1.3466    0.2747 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0255   -0.5086   -0.7737 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.1691   -0.8449    1.0663 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9268    0.4512   -0.5056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2501    0.0894    0.4966 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4237   -0.1825   -0.3066 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6639    0.9875    0.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4771   -1.0510   -0.5954 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9556    1.2887    0.8468 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7687   -0.7497   -0.1634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0079    0.4202    0.5578 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8029   -2.4066    0.0049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3702   -1.2406    1.2878 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0844   -1.0685   -1.7175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8791   -0.5178    2.0717 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5304   -1.8759    1.1303 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8665   -0.4424   -0.2356 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8968    0.4957    1.2787 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8601    1.6745    0.6642 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -1.9665   -1.1545 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1417    2.1981    1.4109 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5882   -1.4263   -0.3877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0135    0.6543    0.8948 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00848
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HLFSDGLLUJUHTE-SNVBAGLBSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1CN2C[C@@H](N=C2S1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N2S/c1-2-4-9(5-3-1)10-8-13-6-7-14-11(13)12-10/h1-5,10H,6-8H2/t10-/m1/s1
+
+> <INCHI_KEY>
+HLFSDGLLUJUHTE-SNVBAGLBSA-N
+
+> <FORMULA>
+C11H12N2S
+
+> <MOLECULAR_WEIGHT>
+204.291
+
+> <EXACT_MASS>
+204.072119084
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.352427742945707
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(6S)-6-phenyl-2H,3H,5H,6H-imidazo[2,1-b][1,3]thiazole
+
+> <ALOGPS_LOGP>
+2.20
+
+> <JCHEM_LOGP>
+2.3582269016666664
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.975299007898724
+
+> <JCHEM_POLAR_SURFACE_AREA>
+15.6
+
+> <JCHEM_REFRACTIVITY>
+60.078400000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levamisole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

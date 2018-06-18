@@ -1,0 +1,137 @@
+736715
+  -OEChem-10051719463D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    3.5951    1.0495    0.0203 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1448   -1.1867   -0.0113 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9891   -1.1021    0.0124 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1356    0.7999   -0.0016 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0568   -0.1033   -0.0062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3047   -0.4295   -0.0105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7883    1.0611   -0.0150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2222   -0.5116    0.0143 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3744    0.4481   -0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7729   -0.0255    0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8099   -2.0979    0.0232 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5502   -1.4913   -0.0144 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4198    2.0770   -0.0294 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1354   -1.0894    0.0280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2021    1.5204    0.0032 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5409    0.7887    0.0237 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01971
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LOIYMIARKYCTBW-OWOJBTEDSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)\C=C\C1=CNC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N2O2/c9-6(10)2-1-5-3-7-4-8-5/h1-4H,(H,7,8)(H,9,10)/b2-1+
+
+> <INCHI_KEY>
+LOIYMIARKYCTBW-OWOJBTEDSA-N
+
+> <FORMULA>
+C6H6N2O2
+
+> <MOLECULAR_WEIGHT>
+138.124
+
+> <EXACT_MASS>
+138.042927446
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.095244817068643
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-3-(1H-imidazol-4-yl)prop-2-enoic acid
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+-1.0052561452921183
+
+> <ALOGPS_LOGS>
+-0.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.886392712824712
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8470756665411963
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.133189754894421
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.97999999999999
+
+> <JCHEM_REFRACTIVITY>
+35.5676
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.25e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trans-urocanic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

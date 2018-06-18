@@ -1,0 +1,136 @@
+8988
+  -OEChem-10051720033D
+
+ 17 17  0     1  0  0  0  0  0999 V2000
+   -2.2137    0.9467   -0.1657 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7225   -1.1368    0.6178 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7304   -1.0853   -0.3656 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0723    0.1103   -0.6221 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6784    1.2753    0.0144 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9016    0.6393    0.6567 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0995   -0.6264   -0.1511 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4014   -0.1231    0.0156 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2073    0.2589   -1.6993 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1012    1.8406    0.7533 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0021    1.9733   -0.7671 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7748    1.2975    0.6281 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6897    0.3957    1.7051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5862   -0.4082   -1.1089 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6954   -1.3695    0.3857 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6799   -1.7365   -1.1469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0938    0.8126    0.2463 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02853
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ONIBWKKTOPOVIA-SCSAIBSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)[C@H]1CCCN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m1/s1
+
+> <INCHI_KEY>
+ONIBWKKTOPOVIA-SCSAIBSYSA-N
+
+> <FORMULA>
+C5H9NO2
+
+> <MOLECULAR_WEIGHT>
+115.1305
+
+> <EXACT_MASS>
+115.063328537
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.387789363699284
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-pyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-2.71
+
+> <JCHEM_LOGP>
+-2.568638276039985
+
+> <ALOGPS_LOGS>
+0.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.9406707712827895
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.332026115136207
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+28.064299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.65e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-proline
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,138 @@
+439168
+  -OEChem-10051719523D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -1.9459   -0.2069    0.1350 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3365   -0.0872    0.2430 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0663    1.1687    0.9350 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2005   -0.5812   -1.4175 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4270    1.3341    0.2297 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5822   -1.1319    1.1308 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8872   -1.3227    0.3523 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3394    0.7697   -0.6662 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8346    0.7337   -0.3917 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3647   -0.6762   -0.5504 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1333    0.4469   -1.6916 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0335    1.7897   -0.5291 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3701    1.3921   -1.0827 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2668   -1.1054   -1.5627 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0289    1.2280    1.0602 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1153   -0.7717   -1.7158 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3869    1.5294    0.2795 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02263
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LXJXRIRHZLFYRP-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@H](COP(O)(O)=O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h1,3,5H,2H2,(H2,6,7,8)/t3-/m0/s1
+
+> <INCHI_KEY>
+LXJXRIRHZLFYRP-VKHMYHEASA-N
+
+> <FORMULA>
+C3H7O6P
+
+> <MOLECULAR_WEIGHT>
+170.0578
+
+> <EXACT_MASS>
+169.998024468
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.543230752495123
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R)-2-hydroxy-3-oxopropoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.69
+
+> <JCHEM_LOGP>
+-1.8009217683333332
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.423410972998963
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.3972513038135128
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7612158010186443
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+30.331
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glyceraldehyde-3-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

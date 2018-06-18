@@ -1,0 +1,151 @@
+446195
+  -OEChem-10051720253D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+   -4.8812    2.5244   -0.1377 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7651    1.0079   -0.0320 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2843   -1.2732    0.0734 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2990   -0.5366   -0.5501 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6507    1.3892    0.4680 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0991    0.6248   -0.0246 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0634   -1.6544    0.0858 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1300   -0.3762    0.0146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6977   -0.4806    0.0252 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7381    0.8775   -0.0493 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9131   -1.5293    0.0688 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1295    0.9781   -0.0590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3042   -1.4288    0.0591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9124   -0.1752   -0.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2909    0.0840    0.0076 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0023   -0.3162    0.0395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3783    0.2845    0.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1424    1.7869   -0.0920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4751   -2.5230    0.1194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9143   -2.3264    0.1013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9975   -0.1122   -0.0117 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8776   -0.9626   -0.8350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8936   -0.9042    0.9554 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1943   -0.1355   -0.5532 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03928
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BGDMJXZYDKFEGJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CSC1=NC(=NO1)C1=CC=CC(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7ClN2O3S/c11-7-3-1-2-6(4-7)9-12-10(16-13-9)17-5-8(14)15/h1-4H,5H2,(H,14,15)
+
+> <INCHI_KEY>
+BGDMJXZYDKFEGJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7ClN2O3S
+
+> <MOLECULAR_WEIGHT>
+270.692
+
+> <EXACT_MASS>
+269.986590497
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.15129004054345
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[3-(3-chlorophenyl)-1,2,4-oxadiazol-5-yl]sulfanyl}acetic acid
+
+> <ALOGPS_LOGP>
+2.10
+
+> <JCHEM_LOGP>
+3.2410768219999997
+
+> <ALOGPS_LOGS>
+-3.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8299148583544715
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9647560184911184
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.22
+
+> <JCHEM_REFRACTIVITY>
+75.35439999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.67e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+C10H7clN2O3S
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

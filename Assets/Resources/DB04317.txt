@@ -1,0 +1,135 @@
+367584
+  -OEChem-10051720323D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -0.7482    2.7374   -0.3945 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8514    1.1004    0.8159 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9885    0.0739    0.1295 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3150   -0.1088   -0.7667 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8255   -1.3472    0.8719 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9558    1.2772    1.0096 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9593   -1.7327   -1.0868 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0145   -1.9166    0.9825 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6730    0.0321   -1.0979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6424    0.0405   -0.3703 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2005   -1.2995   -0.0536 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3415    1.1433   -0.0396 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7753    0.8796   -1.7823 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7684   -0.8713   -1.7112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1926   -0.0931   -0.3290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4206   -1.5657    1.6202 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3488   -2.6159   -0.9115 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04317
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IBGSKYLUHGAGLB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(CP(O)(O)=O)=C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H5Cl2O5P/c5-3(6)2(4(7)8)1-12(9,10)11/h1H2,(H,7,8)(H2,9,10,11)
+
+> <INCHI_KEY>
+IBGSKYLUHGAGLB-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H5Cl2O5P
+
+> <MOLECULAR_WEIGHT>
+234.959
+
+> <EXACT_MASS>
+233.925165196
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.730582333986536
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,3-dichloro-2-(phosphonomethyl)prop-2-enoic acid
+
+> <ALOGPS_LOGP>
+-0.53
+
+> <JCHEM_LOGP>
+-0.20893859633333323
+
+> <ALOGPS_LOGS>
+-1.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.3669104278872473
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7214808503684593
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+52.863299999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+C4H5cl2O5P
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

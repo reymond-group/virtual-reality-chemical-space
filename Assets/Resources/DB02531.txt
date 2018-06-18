@@ -1,0 +1,126 @@
+6590
+  -OEChem-10051719573D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+   -1.6001   -0.7941    0.5631 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1210    1.0244   -0.7167 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6834   -0.2161    0.3625 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2773   -1.1782   -0.6593 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5123    1.0624    0.4551 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7520    0.1015   -0.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6875   -0.6859    1.3541 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3074   -1.4409   -0.3973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2803   -0.7398   -1.6635 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6935   -2.1038   -0.7079 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5683    1.5751   -0.5115 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5337    0.8414    0.7819 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0693    1.7608    1.1735 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5355   -0.6079    0.3340 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02531
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KQNPFQTWMSNSAP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-3(2)4(5)6/h3H,1-2H3,(H,5,6)
+
+> <INCHI_KEY>
+KQNPFQTWMSNSAP-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.116588155592678
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylpropanoic acid
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+1.020176411
+
+> <ALOGPS_LOGS>
+0.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.866878196732949
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+21.845100000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isobutyric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

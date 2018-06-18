@@ -1,0 +1,153 @@
+151506
+  -OEChem-10051721213D
+
+ 25 26  0     0  0  0  0  0  0999 V2000
+   -2.8523    0.3143    0.1445 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0052    0.8239   -0.5745 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9635   -0.8729    0.9685 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5438    0.1779   -0.9629 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8520    1.5104   -0.4441 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3689   -0.5223   -0.5345 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8101    0.1741   -0.2838 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9383   -0.5608    0.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4481   -1.9084   -0.3785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8589   -1.9549    0.2940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6669   -2.6259    0.0363 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1254    0.1398    0.3895 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2587    1.6389    1.1728 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1717    1.5167    0.2253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0172    2.1489   -0.1898 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3415    1.0276   -1.5069 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3699   -2.4432   -0.5925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7262   -2.5262    0.6174 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6105   -3.7037    0.1553 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0209   -0.3840    0.7159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3665    1.3101    1.7077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0477    2.5087    0.5478 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0454    1.8838    1.8902 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0811    2.0741    0.4162 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932    3.2239   -0.3351 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1 13  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08451
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XYEPUTZVZYUENX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CS(=O)(=O)NC1=CC=CC2=C1N=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N2O2S/c1-15(13,14)12-9-6-2-4-8-5-3-7-11-10(8)9/h2-7,12H,1H3
+
+> <INCHI_KEY>
+XYEPUTZVZYUENX-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10N2O2S
+
+> <MOLECULAR_WEIGHT>
+222.264
+
+> <EXACT_MASS>
+222.046298264
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.027127573134983
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(quinolin-8-yl)methanesulfonamide
+
+> <ALOGPS_LOGP>
+1.15
+
+> <JCHEM_LOGP>
+0.5040396536666666
+
+> <ALOGPS_LOGS>
+-2.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.245055797595526
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6952289799216036
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.06
+
+> <JCHEM_REFRACTIVITY>
+56.66250000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.75e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-(quinolin-8-yl)methanesulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,161 @@
+54120
+  -OEChem-10051719353D
+
+ 28 28  0     1  0  0  0  0  0999 V2000
+    1.1464   -2.2716    0.1242 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9330    1.4599   -1.1048 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9370   -0.3623    1.5157 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3815   -0.8866   -2.0921 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1423    0.2095    0.0454 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1412    2.4772    0.1192 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6390   -0.0081   -0.6677 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6591   -2.1454   -0.0942 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0878   -0.7582    0.3615 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3520   -3.2404    0.7063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1026    1.3472   -0.4823 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6808   -0.9355   -0.9036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4408    0.1083   -0.2102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8114    0.1329    1.0917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5527    1.4213   -0.0788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5405    1.3207    1.3874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6795    2.1311    0.2823 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8836   -2.2947   -1.1556 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1456   -3.1577    1.7796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4386   -3.1659    0.5843 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0476   -4.2374    0.3697 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7426   -0.4178   -1.5911 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9790    1.8645   -1.4378 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4997    1.8330    0.2906 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6051   -0.6226    1.8380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9428    1.5683    2.3612 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1838    3.0854    0.2231 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0841    0.2845    0.3094 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01423
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JNYSEDHQJCOWQU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(SC(=O)C1=CC=CS1)C(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO4S2/c1-6(9(14)11-5-8(12)13)17-10(15)7-3-2-4-16-7/h2-4,6H,5H2,1H3,(H,11,14)(H,12,13)
+
+> <INCHI_KEY>
+JNYSEDHQJCOWQU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11NO4S2
+
+> <MOLECULAR_WEIGHT>
+273.329
+
+> <EXACT_MASS>
+273.012949225
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.97994124864202
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[2-(thiophene-2-carbonylsulfanyl)propanamido]acetic acid
+
+> <ALOGPS_LOGP>
+1.29
+
+> <JCHEM_LOGP>
+1.274364078
+
+> <ALOGPS_LOGS>
+-3.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.635522438272407
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5625301696581406
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.6328873773207855
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.47
+
+> <JCHEM_REFRACTIVITY>
+64.7985
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.11e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+stepronin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

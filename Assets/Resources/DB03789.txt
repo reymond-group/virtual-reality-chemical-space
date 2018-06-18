@@ -1,0 +1,132 @@
+444800
+  -OEChem-10051720223D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -0.2515   -0.6976   -0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.8168    1.1769    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4034    0.6307   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0877   -1.0055   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7643    0.1815    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3298   -1.6667    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6841    1.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0140    2.1739    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3787   -2.0385   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7946    0.4766    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9418   -1.5224   -0.8942 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9323   -2.6854    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9414   -1.5222    0.8949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2273    1.0997    0.9031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4501    2.4462   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2282    1.0991   -0.9023 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <DATABASE_ID>
+DB03789
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GIWQSPITLQVMSG-UHFFFAOYSA-O/SDF?record_type=3d
+
+> <SMILES>
+CN1C=C[NH+]=C1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8N2/c1-5-6-3-4-7(5)2/h3-4H,1-2H3/p+1
+
+> <INCHI_KEY>
+GIWQSPITLQVMSG-UHFFFAOYSA-O
+
+> <FORMULA>
+C5H9N2
+
+> <MOLECULAR_WEIGHT>
+97.1384
+
+> <EXACT_MASS>
+97.076573298
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.051730785651856
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,2-dimethyl-1H-imidazol-3-ium
+
+> <ALOGPS_LOGP>
+-1.41
+
+> <JCHEM_LOGP>
+0.20151658933333344
+
+> <ALOGPS_LOGS>
+-1.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.376358125016429
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.07
+
+> <JCHEM_REFRACTIVITY>
+39.1624
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,3-dimethylimidazolium ion
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

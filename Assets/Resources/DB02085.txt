@@ -1,0 +1,130 @@
+535
+  -OEChem-10051719483D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+    1.4844    0.6052   -1.0156 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5940   -0.8669    0.7213 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7203    1.3574    0.9464 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4855    0.1606    0.1376 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3904   -0.1510   -1.0181 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4368   -0.9970    0.2204 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9546   -0.1082    0.0079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9672   -0.5963   -1.9109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2326    0.5035   -1.2102 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3102   -0.9081    0.8560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0420   -2.0040    0.1537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2667    2.1690    0.5290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3176    1.2485    1.8763 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4459    0.4399   -1.1185 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02085
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PAJPWUMXBYXFCZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1(CC1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO2/c5-4(1-2-4)3(6)7/h1-2,5H2,(H,6,7)
+
+> <INCHI_KEY>
+PAJPWUMXBYXFCZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7NO2
+
+> <MOLECULAR_WEIGHT>
+101.1039
+
+> <EXACT_MASS>
+101.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.602440017818388
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-aminocyclopropane-1-carboxylic acid
+
+> <ALOGPS_LOGP>
+-3.05
+
+> <JCHEM_LOGP>
+-2.716070759147052
+
+> <ALOGPS_LOGS>
+0.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.200941517399801
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.353636601438382
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+23.2544
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.37e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-aminocyclopropane-1-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

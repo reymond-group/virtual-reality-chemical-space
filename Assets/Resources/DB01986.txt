@@ -1,0 +1,133 @@
+285553
+  -OEChem-10051719463D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.3635   -0.7808   -0.0005 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4512   -0.7104   -0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0113   -0.7690    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2047   -0.0467    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2109   -0.0965    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1758    1.3480    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0171   -2.2632    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2395    1.2982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0462    2.0204    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0982    1.9231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5221   -2.6447   -0.8934 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9951   -2.6811    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5220   -2.6443    0.8944 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1911    1.8215   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0687    3.1062    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3058   -0.1690    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5046   -1.7192    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01986
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SLDLVGFPFFLYBM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(N)C=CC=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8FN/c1-5-6(8)3-2-4-7(5)9/h2-4H,9H2,1H3
+
+> <INCHI_KEY>
+SLDLVGFPFFLYBM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8FN
+
+> <MOLECULAR_WEIGHT>
+125.1435
+
+> <EXACT_MASS>
+125.064077466
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.39884448763734
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-fluoro-2-methylaniline
+
+> <ALOGPS_LOGP>
+1.63
+
+> <JCHEM_LOGP>
+1.8004431876666667
+
+> <ALOGPS_LOGS>
+-1.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.2856392364445526
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+36.016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.17e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-fluoro-2-methyl-aniline
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

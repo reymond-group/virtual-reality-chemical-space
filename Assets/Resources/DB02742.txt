@@ -1,0 +1,162 @@
+130611
+  -OEChem-10051720013D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+    1.3674   -2.7572   -0.5401 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4871    0.4754    2.3155 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7937   -0.4232   -0.9775 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2015    2.7165   -1.5357 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4044    1.4010    0.8484 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5715   -1.0509    0.1051 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4333    0.4024    0.0032 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3755   -1.5898   -0.5684 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1261   -0.8730   -0.6088 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6144    1.3855    0.2726 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9917   -1.5736    0.1580 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8253    0.6999    0.9436 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2130   -0.6467    0.3054 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9775    2.1417   -1.0042 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7651    0.5078    0.3348 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3924   -0.8157   -0.0520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1291   -0.7224   -1.6639 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1757    2.1095    0.9724 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6455   -1.8722    1.1557 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6797    1.3868    0.9288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9714   -1.1520    0.9153 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5125   -2.5221   -0.9457 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4095    1.4973   -1.7740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6888    2.9455   -0.7911 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5769   -3.3191   -0.6090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2658    0.0863    2.7487 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9982   -1.2933   -1.3606 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7924    1.9894   -1.7953 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 16  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02742
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OIURYJWYVIAOCW-PQMKYFCFSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]12NC(=O)C(=O)N1[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@]2([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N2O6/c11-1-2-3(12)4(13)5(14)6-9-7(15)8(16)10(2)6/h2-6,11-14H,1H2,(H,9,15)/t2-,3-,4+,5+,6+/m1/s1
+
+> <INCHI_KEY>
+OIURYJWYVIAOCW-PQMKYFCFSA-N
+
+> <FORMULA>
+C8H12N2O6
+
+> <MOLECULAR_WEIGHT>
+232.1907
+
+> <EXACT_MASS>
+232.069536126
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.32204878624902
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5R,6R,7S,8R,8aS)-6,7,8-trihydroxy-5-(hydroxymethyl)-octahydroimidazolidino[1,2-a]pyridine-2,3-dione
+
+> <ALOGPS_LOGP>
+-2.47
+
+> <JCHEM_LOGP>
+-3.745120184
+
+> <ALOGPS_LOGS>
+-0.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.707317412250248
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.940487876299418
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7973834143597296
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.33
+
+> <JCHEM_REFRACTIVITY>
+47.42269999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(5R,6R,7S,8R,8aS)-6,7,8-trihydroxy-5-(hydroxymethyl)-hexahydroimidazolidino[1,2-a]pyridine-2,3-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,138 @@
+4091
+  -OEChem-10051719123D
+
+ 20 19  0     0  0  0  0  0  0999 V2000
+   -1.5155   -0.3600   -0.0790 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7170    0.2154   -0.8185 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602    1.8744   -0.1620 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9005   -0.4475   -0.3361 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5201   -0.0296    1.4348 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2978   -1.7839   -0.3082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7800    0.0051    0.5511 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5260    0.5926   -0.3455 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6419   -0.0664    0.0634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6868   -1.9541   -1.2008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2427   -2.3145   -0.4674 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7919   -2.2289    0.5541 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4061   -0.8696    0.7568 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3495    0.6744   -0.1018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5980    0.5078    1.5067 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5953    2.0901    0.1923 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6259   -0.6688    0.3371 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1387   -0.5194   -1.3192 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6520    0.2314    1.8892 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -0.2678    2.0371 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00331
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XZWYZXLIPXDOLR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)C(=N)NC(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N5/c1-9(2)4(7)8-3(5)6/h1-2H3,(H5,5,6,7,8)
+
+> <INCHI_KEY>
+XZWYZXLIPXDOLR-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H11N5
+
+> <MOLECULAR_WEIGHT>
+129.1636
+
+> <EXACT_MASS>
+129.101445377
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.427402057461823
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-carbamimidamido-N,N-dimethylmethanimidamide
+
+> <ALOGPS_LOGP>
+-1.83
+
+> <JCHEM_LOGP>
+-0.9184292649999999
+
+> <ALOGPS_LOGS>
+-1.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.325150598106353
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.99
+
+> <JCHEM_REFRACTIVITY>
+56.642700000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.38e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+metformin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,123 @@
+79088
+  -OEChem-10051720183D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+   -1.2027   -1.0866   -0.5885 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3838   -0.8905    0.6259 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2962    1.0802   -0.6027 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7243   -0.1068   -0.0357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5254    1.0129    0.5582 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7724   -0.0091    0.0427 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5695    0.7012    0.6513 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1475    1.2496    1.5563 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4716    1.8938   -0.0854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7163    1.7586   -1.0858 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2977    1.2417   -0.6249 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03578
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FPOLWERNILTNDK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5NO2/c1-2(5)3(4)6/h1H3,(H2,4,6)
+
+> <INCHI_KEY>
+FPOLWERNILTNDK-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H5NO2
+
+> <MOLECULAR_WEIGHT>
+87.0773
+
+> <EXACT_MASS>
+87.032028409
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.737823585645508
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopropanamide
+
+> <ALOGPS_LOGP>
+-1.13
+
+> <JCHEM_LOGP>
+-0.7410686603333332
+
+> <ALOGPS_LOGS>
+0.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.77517310913285
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.981679616155008
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.160000000000004
+
+> <JCHEM_REFRACTIVITY>
+19.8119
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.65e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyruvamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

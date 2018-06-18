@@ -1,0 +1,149 @@
+69602
+  -OEChem-10051720383D
+
+ 22 22  0     0  0  0  0  0  0999 V2000
+   -3.2233    0.2906   -0.8104 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4797    0.1222    0.7227 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6832   -0.5148   -1.0615 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -0.5255    0.6661 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1563    1.3940   -0.5842 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9056    1.4318    0.5139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3224    0.4961   -0.2499 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1680    0.4924    0.8014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5932   -0.3345    0.0386 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7586   -1.1127   -0.4657 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9653   -1.7397    0.4290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3007    1.0735   -1.5292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5397    2.4090   -0.7458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4804    1.7582    1.4688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7007    2.1322    0.2367 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0292   -0.4886    1.3982 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2544   -0.7879   -1.9364 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1914    1.1540    1.6549 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2584   -1.9644   -0.9047 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9472   -1.9889    0.0173 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2216   -2.4370    0.0335 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0087   -1.8317    1.5181 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04622
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XJWPISBUKWZALE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)NCCC1=CN=CN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11N3O/c1-6(11)9-3-2-7-4-8-5-10-7/h4-5H,2-3H2,1H3,(H,8,10)(H,9,11)
+
+> <INCHI_KEY>
+XJWPISBUKWZALE-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H11N3O
+
+> <MOLECULAR_WEIGHT>
+153.1817
+
+> <EXACT_MASS>
+153.090211989
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.223470389608604
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[2-(1H-imidazol-5-yl)ethyl]acetamide
+
+> <ALOGPS_LOGP>
+-0.46
+
+> <JCHEM_LOGP>
+-1.220648305333333
+
+> <ALOGPS_LOGS>
+-1.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.02849282228767
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.938051444680724
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.750033761226243
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.78
+
+> <JCHEM_REFRACTIVITY>
+41.6729
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.83e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-acetylhistamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

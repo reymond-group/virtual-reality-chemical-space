@@ -1,0 +1,144 @@
+8094
+  -OEChem-10051720053D
+
+ 23 22  0     0  0  0  0  0  0999 V2000
+   -3.9215    0.6976    0.0641 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9268   -1.3416   -0.0131 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9948    0.6032   -0.0520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2238   -0.3077    0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3011   -0.2147   -0.0151 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5478    0.4594    0.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5496    0.6679   -0.0305 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7720   -0.4425    0.0362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8394   -0.1217   -0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0246    1.2072   -0.9666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0146    1.2974    0.7968 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1723   -0.9316    0.9055 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2061   -0.9903   -0.8542 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3139   -0.8431    0.8844 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3266   -0.8985   -0.8728 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5786    1.1268    0.8768 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5998    1.0961   -0.8839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5536    1.2836   -0.9369 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5385    1.3278    0.8444 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6871    0.1578    0.0374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7947   -1.0976   -0.8404 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7736   -1.0692    0.9335 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7615    0.1918    0.0937 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02938
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MNWFXJYAOYHMED-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O2/c1-2-3-4-5-6-7(8)9/h2-6H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+MNWFXJYAOYHMED-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H14O2
+
+> <MOLECULAR_WEIGHT>
+130.1849
+
+> <EXACT_MASS>
+130.099379692
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.331230708854495
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+heptanoic acid
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+2.2554647926666664
+
+> <ALOGPS_LOGS>
+-1.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.14789305632963
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+35.6746
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.98e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+heptanoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

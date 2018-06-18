@@ -1,0 +1,161 @@
+447400
+  -OEChem-10051720523D
+
+ 28 28  0     0  0  0  0  0  0999 V2000
+    1.7568    1.1119   -0.8023 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0462   -1.6298    0.2181 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9272    0.2909   -1.9940 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0706    2.5331   -0.8642 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8044    0.6010    1.0979 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8954   -2.6053   -0.5813 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9185   -1.5692   -0.5998 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6483    0.4113    0.4763 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1098    0.9544   -0.2427 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4161   -0.9918    0.8481 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6275   -0.1875   -0.5554 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4682    1.9713    0.5172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9428   -0.3127   -0.1083 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5208    0.7043    0.6517 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7835    1.8462    0.9645 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6811   -1.6151    1.4200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6952   -1.5131   -0.4458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9803    1.0268    1.2293 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6279   -1.0233    1.6081 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0762   -1.5739   -0.0149 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1734   -0.9705   -1.1570 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0892    2.8662    0.7791 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2273    2.6413    1.5576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0161   -1.0596    2.3023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4826   -2.6464    1.7279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1841   -0.2576    0.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4375   -2.3980   -0.6974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4101   -3.4087   -0.8093 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 27  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 28  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06862
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UCQUNSCHVXCSCJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=C(O)C=CC(=C1)S(=O)(=O)NCCS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO5S2/c11-8-2-1-6(5-7(8)9(12)13)17(14,15)10-3-4-16/h1-2,5,10-11,16H,3-4H2,(H,12,13)
+
+> <INCHI_KEY>
+UCQUNSCHVXCSCJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H11NO5S2
+
+> <MOLECULAR_WEIGHT>
+277.317
+
+> <EXACT_MASS>
+277.007863847
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.65054619977308
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-hydroxy-5-[(2-sulfanylethyl)sulfamoyl]benzoic acid
+
+> <ALOGPS_LOGP>
+-0.16
+
+> <JCHEM_LOGP>
+1.2123301616666669
+
+> <ALOGPS_LOGS>
+-2.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.890547784452263
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.436385924656844
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.413580450753959
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+64.8246
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.59e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-hydroxy-5-[(2-sulfanylethyl)sulfamoyl]benzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,142 @@
+5496597
+  -OEChem-10051719503D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+   -0.1508    2.9588   -0.6100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2325   -1.1356    1.4382 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3350   -0.6596    0.6619 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6121    2.0621    0.8829 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1773   -1.1262   -1.2325 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1527   -2.3368    0.3526 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2118   -0.7903   -1.3413 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0223    0.6295   -0.2453 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5021    0.7646    0.1600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5938   -0.6056    0.3976 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6840    1.9290    0.0994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3422   -0.4323   -0.2394 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7412   -1.2574   -0.3241 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0323    0.4939   -1.3329 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9669    1.6444   -0.2995 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694    0.8917    1.2484 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5966    3.8094   -0.4100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8839   -1.4336    0.4127 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9181   -2.7754   -0.0765 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 12  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02190
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UFSCUAXLTRFIDC-REOHCLBHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CC(O)=O)(C(O)=O)C(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2H,1H2,(H,7,8)(H,10,11)(H,12,13)/t2-/m0/s1
+
+> <INCHI_KEY>
+UFSCUAXLTRFIDC-REOHCLBHSA-N
+
+> <FORMULA>
+C6H6O7
+
+> <MOLECULAR_WEIGHT>
+190.1076
+
+> <EXACT_MASS>
+190.011352546
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.837600074327042
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-1-oxopropane-1,2,3-tricarboxylic acid
+
+> <ALOGPS_LOGP>
+-0.55
+
+> <JCHEM_LOGP>
+-0.37458442233333333
+
+> <ALOGPS_LOGS>
+-1.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.436348170058991
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.3778849436098644
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.959494974326967
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.97
+
+> <JCHEM_REFRACTIVITY>
+35.17470000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.47e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(S)-oxalosuccinic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

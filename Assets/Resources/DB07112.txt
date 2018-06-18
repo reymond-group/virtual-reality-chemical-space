@@ -1,0 +1,162 @@
+6914624
+  -OEChem-10051720563D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+   -4.1598   -3.0782   -0.0068 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3148    2.5322    0.0105 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1575    1.6604    0.4236 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9274   -0.0578    0.4979 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3299   -1.6524    0.7631 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1324   -1.0798   -0.1372 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6270   -0.2225   -0.8458 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9719    0.7836    0.0265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2481   -0.5988   -0.0081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6395    1.2096   -0.0215 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3587    0.2508   -0.1017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0400    1.6920    0.1083 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5786   -1.0469    0.0389 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1610   -1.4713   -0.0895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7627    0.6308   -0.1509 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3583    1.2356    0.1546 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6271   -0.1308    0.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0493    0.0055   -0.9639 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7543   -0.6620    0.1820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8647    2.7651    0.1371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2657   -2.5497   -0.1218 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1759    1.9480    0.2177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6648   -0.4531    0.1574 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2448   -1.0593   -1.2774 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2434    1.0819   -0.9459 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3964   -0.4255   -1.9062 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6332    2.6629   -0.1470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3815   -0.5068    1.2426 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 19  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 19  2  0  0  0  0
+  6 11  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07112
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FUMNLXHPILGSLC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CNC(=O)C1=C(O)C2=CC=CC(I)=C2C=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9IN2O4/c13-8-3-1-2-6-7(8)4-14-10(11(6)18)12(19)15-5-9(16)17/h1-4,18H,5H2,(H,15,19)(H,16,17)
+
+> <INCHI_KEY>
+FUMNLXHPILGSLC-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9IN2O4
+
+> <MOLECULAR_WEIGHT>
+372.1153
+
+> <EXACT_MASS>
+371.960700206
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.2773375010233
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(4-hydroxy-8-iodoisoquinolin-3-yl)formamido]acetic acid
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+1.8227784150578241
+
+> <ALOGPS_LOGS>
+-3.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.4558455065505385
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.6660821675301456
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.9910988790540677
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+75.38239999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(4-hydroxy-8-iodoisoquinolin-3-yl)formamido]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

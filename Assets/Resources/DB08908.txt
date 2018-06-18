@@ -1,0 +1,137 @@
+637568
+  -OEChem-10051722003D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    2.8136    0.7360    0.0010 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8139   -0.7359    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0906   -1.4584   -0.0017 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0902    1.4582   -0.0017 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5477    0.3837   -0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5478   -0.3844   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8821   -0.2554   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8821    0.2552   -0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1767    0.2992    0.0034 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1768   -0.2982    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4979    1.4673   -0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4982   -1.4680   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3884   -0.2859   -0.8967 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3849   -0.2870    0.9036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8177    1.1849    0.0052 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3878    0.2868   -0.8973 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3849    0.2882    0.9031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8182   -1.1835    0.0048 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08908
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LDCRTTXIJACKKU-ONEGZZNKSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]\C(=C(\[H])C(=O)OC)C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O4/c1-9-5(7)3-4-6(8)10-2/h3-4H,1-2H3/b4-3+
+
+> <INCHI_KEY>
+LDCRTTXIJACKKU-ONEGZZNKSA-N
+
+> <FORMULA>
+C6H8O4
+
+> <MOLECULAR_WEIGHT>
+144.1253
+
+> <EXACT_MASS>
+144.042258744
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.762322564836051
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,4-dimethyl (2E)-but-2-enedioate
+
+> <ALOGPS_LOGP>
+0.45
+
+> <JCHEM_LOGP>
+0.7175404473333331
+
+> <ALOGPS_LOGS>
+-1.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.5267283323427785
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+34.1452
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.29e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethyl fumarate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,128 @@
+9528
+  -OEChem-10051722003D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    2.3817    0.8220   -1.0799 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5269   -0.7019   -0.0194 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3997    0.7980    1.1010 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3814    0.8217    1.0800 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5275   -0.7013    0.0192 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3994    0.7982   -1.1008 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0008   -0.0888   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1747   -0.8870   -0.0069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1753   -0.8877    0.0067 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3825    0.0135    0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3827    0.0134   -0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1898   -1.5155   -0.9041 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1900   -1.5330    0.8779 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1900   -1.5161    0.9040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1902   -1.5331   -0.8785 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08969
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KGPPDNUWZNWPSI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)(F)COCC(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4F6O/c5-3(6,7)1-11-2-4(8,9)10/h1-2H2
+
+> <INCHI_KEY>
+KGPPDNUWZNWPSI-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4F6O
+
+> <MOLECULAR_WEIGHT>
+182.0644
+
+> <EXACT_MASS>
+182.01663398
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.939935139185026
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,1,1-trifluoro-2-(2,2,2-trifluoroethoxy)ethane
+
+> <ALOGPS_LOGP>
+1.94
+
+> <JCHEM_LOGP>
+2.0347419089999996
+
+> <ALOGPS_LOGS>
+-1.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.249105797899077
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+23.912699999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+flurothyl
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,132 @@
+205225
+  -OEChem-10051720363D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    3.0312   -0.0300    0.8055 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5118   -1.2127    0.1239 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5198    0.0147   -0.3353 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9684   -0.0063   -0.6721 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1594    1.2162   -0.1673 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1955   -1.1618   -0.1803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5141    1.2048    0.1462 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1385   -0.0249    0.2795 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2059   -0.8855   -1.2815 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2345    0.8681   -1.2767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3554    2.1668   -0.2774 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2782   -2.1316   -0.2981 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0637    2.1291    0.2819 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1939   -0.0882    0.5234 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6461    1.1583    1.2940 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04490
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MBXKCLHOVPXMCJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+SCC1=CC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7NS/c8-5-6-2-1-3-7-4-6/h1-4,8H,5H2
+
+> <INCHI_KEY>
+MBXKCLHOVPXMCJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H7NS
+
+> <MOLECULAR_WEIGHT>
+125.191
+
+> <EXACT_MASS>
+125.029919919
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.216965758748483
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyridin-3-ylmethanethiol
+
+> <ALOGPS_LOGP>
+1.44
+
+> <JCHEM_LOGP>
+1.2395930176666665
+
+> <ALOGPS_LOGS>
+-1.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.917022202115625
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.855417798598524
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.89
+
+> <JCHEM_REFRACTIVITY>
+36.7456
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-(mercaptomethylene)pyridine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

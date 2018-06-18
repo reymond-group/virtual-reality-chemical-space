@@ -1,0 +1,135 @@
+122706489
+  -OEChem-10051719443D
+
+ 15 14  0     1  0  0  0  0  0999 V2000
+    1.7940   -0.1348    0.7631 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4016   -0.1265    0.6717 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0478   -1.6808   -0.3067 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3015   -0.3935    0.1204 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6208    1.9128    0.1656 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.5445    0.6254   -0.5973 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9399    0.3032   -0.7868 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4207   -0.5060   -0.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9687    0.8669   -1.5800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0506   -0.5417   -1.4756 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4617    1.1545   -1.2393 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5954    2.2267    0.2655 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1041    2.6673   -0.3059 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2310    1.8114    1.1122 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8266    0.4411    0.1264 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <DATABASE_ID>
+DB01915
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FXIRVRPOOYSARH-REOHCLBHSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CSO)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO3S/c4-2(1-8-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1
+
+> <INCHI_KEY>
+FXIRVRPOOYSARH-REOHCLBHSA-N
+
+> <FORMULA>
+C3H7NO3S
+
+> <MOLECULAR_WEIGHT>
+137.158
+
+> <EXACT_MASS>
+137.014663785
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.407978630322958
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-(hydroxysulfanyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-3.08
+
+> <JCHEM_LOGP>
+-3.1719369864331757
+
+> <ALOGPS_LOGS>
+0.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.95665497590982
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8658558524872375
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.688024607915173
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+30.0005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.42e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cysteine sulfenic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

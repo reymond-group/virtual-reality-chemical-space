@@ -1,0 +1,138 @@
+87087973
+  -OEChem-10051720023D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -2.8799    1.3065   -0.0965 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3473    0.4683    1.0238 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9332    0.4831   -1.2107 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7261   -1.6012    0.0151 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7690   -0.5267   -0.2712 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6213   -0.9659    0.2118 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2138    0.7755    0.4163 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6871    0.0605   -0.0886 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7358   -0.3664   -1.3565 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6043   -1.1561    1.2928 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9303   -1.9028   -0.2676 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5268    1.5933    0.1769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2190    0.6575    1.5058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4561   -2.4436   -0.4912 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6469   -1.3380   -0.3337 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9254    2.4131    0.6596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0360    1.1354    0.8168 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02780
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UGPZHAXXEJECMI-GSVOUGTGSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@](N)(CS)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO2S/c5-3(2-8)1-4(6)7/h3,8H,1-2,5H2,(H,6,7)/t3-/m1/s1
+
+> <INCHI_KEY>
+UGPZHAXXEJECMI-GSVOUGTGSA-N
+
+> <FORMULA>
+C4H9NO2S
+
+> <MOLECULAR_WEIGHT>
+135.185
+
+> <EXACT_MASS>
+135.035399227
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.358237340231272
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R)-3-amino-4-sulfanylbutanoic acid
+
+> <ALOGPS_LOGP>
+-2.37
+
+> <JCHEM_LOGP>
+-2.709137453265194
+
+> <ALOGPS_LOGS>
+-1.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.546545246510187
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.0577368061915555
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.631082413058333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+32.8479
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R)-3-amino-4-sulfanylbutanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

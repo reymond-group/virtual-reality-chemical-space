@@ -1,0 +1,153 @@
+3359381
+  -OEChem-10051720163D
+
+ 26 25  0     1  0  0  0  0  0999 V2000
+   -1.9722   -0.4564    0.0836 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5382    2.2453    0.8064 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2372    1.6781   -1.3678 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1161   -1.1957   -0.7922 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6629   -0.0719    1.1267 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1766    0.0018    0.3704 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3243   -0.4804   -1.7582 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3073   -2.1542    0.8061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0807    0.8067    0.9155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8294   -1.0398   -0.1643 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2033    1.3732   -0.1827 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2740   -0.7068    0.1566 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0471    0.0485    1.4604 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3579   -0.7866   -1.9459 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1806    0.5105   -2.1982 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6632   -1.1839   -2.2724 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3659   -2.4120    0.7062 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7218   -2.9214    0.2912 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0483   -2.1799    1.8687 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8807    0.8474    1.9903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9137    1.8043    0.4984 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1343    0.5490    0.7730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7366   -1.1142   -1.2559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6324   -2.0330    0.2559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7935    3.1222    0.4483 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0524   -0.9788   -0.5961 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03452
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RTXZCZFAAYFFKF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[Si](C)(C)C(CC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O4Si/c1-12(2,3)5(7(10)11)4-6(8)9/h5H,4H2,1-3H3,(H,8,9)(H,10,11)
+
+> <INCHI_KEY>
+RTXZCZFAAYFFKF-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H14O4Si
+
+> <MOLECULAR_WEIGHT>
+190.2692
+
+> <EXACT_MASS>
+190.066135469
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.03957258336697
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(trimethylsilyl)butanedioic acid
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.4093999999999998
+
+> <ALOGPS_LOGS>
+-1.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.577089301776631
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.085356540106653
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+38.9579
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.95e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+C7H14O4si
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

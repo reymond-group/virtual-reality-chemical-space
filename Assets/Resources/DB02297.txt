@@ -1,0 +1,126 @@
+118458
+  -OEChem-10051719523D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+   -2.6710   -0.9787    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0738   -1.0300    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1954    1.7617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -1.2161    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1328   -0.4296   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2651    0.9416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1435   -0.2100   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0113    1.1612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2299    1.4359   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8650    1.8289   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1888   -2.2217    0.0060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1477   -0.8292    0.4092 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02297
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JTPXVCKCLBROOJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CN=CC(Cl)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4ClN3/c5-3-1-7-2-4(6)8-3/h1-2H,(H2,6,8)
+
+> <INCHI_KEY>
+JTPXVCKCLBROOJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4ClN3
+
+> <MOLECULAR_WEIGHT>
+129.548
+
+> <EXACT_MASS>
+129.00937485
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.25286294470903
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-chloropyrazin-2-amine
+
+> <ALOGPS_LOGP>
+0.63
+
+> <JCHEM_LOGP>
+0.12765439133333328
+
+> <ALOGPS_LOGS>
+-0.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.584288834228516
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.04909646717283467
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.8
+
+> <JCHEM_REFRACTIVITY>
+32.624199999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.59e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-6-chloropyrazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

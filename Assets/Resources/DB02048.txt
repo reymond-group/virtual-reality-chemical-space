@@ -1,0 +1,128 @@
+3387240
+  -OEChem-10051719473D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+    0.0131   -0.0452   -0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.6607    1.1278   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0847    1.1719    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1029   -1.2306    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1164   -0.6306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4002   -0.0346   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9209   -1.0974   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9029    0.7388    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5780   -2.1395   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7501    1.4401    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5873    2.0591   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1014    1.2010    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1202   -1.2389    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6310   -2.1308    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <DATABASE_ID>
+DB02048
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CDIOIIJXUJXYPB-UHFFFAOYSA-O/SDF?record_type=3d
+
+> <SMILES>
+NC(=[NH2+])N1C=NC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5N5/c4-3(5)8-2-6-1-7-8/h1-2H,(H3,4,5)/p+1
+
+> <INCHI_KEY>
+CDIOIIJXUJXYPB-UHFFFAOYSA-O
+
+> <FORMULA>
+C3H6N5
+
+> <MOLECULAR_WEIGHT>
+112.1132
+
+> <EXACT_MASS>
+112.062320217
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.236349117454816
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[amino(1H-1,2,4-triazol-1-yl)methylidene]azanium
+
+> <ALOGPS_LOGP>
+-0.30
+
+> <JCHEM_LOGP>
+-1.2954647446666665
+
+> <ALOGPS_LOGS>
+-1.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.926703475690672
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+50.875499999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,2,4-triazole-carboxamidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

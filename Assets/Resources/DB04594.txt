@@ -1,0 +1,140 @@
+181976
+  -OEChem-10051720383D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    0.0641    0.8600    0.9611 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6181   -0.7823   -0.0363 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5149   -0.6441    0.5320 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5669    1.2361   -0.0335 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6266    1.0433   -0.7056 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0068    0.0172   -0.1915 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2683   -0.8293   -0.1285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2491   -0.8722   -0.1788 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5194    0.0157   -0.0628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5113   -0.0445   -0.1561 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0016    0.6630   -1.0776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2563   -1.4491    0.7762 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3295   -1.4749   -1.0112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2791   -1.5287   -1.0541 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2423   -1.4919    0.7265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6432    1.5218    0.8814 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4477   -0.2607    0.0080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3316   -0.1007    0.5359 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04594
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZQHYXNSQOIDNTL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(CC(O)=O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O5/c6-3(1-4(7)8)2-5(9)10/h3,6H,1-2H2,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+ZQHYXNSQOIDNTL-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H8O5
+
+> <MOLECULAR_WEIGHT>
+148.114
+
+> <EXACT_MASS>
+148.037173366
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.809688049876742
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-hydroxypentanedioic acid
+
+> <ALOGPS_LOGP>
+-1.17
+
+> <JCHEM_LOGP>
+-1.0288179093333332
+
+> <ALOGPS_LOGS>
+0.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.294116866528298
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5233997663487395
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.913303860550256
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+29.4995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.72e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-hydroxyglutaric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,161 @@
+1055
+  -OEChem-10051719513D
+
+ 28 28  0     0  0  0  0  0  0999 V2000
+   -3.5376    0.2492   -0.3313 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9329    0.4141   -0.4313 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2546   -1.3978   -0.7621 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6747   -2.7714    0.9660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9430    1.1791    0.9281 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7061   -1.2521    0.2454 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2862    0.5278   -1.6019 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1563    1.9039    0.3323 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0979   -0.6568   -0.0367 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2862    0.3744    0.4230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1554    0.1664    0.7345 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4381   -0.4091   -0.3123 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9142    0.8767   -0.1130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5345   -2.0270   -0.2364 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8587    1.6252    0.5895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3459    1.1973   -0.3938 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3555   -0.8335    1.1309 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4629    0.8674    1.5195 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5172   -2.0145   -0.5390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0649   -2.5588   -1.0345 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2778    2.4716    0.9430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5844    1.0200   -1.4475 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5547    2.2524   -0.1848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0093    0.6014    0.2412 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1561   -1.0722   -0.9084 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3080   -3.6562    0.7985 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8920    1.2903    1.1499 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6061   -1.6361    0.3136 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 28  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02209
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WHOMFKWHIQZTHY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(CO)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2,10-11H,3-4H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+WHOMFKWHIQZTHY-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12NO6P
+
+> <MOLECULAR_WEIGHT>
+249.1577
+
+> <EXACT_MASS>
+249.040223633
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.7178238503204
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[5-hydroxy-4-(hydroxymethyl)-6-methylpyridin-3-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.80
+
+> <JCHEM_LOGP>
+-3.640999575634358
+
+> <ALOGPS_LOGS>
+-1.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.798869153656689
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7391293357611506
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.554512423881395
+
+> <JCHEM_POLAR_SURFACE_AREA>
+120.11000000000001
+
+> <JCHEM_REFRACTIVITY>
+54.97820000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.41e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyridoxine-5'-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

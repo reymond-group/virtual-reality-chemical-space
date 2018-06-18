@@ -1,0 +1,126 @@
+264
+  -OEChem-10051720183D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+    2.1010   -0.8632   -0.0201 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2626    1.2475    0.0156 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3963    0.4139   -0.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2741   -0.6148    0.0331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7795   -0.2191    0.0069 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0864    0.0358    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3026    1.0038   -0.9561 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3052    1.1203    0.7983 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3524   -1.1927    0.9603 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3466   -1.2984   -0.8199 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9224   -0.7828    0.9343 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9227   -0.9021   -0.8364 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5528    0.5536   -0.0450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9786   -0.4250   -0.0289 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03568
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FERIUCNNQQJTOY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)
+
+> <INCHI_KEY>
+FERIUCNNQQJTOY-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.216958179758743
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+butanoic acid
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+0.9217587976666666
+
+> <ALOGPS_LOGS>
+0.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.907922196332106
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+21.8716
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.39e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butyric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

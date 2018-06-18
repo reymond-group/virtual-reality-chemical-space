@@ -1,0 +1,130 @@
+1046
+  -OEChem-10051719123D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+   -2.3259    1.1655   -0.0083 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3019   -1.1915   -0.0013 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8445    1.1509    0.0019 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4031   -1.1264    0.0027 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2605    0.0334    0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4971    1.1839    0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7102    0.0827    0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6492   -1.2245   -0.0033 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4070   -0.0741   -0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0621    2.1765    0.0066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1018   -2.2084   -0.0062 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4896   -0.1015   -0.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9248   -2.0217    0.0055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4175   -1.1465   -0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00339
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IPEHBUMCGVEMRF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=NC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H5N3O/c6-5(9)4-3-7-1-2-8-4/h1-3H,(H2,6,9)
+
+> <INCHI_KEY>
+IPEHBUMCGVEMRF-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H5N3O
+
+> <MOLECULAR_WEIGHT>
+123.1127
+
+> <EXACT_MASS>
+123.043261797
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.129502154128042
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyrazine-2-carboxamide
+
+> <ALOGPS_LOGP>
+-0.71
+
+> <JCHEM_LOGP>
+-1.2256084179999998
+
+> <ALOGPS_LOGS>
+-0.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.059008881019967
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6764415978416957
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.87
+
+> <JCHEM_REFRACTIVITY>
+30.450599999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.37e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyrazinamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

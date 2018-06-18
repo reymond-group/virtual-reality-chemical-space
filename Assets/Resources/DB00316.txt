@@ -1,0 +1,145 @@
+1983
+  -OEChem-10051719123D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    3.8509    0.4516    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5999    1.4041   -0.0018 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5705   -0.7171    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2066   -0.4231   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2205    0.9047    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7298   -1.4570   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841    1.1986    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0933   -1.1629   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5204    0.1648   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6485    0.1782    0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9735   -0.5420    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4436    1.7577    0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4113   -2.4963   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8010   -1.7086    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9053    2.2370    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8180   -1.9726   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0655   -1.1463   -0.9058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7904    0.1844    0.0288 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0445   -1.1886    0.8802 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9650    1.4176    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00316
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RZVAJINKPMORJF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)NC1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)
+
+> <INCHI_KEY>
+RZVAJINKPMORJF-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H9NO2
+
+> <MOLECULAR_WEIGHT>
+151.1626
+
+> <EXACT_MASS>
+151.063328537
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.521685397895368
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(4-hydroxyphenyl)acetamide
+
+> <ALOGPS_LOGP>
+0.51
+
+> <JCHEM_LOGP>
+0.9073908616666664
+
+> <ALOGPS_LOGS>
+-1.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.653657748938226
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.464366400804778
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.362180897047585
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+42.901900000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetaminophen
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

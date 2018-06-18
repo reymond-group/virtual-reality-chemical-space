@@ -1,0 +1,158 @@
+445032
+  -OEChem-10051719523D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+   -3.2719   -0.7771    1.1668 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2219    0.1195   -0.3333 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.6711    1.9658    0.4294 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6793   -0.8766   -1.0918 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4180    1.1663   -0.3315 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1036   -0.9908    0.6700 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7041    0.5302    0.2008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1040   -0.7185   -0.4598 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1353    0.8045   -0.2820 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3249   -0.9836    0.0030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0810   -0.3467    0.0316 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5784    0.1069   -0.0033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6920    0.3877    1.2899 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0832    1.4088   -0.0109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7110   -1.6011   -0.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1131   -0.5891   -1.5488 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1251    1.0215   -1.3556 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6934   -1.8893   -0.4899 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3360   -1.1239    1.0892 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8739    0.9281   -0.8448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6989    1.7845    1.4320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6311    2.1420    0.1361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3256   -1.6553   -1.0172 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5064   -0.5196   -2.0259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0650    1.9835   -0.8234 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4056    1.1515   -0.0883 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5361   -1.7919    0.9328 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0890   -1.0232    0.9215 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  2  0  0  0  0
+  2 20  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 23  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 27  1  0  0  0  0
+  6 28  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB02299
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ULEBESPCVWBNIF-BYPYZUCNSA-O/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CCCNC(N)=[NH2+])C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15N5O/c7-4(5(8)12)2-1-3-11-6(9)10/h4H,1-3,7H2,(H2,8,12)(H4,9,10,11)/p+1/t4-/m0/s1
+
+> <INCHI_KEY>
+ULEBESPCVWBNIF-BYPYZUCNSA-O
+
+> <FORMULA>
+C6H16N5O
+
+> <MOLECULAR_WEIGHT>
+174.2241
+
+> <EXACT_MASS>
+174.135485159
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.75389365606212
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[amino({[(4S)-4-amino-4-carbamoylbutyl]amino})methylidene]azanium
+
+> <ALOGPS_LOGP>
+-0.32
+
+> <JCHEM_LOGP>
+-2.295894032333334
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.310500053560574
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.397484307144643
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.75
+
+> <JCHEM_REFRACTIVITY>
+56.545300000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+arginineamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

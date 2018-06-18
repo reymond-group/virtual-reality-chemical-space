@@ -1,0 +1,142 @@
+19
+  -OEChem-10051719403D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+   -0.0719   -2.0399   -0.1333 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7293   -1.2765   -0.1182 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7954    0.8387   -0.5184 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4651   -1.1808    0.4712 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5981    0.2512    0.0376 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4008   -0.7189   -0.0449 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7433   -0.3400   -0.0382 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2548    1.6002    0.1267 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0866    1.0091    0.0508 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0876    1.9791    0.1333 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0061   -0.1222    0.0335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0093    2.3785    0.2054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1304    1.3111    0.0573 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3553    3.0292    0.2057 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8899   -2.1535   -0.1871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3133   -2.1544   -0.1733 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7415    0.5791   -0.5173 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01672
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GLDQAMYCGOIJDV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=C(O)C(O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O4/c8-5-3-1-2-4(6(5)9)7(10)11/h1-3,8-9H,(H,10,11)
+
+> <INCHI_KEY>
+GLDQAMYCGOIJDV-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O4
+
+> <MOLECULAR_WEIGHT>
+154.121
+
+> <EXACT_MASS>
+154.026608673
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.702608454520156
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3-dihydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+1.42
+
+> <JCHEM_LOGP>
+1.6736980806666664
+
+> <ALOGPS_LOGS>
+-1.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.64422447107911
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5588607789007356
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.335994161973777
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+37.275999999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.88e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,3-dihydroxy-benzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

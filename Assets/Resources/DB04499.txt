@@ -1,0 +1,134 @@
+114705
+  -OEChem-10051720363D
+
+ 17 18  0     1  0  0  0  0  0999 V2000
+    2.5374   -0.7362    0.0788 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6866    0.3371    0.4828 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6143    0.4767   -0.6815 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2266    0.1564    0.2438 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6087    1.2699    0.1545 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3044   -1.1264    0.1095 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9751    1.1005   -0.0694 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6707   -1.2957   -0.1145 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5061   -0.1823   -0.2040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9711    0.8515    1.3958 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2135    0.4609   -1.6870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5004    1.0864   -0.5590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2049    2.2737    0.2576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3254   -2.0088    0.1820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6255    1.9674   -0.1391 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0847   -2.2945   -0.2177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5700   -0.3142   -0.3779 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04499
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AWMVMTVKBNGEAK-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1O[C@@H]1C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O/c1-2-4-7(5-3-1)8-6-9-8/h1-5,8H,6H2/t8-/m0/s1
+
+> <INCHI_KEY>
+AWMVMTVKBNGEAK-QMMMGPOBSA-N
+
+> <FORMULA>
+C8H8O
+
+> <MOLECULAR_WEIGHT>
+120.1485
+
+> <EXACT_MASS>
+120.057514878
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.942534246585897
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-phenyloxirane
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.7372646789999997
+
+> <ALOGPS_LOGS>
+-1.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.212940068279475
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.53
+
+> <JCHEM_REFRACTIVITY>
+35.3263
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.26e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+R-styrene oxide
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

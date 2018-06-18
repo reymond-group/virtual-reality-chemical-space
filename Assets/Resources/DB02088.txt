@@ -1,0 +1,152 @@
+444720
+  -OEChem-10051719483D
+
+ 24 23  0     1  0  0  0  0  0999 V2000
+   -1.6482   -0.4805    0.0830 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1573    0.0524    0.3258 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7917   -1.3394   -1.2803 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0575   -1.2323    1.2392 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8509    1.8206    0.7422 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6782    0.7767   -0.9101 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7648    0.9791   -0.4436 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6080    0.1197    0.1150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0319   -0.0016   -0.4318 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9523   -0.6947    0.5606 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6616    0.1533   -1.8128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0971    1.7471   -1.2064 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3239    1.4562   -1.2566 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6239    0.6996    1.0446 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2459   -0.8839    0.3571 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0245   -0.5692   -1.3697 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4298    0.9945   -0.6577 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8263    2.0460    0.9346 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3842    2.7095    0.5666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6004   -1.7075    0.7812 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0062   -0.1369    1.5010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9645   -0.7686    0.1509 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8356   -0.5775    0.6502 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2263   -2.2180   -1.2436 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02088
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NXTPDFMZKSLVRK-RXMQYKEDSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCC[C@H](N)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO3P/c1-2-3-4-5(6)10(7,8)9/h5H,2-4,6H2,1H3,(H2,7,8,9)/t5-/m1/s1
+
+> <INCHI_KEY>
+NXTPDFMZKSLVRK-RXMQYKEDSA-N
+
+> <FORMULA>
+C5H14NO3P
+
+> <MOLECULAR_WEIGHT>
+167.1433
+
+> <EXACT_MASS>
+167.071129831
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.964044364138061
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(1R)-1-aminopentyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.31
+
+> <JCHEM_LOGP>
+-1.2913435848053818
+
+> <ALOGPS_LOGS>
+-0.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.935255168566307
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-0.2423142579244546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.236321552699039
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+38.915200000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.17e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+norleucine phosphonate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

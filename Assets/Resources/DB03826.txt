@@ -1,0 +1,137 @@
+76726
+  -OEChem-10051720233D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    0.9826    2.3495    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9364   -0.0533    0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9286   -1.1656    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9848    1.1633   -0.0009 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0779   -2.4118   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5053    0.0911    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4517   -1.1911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1434   -0.0286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3942    1.2699   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7052   -0.0233   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3997   -2.0656    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5175    2.0285   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0872   -2.4758   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5141   -3.2523    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9294    1.0105    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0918   -0.7331    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03826
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BBTNLADSUVOPPN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=C(N)C(=O)NC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O2/c5-1-2(6)7-4(10)8-3(1)9/h5H2,(H4,6,7,8,9,10)
+
+> <INCHI_KEY>
+BBTNLADSUVOPPN-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6N4O2
+
+> <MOLECULAR_WEIGHT>
+142.116
+
+> <EXACT_MASS>
+142.049075456
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.080658166337182
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5,6-diamino-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.52
+
+> <JCHEM_LOGP>
+-2.240495602666666
+
+> <ALOGPS_LOGS>
+-1.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.132871351634265
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.420796863705196
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.521939746298756
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.24000000000001
+
+> <JCHEM_REFRACTIVITY>
+42.530199999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.38e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5,6-diaminouracil
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

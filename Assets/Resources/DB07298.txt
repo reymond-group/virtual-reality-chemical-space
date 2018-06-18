@@ -1,0 +1,154 @@
+5327045
+  -OEChem-10051720593D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+    1.7980    1.9333    0.2689 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1788   -0.4008   -0.5122 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0833    2.0860   -0.3109 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6184    3.7620    0.1491 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9796   -1.9098    1.1592 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5985   -1.5370   -1.0552 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6040   -0.0222    0.2762 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2551   -0.5556   -0.1586 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0174    0.1584   -0.2506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054    0.3117    0.1227 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1701    1.5111   -0.0399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5785   -1.9208   -0.2976 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9048   -2.3137   -0.1476 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9607   -0.8489    0.6027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8492   -1.3420    0.1319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8169    2.5433   -0.0501 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2463   -1.4550    0.1120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8117   -2.6578   -0.5175 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1891   -3.3553   -0.2477 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4010   -1.6173    1.1474 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1935   -0.0075    1.2632 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8923   -1.6211    0.2538 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7388    2.8160   -0.3111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8253   -2.3116    0.8666 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 17  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07298
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JGZSWLHKOMFYHS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)COC1=C(SC2=NC=CC=C12)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7NO5S/c12-6(13)4-16-7-5-2-1-3-11-9(5)17-8(7)10(14)15/h1-3H,4H2,(H,12,13)(H,14,15)
+
+> <INCHI_KEY>
+JGZSWLHKOMFYHS-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7NO5S
+
+> <MOLECULAR_WEIGHT>
+253.231
+
+> <EXACT_MASS>
+253.004493029
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.759336109261348
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(carboxymethoxy)thieno[2,3-b]pyridine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.76
+
+> <JCHEM_LOGP>
+1.109394611
+
+> <ALOGPS_LOGS>
+-3.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.603066930302197
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3602756325768914
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.887354265635695
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.72
+
+> <JCHEM_REFRACTIVITY>
+56.78190000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.82e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-(carboxymethoxy)thieno[2,3-b]pyridine-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

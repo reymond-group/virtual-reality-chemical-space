@@ -1,0 +1,157 @@
+65632
+  -OEChem-10051720453D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+    4.5934   -1.0590   -0.8393 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1891   -0.0542    0.4438 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3336    1.0425   -1.8150 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4530    1.4897    1.8861 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6046   -0.5597   -1.3406 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8621   -1.2798    0.6831 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1345    0.4974   -0.1039 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4721    0.1626    0.2916 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5761   -1.2597    0.8304 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0410   -1.6533    0.7844 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3757    0.2160   -0.9169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2236    1.1391    0.7298 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1239    1.3628    0.0845 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6727    0.4955   -0.4320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7507   -0.5397   -0.2860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8381    0.8848    1.0308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9813   -1.9535    0.2196 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1811   -1.3268    1.8504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6123   -1.1467    1.5684 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1806   -2.7333    0.8780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8314    0.2238   -1.0346 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0113    1.4869   -0.9970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5589    2.2789    0.4960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4290    0.6145   -1.4919 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0373    1.4414   -0.0225 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3075   -1.2349   -1.2297 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05057
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QGFORSXNKQLDNO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CSCC(=O)NC1CCSC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO4S2/c10-6(3-14-4-7(11)12)9-5-1-2-15-8(5)13/h5H,1-4H2,(H,9,10)(H,11,12)
+
+> <INCHI_KEY>
+QGFORSXNKQLDNO-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11NO4S2
+
+> <MOLECULAR_WEIGHT>
+249.307
+
+> <EXACT_MASS>
+249.012949225
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.915041926561816
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-({[(2-oxothiolan-3-yl)carbamoyl]methyl}sulfanyl)acetic acid
+
+> <ALOGPS_LOGP>
+-0.43
+
+> <JCHEM_LOGP>
+-0.6512682253333334
+
+> <ALOGPS_LOGS>
+-1.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.200919599206681
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7855771119455794
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.721009158261747
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.47
+
+> <JCHEM_REFRACTIVITY>
+57.91530000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.85e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+erdosteine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

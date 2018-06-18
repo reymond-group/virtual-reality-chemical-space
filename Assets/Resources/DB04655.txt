@@ -1,0 +1,157 @@
+24466
+  -OEChem-10051720393D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+   -3.6661    0.0022    2.3008 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0591    0.0036   -0.6204 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9542    1.2014    0.0722 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9664   -1.2083    0.0748 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9427   -2.4214   -0.0818 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9675    0.0070    0.2299 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8815   -0.0141   -0.0883 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5610   -0.0105   -0.2004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6097    1.1575   -0.0326 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6217   -1.1783   -0.0301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3511   -0.0070    0.9492 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1616   -0.0097   -1.4594 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9307    2.4881   -0.0863 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7415   -0.0027    0.8399 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5521   -0.0055   -1.5687 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5599   -0.0004    0.1204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3420   -0.0020   -0.4191 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8814   -0.0074    1.9312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5603   -0.0123   -2.3655 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3837    2.6109   -1.0262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2445    2.6119    0.7573 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6644    3.3000   -0.0295 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0033   -0.0048   -2.5577 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4637   -2.5931   -0.9615 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3341   -2.5920    0.7140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4585    0.8895    0.2677 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4676   -0.8704    0.2695 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4 10  2  0  0  0  0
+  4 16  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 24  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04655
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VQJHOPSWBGJHQS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C(N)=NC(N)=N1)C1=CC(Cl)=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10Cl2N4/c1-5-9(10(14)17-11(15)16-5)6-2-3-7(12)8(13)4-6/h2-4H,1H3,(H4,14,15,16,17)
+
+> <INCHI_KEY>
+VQJHOPSWBGJHQS-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H10Cl2N4
+
+> <MOLECULAR_WEIGHT>
+269.13
+
+> <EXACT_MASS>
+268.028251754
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.06889440126064
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(3,4-dichlorophenyl)-6-methylpyrimidine-2,4-diamine
+
+> <ALOGPS_LOGP>
+2.87
+
+> <JCHEM_LOGP>
+2.6518119836666667
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.210458919345825
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.934795664045866
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.82
+
+> <JCHEM_REFRACTIVITY>
+71.71990000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.58e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+metoprine, methodichlorophen
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

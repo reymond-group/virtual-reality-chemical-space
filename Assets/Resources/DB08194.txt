@@ -1,0 +1,149 @@
+2726820
+  -OEChem-10051721163D
+
+ 23 24  0     0  0  0  0  0  0999 V2000
+   -3.1672   -0.4058    0.4231 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9137    1.4408    0.0450 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0188   -0.6916   -0.0133 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2547    1.2978    0.0438 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4033   -0.5772    0.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4864    1.7204    0.0893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2875    0.8108    0.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6934   -1.3381   -0.0612 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7782    1.1283   -0.4570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8014   -1.2705   -0.0266 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8264   -2.7643   -0.0923 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0011    0.6492    0.0239 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6253    2.0233    1.1354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2639    2.6354   -0.4740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8476   -1.7026   -1.0827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6650   -2.2037    0.6074 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6030    1.8339   -0.3165 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6991    0.9183   -1.5293 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2622   -3.1285   -0.9565 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8531   -3.1328   -0.1973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4165   -3.1983    0.8250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2916    2.3074    0.0725 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1006    0.7451    0.0298 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 22  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08194
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ONZWAEXRMZGFAN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NC(N)=NC2=C1CSCC2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N3S/c1-5-6-4-12-3-2-7(6)11-8(9)10-5/h2-4H2,1H3,(H2,9,10,11)
+
+> <INCHI_KEY>
+ONZWAEXRMZGFAN-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11N3S
+
+> <MOLECULAR_WEIGHT>
+181.258
+
+> <EXACT_MASS>
+181.067368057
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.28268381413268
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-methyl-5H,7H,8H-thiopyrano[4,3-d]pyrimidin-2-amine
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+0.8679284953333334
+
+> <ALOGPS_LOGS>
+-1.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.920636630402733
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.898214202648343
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.8
+
+> <JCHEM_REFRACTIVITY>
+52.2367
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.41e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-methyl-5H,7H,8H-thiopyrano[4,3-d]pyrimidin-2-amine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

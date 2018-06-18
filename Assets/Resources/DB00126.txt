@@ -1,0 +1,145 @@
+54670067
+  -OEChem-10051719083D
+
+ 20 20  0     1  0  0  0  0  0999 V2000
+    0.0932   -1.1066    0.6445 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3436    0.0892   -1.3863 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8392    2.3901    0.2844 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8929   -0.2040   -0.3326 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0220    0.5695   -0.6056 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -2.1560   -0.1376 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3397    0.2618    0.7853 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6059    0.4585   -0.0330 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8212    1.0265    0.2887 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7464   -0.4082    0.4863 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8077    0.2273   -0.1049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3536   -1.1481    0.1108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5154    0.4609    1.8484 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9162    1.5092   -0.0432 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4989   -1.4735    0.4351 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0013   -0.1462    1.5179 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0999   -0.8522   -1.3986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0039    2.6957    0.6780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6023   -0.7644    0.0257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5024   -0.2572   -0.7856 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00126
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CIWBSHSKHKDKBQ-JLAZNSOCSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+
+> <INCHI_KEY>
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+
+> <FORMULA>
+C6H8O6
+
+> <MOLECULAR_WEIGHT>
+176.1241
+
+> <EXACT_MASS>
+176.032087988
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.93252509217066
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5R)-5-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2,5-dihydrofuran-2-one
+
+> <ALOGPS_LOGP>
+-1.58
+
+> <JCHEM_LOGP>
+-1.9135588756666668
+
+> <ALOGPS_LOGS>
+0.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.19770144834119
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.359917442787388
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.979728932431362
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22
+
+> <JCHEM_REFRACTIVITY>
+37.0321
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.45e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+vitamin C
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

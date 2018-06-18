@@ -1,0 +1,133 @@
+6857549
+  -OEChem-10051720253D
+
+ 14 13  0     1  0  0  0  0  0999 V2000
+   -1.7430   -1.3620   -0.0449 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2315   -0.2402    1.2661 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6321   -0.7451   -0.9225 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2151    2.0048   -0.1140 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.2848    0.5367   -0.4016 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5994    0.0341    0.1874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9786   -0.2283    0.0296 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3536    0.4677   -1.4949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4542    0.5469   -0.2669 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6308    0.1975    1.2704 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6146    2.4282   -0.5507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1588    2.1894    0.8965 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0386    2.5036   -0.4771 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5908   -1.6309    0.3481 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB03929
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MTCFGRXMJLQNBG-UWTATZPHSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@H](CO)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m1/s1
+
+> <INCHI_KEY>
+MTCFGRXMJLQNBG-UWTATZPHSA-N
+
+> <FORMULA>
+C3H7NO3
+
+> <MOLECULAR_WEIGHT>
+105.0926
+
+> <EXACT_MASS>
+105.042593095
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.387821307652743
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-hydroxypropanoic acid
+
+> <ALOGPS_LOGP>
+-3.42
+
+> <JCHEM_LOGP>
+-3.8877352328917727
+
+> <ALOGPS_LOGS>
+0.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.166073878847005
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.033990015469951
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.931303956589883
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+22.041000000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.80e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-serine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

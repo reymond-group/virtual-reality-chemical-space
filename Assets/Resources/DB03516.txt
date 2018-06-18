@@ -1,0 +1,133 @@
+43157
+  -OEChem-10051720173D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+    0.8507    2.0793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2267   -0.0826    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1945    1.0108   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2904   -1.3253   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8519   -0.2979   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1947    1.0407   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0766   -1.3886   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9963   -0.1327    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2687   -0.4061   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4654   -0.4976    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4822   -2.3946   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6738    1.9068    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8048   -2.2012    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5273   -0.5788    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  3  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03516
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JOZGNYDSEBIJDH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1NC=C(C#C)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4N2O2/c1-2-4-3-7-6(10)8-5(4)9/h1,3H,(H2,7,8,9,10)
+
+> <INCHI_KEY>
+JOZGNYDSEBIJDH-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H4N2O2
+
+> <MOLECULAR_WEIGHT>
+136.1082
+
+> <EXACT_MASS>
+136.027277382
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.048430934118679
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-ethynyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.91
+
+> <JCHEM_LOGP>
+-0.8223266093333331
+
+> <ALOGPS_LOGS>
+-2.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.463125452348322
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.50261951776082
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.4058924337234595
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+33.389
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.54e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-ethynyluracil
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

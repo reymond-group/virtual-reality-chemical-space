@@ -1,0 +1,148 @@
+5289428
+  -OEChem-10051721233D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+   -1.2320    0.2541    0.7195 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1489   -0.1757   -1.2609 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9949    0.5149    0.6301 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2948    0.4933   -0.0332 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4812   -1.7050    0.1756 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4801   -0.0818    0.1031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4073   -1.5276   -0.3859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5716    0.0738    1.1599 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7204    0.8762   -1.0626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1296    0.1647   -0.0823 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9883    1.8012   -0.0441 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9307   -0.6880    0.0806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9570   -2.1770    0.3738 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4129   -1.9095   -0.5996 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8390   -1.6681   -1.3086 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5627   -0.1666    0.7615 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5932    1.0987    1.5479 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3759   -0.5782    2.0190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1280    0.6640   -1.9560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7676    0.8312   -1.3849 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5036    1.9104   -0.7706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9727    0.7925    1.6054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3334    2.0550    0.9629 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    2.5835   -0.3979 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8500    1.7642   -0.7176 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 12  3  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08594
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SWELYBAPJHIOQT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(NC(=O)OC(C)(C)C)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13N3O2/c1-7(2,3)12-6(11)9-10(4)5-8/h1-4H3,(H,9,11)
+
+> <INCHI_KEY>
+SWELYBAPJHIOQT-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H13N3O2
+
+> <MOLECULAR_WEIGHT>
+171.197
+
+> <EXACT_MASS>
+171.100776675
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.611492773970642
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N'-cyano-N'-methyl(tert-butoxy)carbohydrazide
+
+> <ALOGPS_LOGP>
+0.46
+
+> <JCHEM_LOGP>
+0.49277340866666675
+
+> <ALOGPS_LOGS>
+-1.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.75636019597703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.36000000000001
+
+> <JCHEM_REFRACTIVITY>
+43.94740000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.91e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N'-cyano-N'-methyltert-butoxycarbohydrazide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

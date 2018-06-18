@@ -1,0 +1,144 @@
+17753979
+  -OEChem-10051720223D
+
+ 20 19  0     1  0  0  0  0  0999 V2000
+   -2.3173    0.2495   -0.0326 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7119    0.4125   -0.1425 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2814   -1.2793    1.1534 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7080   -0.7547   -1.2387 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5432   -0.6465    1.2954 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8962    1.9691   -0.3343 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9505    0.4661    0.9937 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0722    1.5471   -0.0317 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3715   -1.5591   -0.8063 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5077   -0.3800   -0.7493 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1374   -0.7307   -0.1553 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2078    0.7059    0.0483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3777    0.0027   -1.7692 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3206   -1.5012   -0.7871 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2338   -1.3275   -1.2985 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9186   -2.2885   -1.3555 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4830   -1.8605    1.3056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6552   -0.8951   -1.4513 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4540   -0.7606    1.6412 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3454    2.6414    0.2210 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03821
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JVLKWZAWYDOHCD-GPKNORDASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](N)(C(O)=O)[C@@]([H])(O)OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8NO7P/c4-1(2(5)6)3(7)11-12(8,9)10/h1,3,7H,4H2,(H,5,6)(H2,8,9,10)/t1-,3+/m1/s1
+
+> <INCHI_KEY>
+JVLKWZAWYDOHCD-GPKNORDASA-N
+
+> <FORMULA>
+C3H8NO7P
+
+> <MOLECULAR_WEIGHT>
+201.0719
+
+> <EXACT_MASS>
+201.003838127
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.469513282664497
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3S)-2-amino-3-hydroxy-3-(phosphonooxy)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.90
+
+> <JCHEM_LOGP>
+-3.4972965532258398
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+1.8409938939866062
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9073654693432789
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.820533360681196
+
+> <JCHEM_POLAR_SURFACE_AREA>
+150.31
+
+> <JCHEM_REFRACTIVITY>
+33.943799999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3S)-2-amino-3-hydroxy-3-(phosphonooxy)propanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

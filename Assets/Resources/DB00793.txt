@@ -1,0 +1,135 @@
+3561
+  -OEChem-10051719233D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+   -6.4046   -0.2263    0.2352 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3371   -2.6518   -0.2149 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4260    2.3244    0.0127 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5745   -0.6524    0.5584 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1099    0.2167   -0.6750 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2063    0.0077   -0.3879 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7008   -1.2752   -0.1526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0634    1.1067   -0.3323 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4152    0.9227   -0.0416 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0526   -1.4590    0.1383 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9098   -0.3601    0.1938 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8419    1.0544    0.2168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2495    0.6580    0.2219 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4055    0.3343    0.2271 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6789    2.1055   -0.5257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4365   -2.4605    0.3217 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4415    0.9827    1.2360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7483    2.0931   -0.1189 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00793
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CTETYYAZBPJBHE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC(Cl)=C(Cl)C=C1OCC#CI
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H4Cl3IO/c10-6-4-8(12)9(5-7(6)11)14-3-1-2-13/h4-5H,3H2
+
+> <INCHI_KEY>
+CTETYYAZBPJBHE-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H4Cl3IO
+
+> <MOLECULAR_WEIGHT>
+361.391
+
+> <EXACT_MASS>
+359.837241291
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.81779081943042
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,2,4-trichloro-5-[(3-iodoprop-2-yn-1-yl)oxy]benzene
+
+> <ALOGPS_LOGP>
+4.69
+
+> <JCHEM_LOGP>
+4.8453
+
+> <ALOGPS_LOGS>
+-4.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.962264068206132
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+66.87900000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.01e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+haloprogin
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,143 @@
+5070
+  -OEChem-10051719223D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+   -2.3641   -1.6594   -0.2511 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6170   -0.4337    1.4050 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3942    0.1279    0.2639 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2462   -1.6296   -0.3437 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3758    0.4570   -0.6871 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0844    0.7633    0.2622 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8276   -0.8298    0.2889 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1368   -0.4483   -0.2556 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7151    0.7896    0.0408 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2387   -0.5839   -0.5041 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0375    0.5612   -0.4496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8852    1.9309    0.0892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4850    1.8033   -0.1571 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5269   -0.4658    0.1342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1458   -0.3828    0.1640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6640   -1.5550   -0.7393 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3063    2.9061    0.3170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1169    2.6869   -0.1173 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1296   -1.7925    0.1822 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5482   -0.1532    0.5183 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7 14  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00740
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FTALBRSUTCGOEG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H5F3N2OS/c9-8(10,11)14-4-1-2-5-6(3-4)15-7(12)13-5/h1-3H,(H2,12,13)
+
+> <INCHI_KEY>
+FTALBRSUTCGOEG-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H5F3N2OS
+
+> <MOLECULAR_WEIGHT>
+234.198
+
+> <EXACT_MASS>
+234.007468097
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.58773356890207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-(trifluoromethoxy)-1,3-benzothiazol-2-amine
+
+> <ALOGPS_LOGP>
+2.83
+
+> <JCHEM_LOGP>
+3.3999074026666665
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.44059219702281
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.573084910451721
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.14
+
+> <JCHEM_REFRACTIVITY>
+44.3727
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.95e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+riluzole
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

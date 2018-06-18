@@ -1,0 +1,141 @@
+5288385
+  -OEChem-10051719403D
+
+ 20 19  0     0  0  0  0  0  0999 V2000
+   -3.0967    0.1544   -1.0042 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4943    0.2074    1.1848 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9403   -1.8521   -0.1201 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2282   -0.2806    0.6114 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7962   -0.1682   -0.5193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6253   -0.5327    0.0839 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4967    0.4584   -0.1932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1913    0.0819    0.0066 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2881    1.9316   -0.0498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2021    0.6201    1.2364 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0587   -1.0940    1.2921 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5337    0.6617   -1.1851 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8163   -1.0970   -1.1011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4804    0.1817   -0.5715 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2549   -2.5714    0.0742 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8508   -2.1053   -0.4833 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2616    2.2067    0.2013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9506    2.3262    0.7265 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5368    2.4281   -0.9934 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0047    0.3169   -0.6703 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01699
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KQFBUAIXCIGKAP-GORDUTHDSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]\C(C)=C(/N)CCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11NO2/c1-2-5(7)3-4-6(8)9/h2H,3-4,7H2,1H3,(H,8,9)/b5-2+
+
+> <INCHI_KEY>
+KQFBUAIXCIGKAP-GORDUTHDSA-N
+
+> <FORMULA>
+C6H11NO2
+
+> <MOLECULAR_WEIGHT>
+129.157
+
+> <EXACT_MASS>
+129.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.580108921813464
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4E)-4-aminohex-4-enoic acid
+
+> <ALOGPS_LOGP>
+0.41
+
+> <JCHEM_LOGP>
+-2.1033382395746045
+
+> <ALOGPS_LOGS>
+-0.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.603700247193911
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.062741209996802
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+35.894
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.24e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(E)-4-aminohex-4-enoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

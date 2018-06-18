@@ -1,0 +1,129 @@
+487
+  -OEChem-10051720303D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+    2.3938   -0.4259   -0.3886 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3104   -0.3435   -0.7764 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2617    1.4784    0.0907 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4047    1.1636    0.6562 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0154   -0.5934   -0.2073 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0730   -1.7245    0.8151 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2576    0.2763   -0.1402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2864    0.1689   -0.0495 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0072   -1.0131   -1.2225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1501   -1.3271    1.8335 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9394   -2.3721    0.6452 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8279   -2.3458    0.7675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1912    0.1444   -0.3520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1363    0.1728   -0.6601 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04183
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZIYVHBGGAOATLY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O4/c1-2(3(5)6)4(7)8/h2H,1H3,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+ZIYVHBGGAOATLY-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6O4
+
+> <MOLECULAR_WEIGHT>
+118.088
+
+> <EXACT_MASS>
+118.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.057853065917069
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylpropanedioic acid
+
+> <ALOGPS_LOGP>
+0.17
+
+> <JCHEM_LOGP>
+0.21186901000000008
+
+> <ALOGPS_LOGS>
+0.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.256772105384455
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.4752703991264853
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+23.5623
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylmalonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,149 @@
+3284
+  -OEChem-10051719283D
+
+ 25 25  0     0  0  0  0  0  0999 V2000
+    0.5518    0.5222   -0.7627 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0959    0.5976    0.9431 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2149    2.0346   -0.8481 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1217   -0.5538   -0.1055 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3134   -0.9700   -0.9816 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5995   -0.0788    1.2764 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3782    0.1249   -1.0732 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6634    1.0156    1.1771 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8385    0.5788    0.3082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8158   -1.6812    0.0374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6562    1.0097   -0.1252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5800   -2.5997    0.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7760   -1.8831   -0.5832 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9727   -1.2035   -1.9989 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1848    0.2726    1.9495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0491   -0.9339    1.8031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2374   -0.2468   -1.6431 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9790    0.9837   -1.6265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2200    1.9306    0.7665 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0274    1.2633    2.1810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5496    1.4063    0.2066 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3726   -0.2421    0.8025 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2582   -3.4140    0.2577 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8132    2.3406   -1.7279 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0459    2.5179   -0.5242 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 24  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  3  0  0  0  0
+ 12 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01031
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GXRZIMHKGDIBEW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)OC1(CCCCC1)C#C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO2/c1-2-9(12-8(10)11)6-4-3-5-7-9/h1H,3-7H2,(H2,10,11)
+
+> <INCHI_KEY>
+GXRZIMHKGDIBEW-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13NO2
+
+> <MOLECULAR_WEIGHT>
+167.205
+
+> <EXACT_MASS>
+167.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.726913510740403
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-ethynylcyclohexyl carbamate
+
+> <ALOGPS_LOGP>
+1.09
+
+> <JCHEM_LOGP>
+1.5401250993333333
+
+> <ALOGPS_LOGS>
+-3.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.371112584590886
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+44.573499999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethinamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

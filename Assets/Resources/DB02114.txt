@@ -1,0 +1,145 @@
+7464
+  -OEChem-10051719493D
+
+ 23 23  0     0  0  0  0  0  0999 V2000
+    3.5031   -0.2332    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1576    0.3584   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6743    0.2037    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8122   -0.2380    1.2603 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8117   -0.2385   -1.2606 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1451    1.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1063   -1.0703    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5325    1.1874   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2810   -1.2154    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1004   -0.0866   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4024    1.4295   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3729    0.1921    2.1673 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6888   -1.3252    1.3108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8864   -0.0236    1.2728 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3720    0.1910   -2.1677 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8858   -0.0241   -1.2737 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6883   -1.3258   -1.3105 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2807    2.3324   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7253   -1.9632    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1603    2.0748   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7117   -2.2136    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9156   -1.1566   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0976    0.5849   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 22  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 19  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02114
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LRTFPLFDLJYEKT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N/c1-7(2)8-3-5-9(10)6-4-8/h3-7H,10H2,1-2H3
+
+> <INCHI_KEY>
+LRTFPLFDLJYEKT-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13N
+
+> <MOLECULAR_WEIGHT>
+135.2062
+
+> <EXACT_MASS>
+135.104799421
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.299833783752185
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(propan-2-yl)aniline
+
+> <ALOGPS_LOGP>
+2.27
+
+> <JCHEM_LOGP>
+2.3893290126666664
+
+> <ALOGPS_LOGS>
+-1.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.871695253489093
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+44.949200000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.74e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+para-isopropylaniline
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

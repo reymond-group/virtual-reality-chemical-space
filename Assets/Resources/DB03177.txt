@@ -1,0 +1,139 @@
+11979
+  -OEChem-10051720103D
+
+ 18 19  0     0  0  0  0  0  0999 V2000
+    1.6815    1.3222   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1634   -0.8475    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4707    0.6784   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7983   -0.6747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8567    0.1854   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8428    1.1490   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2330   -1.6290   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5593   -1.1794   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2834    0.6268    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6613    0.3688    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0596    2.2117    0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0123   -2.6917    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3605   -1.9150    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8243    2.3235   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6603    0.6763    1.0269 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3946    1.6141   -0.4606 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9094   -0.0659   -0.5723 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7109    0.6259    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03177
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RWXZXCZBMQPOBF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC2=C(C=C1)N=CN2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8N2/c1-6-2-3-7-8(4-6)10-5-9-7/h2-5H,1H3,(H,9,10)
+
+> <INCHI_KEY>
+RWXZXCZBMQPOBF-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8N2
+
+> <MOLECULAR_WEIGHT>
+132.1625
+
+> <EXACT_MASS>
+132.068748266
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.398359888815444
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-methyl-1H-1,3-benzodiazole
+
+> <ALOGPS_LOGP>
+1.82
+
+> <JCHEM_LOGP>
+1.7729253883333334
+
+> <ALOGPS_LOGS>
+-1.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.458055922234593
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.004521759687981
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+40.009699999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.80e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-methylbenzimidazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,127 @@
+448650
+  -OEChem-10051719543D
+
+ 11 11  0     0  0  0  0  0  0999 V2000
+    1.8428   -1.2088    0.1284 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6223    1.9854   -0.2403 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9202    1.0613    0.4990 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3224   -0.9973   -0.4124 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0995    0.1705   -0.0285 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4425   -1.4282    0.1495 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1023   -0.2626    0.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9103    0.8176   -0.1063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5724   -0.1379   -0.0034 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0502    0.5132   -0.0643 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8926    1.1908    0.5075 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02401
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IBRWUZLLHSXPKL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=NON=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H2N2O4/c6-2-1(3(7)8)4-9-5-2/h(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+IBRWUZLLHSXPKL-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H2N2O4
+
+> <MOLECULAR_WEIGHT>
+130.059
+
+> <EXACT_MASS>
+130.001456562
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.242254477044952
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxy-1,2,5-oxadiazole-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.34
+
+> <JCHEM_LOGP>
+0.5464165369999999
+
+> <ALOGPS_LOGS>
+-0.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.9539922928029156
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.404685593890624
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.707390690193092
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.45
+
+> <JCHEM_REFRACTIVITY>
+25.6072
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.65e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxy-1,2,5-oxadiazole-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

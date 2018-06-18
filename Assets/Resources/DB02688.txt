@@ -1,0 +1,123 @@
+123991
+  -OEChem-10051720003D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+   -1.2549   -1.2013    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4486    1.0623    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3674   -1.1748   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7348    0.0336   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7537    0.0576   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3550    1.2226    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3789   -1.2167    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8235   -2.0285   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4396    1.2794    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8194    2.1661    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2359   -1.2057    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02688
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UQBOJOOOTLPNST-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5NO2/c1-2(4)3(5)6/h1,4H2,(H,5,6)
+
+> <INCHI_KEY>
+UQBOJOOOTLPNST-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H5NO2
+
+> <MOLECULAR_WEIGHT>
+87.0773
+
+> <EXACT_MASS>
+87.032028409
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.719046717395203
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminoprop-2-enoic acid
+
+> <ALOGPS_LOGP>
+-0.13
+
+> <JCHEM_LOGP>
+-2.882087225726914
+
+> <ALOGPS_LOGS>
+0.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5832095700972584
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.64381918712956
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+20.9163
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.33e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dehydroalanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

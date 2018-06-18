@@ -1,0 +1,162 @@
+9600421
+  -OEChem-10051720423D
+
+ 30 30  0     0  0  0  0  0  0999 V2000
+   -0.6036    1.8873   -0.6600 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1332   -1.5655   -0.1499 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1161   -0.2958   -0.2825 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3939   -1.1129   -1.0791 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6013   -1.6372    1.2215 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5123   -2.7152   -0.7811 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0158   -0.4302    0.5668 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0839    0.7702    1.2282 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2653    0.1346    0.5361 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2099    0.5794    0.4595 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5938   -1.1810    0.8230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0005    0.8780   -0.3736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6857   -1.7683    0.1837 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0923    0.2907   -1.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5689    2.9791    0.4067 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4349   -1.0324   -0.7342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0017    4.2192   -0.3520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2775    1.8350    1.4061 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9541    0.3226    2.2220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0154   -1.7630    1.5347 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7458    1.9102   -0.5956 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4495    2.4421    0.7733 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9639    3.2675    1.2720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9521   -2.7988    0.4002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6764    0.8640   -1.7271 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2851   -1.4896   -1.2318 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1402    4.7935   -0.7094 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6323    3.9657   -1.2109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5852    4.8730    0.3047 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1568   -0.7565   -1.9673 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 30  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04779
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VZFUNHITNWTQFU-KHPPLWFESA-N/SDF?record_type=3d
+
+> <SMILES>
+CCS\C(CC1=CC=CC=C1)=N/OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13NO4S2/c1-2-16-10(11-15-17(12,13)14)8-9-6-4-3-5-7-9/h3-7H,2,8H2,1H3,(H,12,13,14)/b11-10-
+
+> <INCHI_KEY>
+VZFUNHITNWTQFU-KHPPLWFESA-N
+
+> <FORMULA>
+C10H13NO4S2
+
+> <MOLECULAR_WEIGHT>
+275.345
+
+> <EXACT_MASS>
+275.028599289
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.795558800587987
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{[(Z)-[1-(ethylsulfanyl)-2-phenylethylidene]amino]oxy}sulfonic acid
+
+> <ALOGPS_LOGP>
+1.16
+
+> <JCHEM_LOGP>
+1.047548850860993
+
+> <ALOGPS_LOGS>
+-3.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-3.3521709271940523
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.2037596523474472
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.96
+
+> <JCHEM_REFRACTIVITY>
+67.04170000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.52e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(Z)-[1-(ethylsulfanyl)-2-phenylethylidene]amino]oxysulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

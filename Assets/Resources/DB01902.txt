@@ -1,0 +1,135 @@
+16842
+  -OEChem-10051719443D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+   -0.1206   -2.3118   -0.1399 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0466    2.3059   -0.1437 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3092   -0.0151   -0.2381 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8653   -0.6969    0.2448 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8120    0.8217    0.2406 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4649   -1.1403   -0.0666 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3831    1.1631   -0.0684 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7256   -0.0568   -0.5477 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5644   -0.0699    0.7191 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5513   -1.0744   -0.5193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1657   -1.0824    1.2235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0879    1.2332    1.2160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4668    1.2420   -0.5284 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9345   -0.9576   -1.1345 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9851    0.8203   -1.1504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3807    0.8253    1.3223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3292   -0.9425    1.3376 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6295   -0.1029    0.4706 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01902
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GHAZCVNUKKZTLG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCN1C(=O)CCC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9NO2/c1-2-7-5(8)3-4-6(7)9/h2-4H2,1H3
+
+> <INCHI_KEY>
+GHAZCVNUKKZTLG-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H9NO2
+
+> <MOLECULAR_WEIGHT>
+127.1412
+
+> <EXACT_MASS>
+127.063328537
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.709616979035719
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-ethylpyrrolidine-2,5-dione
+
+> <ALOGPS_LOGP>
+-0.09
+
+> <JCHEM_LOGP>
+-0.41298754066666654
+
+> <ALOGPS_LOGS>
+0.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.726073701637684
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.38
+
+> <JCHEM_REFRACTIVITY>
+31.9267
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.15e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-ethyl-pyrrolidine-2,5-dione
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

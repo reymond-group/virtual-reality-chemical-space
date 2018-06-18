@@ -1,0 +1,132 @@
+111509
+  -OEChem-10051720283D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+   -1.9947   -0.4980    0.5413 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6291   -1.2584   -0.3235 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1941    1.0024   -0.0555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5783    0.4765   -0.4070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8708   -0.0828   -0.0541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2672    0.3603    0.2987 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1015    1.7720   -0.7756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2106    1.4392    0.9493 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3114    1.2890   -0.4139 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5796    0.0052   -1.3949 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9457   -0.4966    0.2663 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6073    1.1077   -0.4223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2746    0.7786    1.3082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0026   -0.0712    1.4150 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04094
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LVSQXDHWDCMMRJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)CCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-4(6)2-3-5/h5H,2-3H2,1H3
+
+> <INCHI_KEY>
+LVSQXDHWDCMMRJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.205995149878689
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxybutan-2-one
+
+> <ALOGPS_LOGP>
+-0.85
+
+> <JCHEM_LOGP>
+-0.4739555013333336
+
+> <ALOGPS_LOGS>
+0.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.80936456212097
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.798739970032447
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.440350303228783
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+22.5964
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.32e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxy-2-butanone
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

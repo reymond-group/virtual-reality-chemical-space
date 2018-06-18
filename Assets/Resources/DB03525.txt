@@ -1,0 +1,160 @@
+5287550
+  -OEChem-10051720173D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+   -2.9709    0.3630   -0.0989 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3982    0.7340   -0.0510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2669   -0.2943    1.3490 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6803    1.8134    0.0102 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4027   -0.4512   -1.2837 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2455    1.6176    0.0222 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4265   -0.2846    0.0909 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6006    1.1437   -0.4248 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9792   -0.7105    0.0464 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6022    2.0750    0.2528 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9549    0.2582    0.0350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786   -0.1730   -0.0135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6562   -2.0748    0.0573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6920   -1.5333   -0.0159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3245   -2.4832    0.0241 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7771   -0.3519    1.1280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0395   -0.9601   -0.5172 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6249    1.4853   -0.2402 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4417    1.1642   -1.5110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7945    2.1188    1.3313 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7120    3.0911   -0.1405 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4827    2.2814    0.0854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4425   -2.8248    0.0866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7097   -1.9045   -0.0411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0811   -3.5416    0.0280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1603   -0.6553    1.5322 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6534    1.8743   -0.0980 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 27  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03525
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NSJSAHCLJYVEDM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)OC1=C2NCCCC2=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12NO4P/c11-15(12,13)14-8-5-1-3-7-4-2-6-10-9(7)8/h1,3,5,10H,2,4,6H2,(H2,11,12,13)
+
+> <INCHI_KEY>
+NSJSAHCLJYVEDM-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12NO4P
+
+> <MOLECULAR_WEIGHT>
+229.1696
+
+> <EXACT_MASS>
+229.050394389
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.768844840327475
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1,2,3,4-tetrahydroquinolin-8-yloxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+0.4005643995810508
+
+> <ALOGPS_LOGS>
+-1.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.722666233726749
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.1931446976706823
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.013981715245046
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.78999999999999
+
+> <JCHEM_REFRACTIVITY>
+57.016200000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.94e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,2,3,4-tetrahydroquinolin-8-yloxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

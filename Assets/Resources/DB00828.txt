@@ -1,0 +1,135 @@
+446987
+  -OEChem-10051719243D
+
+ 15 15  0     1  0  0  0  0  0999 V2000
+    1.0624    0.1655   -0.0159 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2923   -1.2638    0.2681 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3179   -0.8013   -0.3020 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8429    0.1310    1.5790 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0501    1.5024   -0.6879 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3657   -0.7307   -0.6917 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7226   -0.1173   -0.4770 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8927    1.1142    0.3274 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2096   -1.2813   -1.6106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4734   -0.2466   -1.2438 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9573    1.2653    0.5371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3860    1.0822    1.2943 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5455    1.9907   -0.2271 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2227   -0.4828   -0.0970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4547    0.6350    2.1567 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00828
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YMDXZJFXQJVXBF-STHAYSLISA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@@H]1O[C@@H]1P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7O4P/c1-2-3(7-2)8(4,5)6/h2-3H,1H3,(H2,4,5,6)/t2-,3+/m0/s1
+
+> <INCHI_KEY>
+YMDXZJFXQJVXBF-STHAYSLISA-N
+
+> <FORMULA>
+C3H7O4P
+
+> <MOLECULAR_WEIGHT>
+138.059
+
+> <EXACT_MASS>
+138.008195224
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.802823765291116
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R,3S)-3-methyloxiran-2-yl]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.86
+
+> <JCHEM_LOGP>
+-0.7377748799999998
+
+> <ALOGPS_LOGS>
+-0.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.82082800096408
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2504967658604222
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.306369310142533
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.06
+
+> <JCHEM_REFRACTIVITY>
+25.8737
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.69e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fosfomycin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

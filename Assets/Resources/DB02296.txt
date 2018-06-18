@@ -1,0 +1,137 @@
+31260
+  -OEChem-10051719523D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+   -2.6099    0.0328   -0.0725 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1403    0.0081    0.4518 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3650    0.0457    0.7612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4838   -1.2781   -0.3034 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5989    1.2211   -0.3587 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2482   -0.0297   -0.4784 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6802    0.0071    1.4070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6007    0.9598    1.3215 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6250   -0.7807    1.4355 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5714   -1.3911   -0.3765 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0916   -1.2808   -1.3253 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0965   -2.1585    0.2201 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1726    1.2312   -1.3666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6895    1.2184   -0.4637 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3153    2.1523    0.1425 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0657    0.7969   -1.1702 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1181   -0.9718   -1.0165 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7448    0.8868    0.3728 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02296
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PHTQWCKDNZKARW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)CCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12O/c1-5(2)3-4-6/h5-6H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+PHTQWCKDNZKARW-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H12O
+
+> <MOLECULAR_WEIGHT>
+88.1482
+
+> <EXACT_MASS>
+88.088815006
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.02846453898036
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylbutan-1-ol
+
+> <ALOGPS_LOGP>
+1.33
+
+> <JCHEM_LOGP>
+1.0923410423333335
+
+> <ALOGPS_LOGS>
+-0.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.166789338364286
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.851046343399461
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+26.6835
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.80e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isoamyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

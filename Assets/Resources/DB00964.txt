@@ -1,0 +1,150 @@
+2216
+  -OEChem-10051719263D
+
+ 25 26  0     0  0  0  0  0  0999 V2000
+   -0.3465    2.7266    0.5514 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3576   -2.7322    0.5464 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1993   -0.0036    0.8219 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8774   -0.0053    0.9521 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0476    0.0020   -1.1336 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4587    0.0060   -0.8002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2756    0.0028   -0.1212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5082    0.0029   -1.4495 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987   -0.0027    0.1771 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4515   -0.0022    0.5143 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1289    1.2072    0.2947 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1321   -1.2088    0.2893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1190    0.0035   -0.3590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4546    1.2100   -0.1393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4580   -1.2060   -0.1446 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9032   -0.8874   -0.0197 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8956    0.8978   -0.0155 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7520    0.8903   -2.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7525   -0.8842   -2.0434 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316   -0.0051    1.8256 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9847   -0.0120    1.9618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9736    2.1511   -0.3084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9801   -2.1449   -0.3168 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9419   -0.8685   -0.9565 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9399    0.8823   -0.9527 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 24  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00964
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IEJXVRYNEISIKR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC(Cl)=C(NC2=NCCN2)C(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10Cl2N4/c10-6-3-5(12)4-7(11)8(6)15-9-13-1-2-14-9/h3-4H,1-2,12H2,(H2,13,14,15)
+
+> <INCHI_KEY>
+IEJXVRYNEISIKR-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10Cl2N4
+
+> <MOLECULAR_WEIGHT>
+245.109
+
+> <EXACT_MASS>
+244.028251754
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.27230762347962
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,6-dichloro-N1-(4,5-dihydro-1H-imidazol-2-yl)benzene-1,4-diamine
+
+> <ALOGPS_LOGP>
+2.14
+
+> <JCHEM_LOGP>
+1.6561627496666667
+
+> <ALOGPS_LOGS>
+-2.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.478662277748036
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.44
+
+> <JCHEM_REFRACTIVITY>
+63.78920000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+apraclonidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,126 @@
+3406
+  -OEChem-10051719323D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    1.3237    0.6845   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4406   -0.6544   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7492   -0.0043    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0327    1.1249    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2189   -0.0810   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1711   -1.0697    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2057    2.1791    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6522    0.6920   -0.6433 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5652   -1.0527   -0.3670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6091    0.0584    1.0131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0275   -2.1321    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1699    1.2401   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01213
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RIKMMFOAQPJVMX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CNN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2/c1-4-2-5-6-3-4/h2-3H,1H3,(H,5,6)
+
+> <INCHI_KEY>
+RIKMMFOAQPJVMX-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6N2
+
+> <MOLECULAR_WEIGHT>
+82.1038
+
+> <EXACT_MASS>
+82.053098202
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.583857970237753
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methyl-1H-pyrazole
+
+> <ALOGPS_LOGP>
+0.41
+
+> <JCHEM_LOGP>
+0.7908511973333334
+
+> <ALOGPS_LOGS>
+0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.820058986173272
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.1260714878483644
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+24.786599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.59e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fomepizole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

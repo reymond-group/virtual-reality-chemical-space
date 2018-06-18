@@ -1,0 +1,126 @@
+68791
+  -OEChem-10051720453D
+
+ 13 14  0     1  0  0  0  0  0999 V2000
+    2.2531    0.8585   -0.0044 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7694   -0.8973   -0.3199 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360    1.1791    0.2253 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4031    0.7142    0.0291 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6725   -0.9217   -0.4220 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0540   -1.7950    0.5258 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0725    0.4418   -0.0273 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1076    0.4205   -0.0065 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0172   -1.3155   -1.3690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0791   -1.5479    1.5778 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1984   -2.8351    0.2717 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7388    1.6317    0.3014 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1043    0.0161   -0.1953 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05003
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BIXBBIPTYBJTRY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)N2CC12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H5N3O/c5-3-2-1-7(2)4(8)6-3/h2H,1H2,(H2,5,6,8)
+
+> <INCHI_KEY>
+BIXBBIPTYBJTRY-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H5N3O
+
+> <MOLECULAR_WEIGHT>
+111.102
+
+> <EXACT_MASS>
+111.043261797
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.97754113048192
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1,3-diazabicyclo[3.1.0]hex-3-en-2-one
+
+> <ALOGPS_LOGP>
+-1.93
+
+> <JCHEM_LOGP>
+-1.5683882003333334
+
+> <ALOGPS_LOGS>
+-0.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.628892306355776
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.459999999999994
+
+> <JCHEM_REFRACTIVITY>
+25.6983
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.14e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+imexon
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

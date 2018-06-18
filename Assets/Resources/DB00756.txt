@@ -1,0 +1,160 @@
+3598
+  -OEChem-10051719223D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    0.3768    2.6447    0.5315 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5655    2.1352   -1.7096 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4341   -1.9924   -0.5213 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1941   -2.9292    1.9357 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1632    2.4887    2.1192 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0678    1.1817    0.0620 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7876   -1.6200   -1.8612 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0191   -1.8362    0.2001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0893    0.4134   -1.4592 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1993    0.3778   -0.6964 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2924   -0.0012   -0.6409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0967   -0.6619   -0.9393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1860   -1.1291    0.1604 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5084    1.3607    0.2437 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4694    0.7307   -0.6945 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3037   -0.7186   -0.2422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2807   -1.5332    0.9246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7153    1.3039    0.9408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5641    0.3265    0.0696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6130    0.2642    0.6978 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4697   -0.8055    0.8793 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1645    1.4213   -1.8784 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0736   -0.2073   -2.3633 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5550    0.2181    1.2405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3224   -1.1224    1.4764 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8459   -1.8463   -1.7898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1334   -2.5838    0.8119 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00756
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ACGUYXCXAPNIKK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=C(CC2=C(O)C(Cl)=CC(Cl)=C2Cl)C(Cl)=C(Cl)C=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H6Cl6O2/c14-6-2-8(16)12(20)4(10(6)18)1-5-11(19)7(15)3-9(17)13(5)21/h2-3,20-21H,1H2
+
+> <INCHI_KEY>
+ACGUYXCXAPNIKK-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H6Cl6O2
+
+> <MOLECULAR_WEIGHT>
+406.904
+
+> <EXACT_MASS>
+403.849895678
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.071855286150594
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,4,6-trichloro-2-[(2,3,5-trichloro-6-hydroxyphenyl)methyl]phenol
+
+> <ALOGPS_LOGP>
+6.77
+
+> <JCHEM_LOGP>
+7.082177257666666
+
+> <ALOGPS_LOGS>
+-5.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.794720213161474
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.153372662291707
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.377815156118747
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+88.58579999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.33e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pre-op
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

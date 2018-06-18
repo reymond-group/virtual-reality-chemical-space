@@ -1,0 +1,121 @@
+1060
+  -OEChem-10051719083D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+   -1.4581   -0.9961    0.0082 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0591   -1.3165   -0.0143 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1940    1.2825   -0.0180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7111   -0.1452   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6443    1.0273    0.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7624    0.1480    0.0141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4810    1.6386   -0.8810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6775    0.6689    0.0045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842    1.6204    0.9138 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4268   -0.8423   -0.0073 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00119
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LCTONWCANYUPML-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)
+
+> <INCHI_KEY>
+LCTONWCANYUPML-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H4O3
+
+> <MOLECULAR_WEIGHT>
+88.0621
+
+> <EXACT_MASS>
+88.016043994
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.3105058729791725
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopropanoic acid
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+0.06587395333333337
+
+> <ALOGPS_LOGS>
+0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.93012330309767
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.583170381128017
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+17.9897
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.34e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyruvic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

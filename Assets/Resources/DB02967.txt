@@ -1,0 +1,131 @@
+4362
+  -OEChem-10051720063D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -0.1002   -2.3016    0.1333 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1134    2.3021    0.1330 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3265    0.0008    0.2342 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7408    0.0036    0.5525 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4274   -1.1291    0.0639 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4317    1.1271    0.0642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5915    0.0054   -0.7008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7919   -0.6710   -0.2402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7943    0.6626   -0.2402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9653    0.8940    1.1495 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9689   -0.8858    1.1495 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3907   -0.8790   -1.3146 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3870    0.8891   -1.3145 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6546    0.0076   -0.4413 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6274   -1.3241   -0.4276 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6325    1.3122   -0.4274 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02967
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HDFGOPSGAURCEO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCN1C(=O)C=CC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7NO2/c1-2-7-5(8)3-4-6(7)9/h3-4H,2H2,1H3
+
+> <INCHI_KEY>
+HDFGOPSGAURCEO-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H7NO2
+
+> <MOLECULAR_WEIGHT>
+125.1253
+
+> <EXACT_MASS>
+125.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.992895940408747
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-ethyl-2,5-dihydro-1H-pyrrole-2,5-dione
+
+> <ALOGPS_LOGP>
+0.02
+
+> <JCHEM_LOGP>
+-0.05541890466666666
+
+> <ALOGPS_LOGS>
+0.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.316433442691647
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.38
+
+> <JCHEM_REFRACTIVITY>
+32.9967
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.54e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-ethylmaleimide
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

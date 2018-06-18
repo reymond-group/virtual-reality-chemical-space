@@ -1,0 +1,137 @@
+249
+  -OEChem-10051720343D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    2.6112    0.2983   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8454    0.0241    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4000   -0.1898    0.8481 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0885   -1.2052   -0.8637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0450    0.2509    0.9087 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6485    1.2405   -0.8931 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6162   -0.4189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5418    0.7018    1.4686 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2355   -1.0607    1.4912 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0928   -2.0903   -0.2207 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0626   -1.0909   -1.3501 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3141   -1.2779   -1.6314 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8497    1.1327    1.5261 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9297    0.4105    0.2851 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1749   -0.6355    1.5366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4232    2.1039   -0.2599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1693    1.0510   -1.5939 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5767    1.4105   -1.4476 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6129   -1.3346   -0.6138 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB04401
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SXKNCCSPZDCRFD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[N+](C)(C)CC=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12NO/c1-6(2,3)4-5-7/h5H,4H2,1-3H3/q+1
+
+> <INCHI_KEY>
+SXKNCCSPZDCRFD-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H12NO
+
+> <MOLECULAR_WEIGHT>
+102.1549
+
+> <EXACT_MASS>
+102.091889011
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.635731873594036
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+trimethyl(2-oxoethyl)azanium
+
+> <ALOGPS_LOGP>
+-2.69
+
+> <JCHEM_LOGP>
+-4.6528000948050785
+
+> <ALOGPS_LOGS>
+-2.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.17672175984932
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+41.0609
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.32e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+betaine aldehyde
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

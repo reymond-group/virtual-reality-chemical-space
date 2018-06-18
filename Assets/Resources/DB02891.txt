@@ -1,0 +1,141 @@
+39040
+  -OEChem-10051720043D
+
+ 20 22  0     0  0  0  0  0  0999 V2000
+   -0.7151   -2.2739    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9714    0.2972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9763   -0.5932   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0841    0.7999   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4047    0.1531   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7404   -1.2119   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3456    1.1627   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6972   -0.8498    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0696   -1.5946    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6860    0.7729   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8644    1.3134    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0178    2.6138    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0443   -0.5896    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3607   -2.6395    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4803    1.5160   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6337    2.3673    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4539    2.8834    0.8987 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9227    3.2322    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4534    2.8838   -0.8977 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0964   -0.8638    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02891
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DQJCHOQLCLEDLL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C2N3C=NN=C3SC2=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7N3S/c1-6-3-2-4-7-8(6)12-5-10-11-9(12)13-7/h2-5H,1H3
+
+> <INCHI_KEY>
+DQJCHOQLCLEDLL-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H7N3S
+
+> <MOLECULAR_WEIGHT>
+189.237
+
+> <EXACT_MASS>
+189.036067929
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.842567067938944
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+12-methyl-7-thia-2,4,5-triazatricyclo[6.4.0.0²,⁶]dodeca-1(12),3,5,8,10-pentaene
+
+> <ALOGPS_LOGP>
+1.35
+
+> <JCHEM_LOGP>
+1.1606
+
+> <ALOGPS_LOGS>
+-2.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.8424088289777159
+
+> <JCHEM_POLAR_SURFACE_AREA>
+30.19
+
+> <JCHEM_REFRACTIVITY>
+64.88159999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.60e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tricyclazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

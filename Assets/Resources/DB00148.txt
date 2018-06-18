@@ -1,0 +1,141 @@
+59098743
+  -OEChem-10051719083D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    1.9877   -0.8887    0.8561 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.2916    1.2263    0.0400 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5097   -0.5114   -0.3154 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7427    0.0140    0.5375 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.2612    1.7439   -0.0268 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7333   -0.1910   -1.0088 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4386    0.4607    0.0406 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8298   -1.9299   -0.1933 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7694    0.0761    0.0701 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0760   -1.0260   -1.6317 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6125    0.6632   -1.6839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5951   -2.2112   -0.9240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1917   -2.1644    0.8132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0462   -2.5642   -0.3680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3521    0.8269    0.6910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6337   -0.4847    1.4287 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1935   -0.6068   -0.1454 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3227    1.9635   -0.3681 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 18  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  CHG  2   1  -1   4   1
+M  END
+> <DATABASE_ID>
+DB00148
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CVSVTCORWBXHQV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(CC(O)=O)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9N3O2/c1-7(4(5)6)2-3(8)9/h2H2,1H3,(H3,5,6)(H,8,9)
+
+> <INCHI_KEY>
+CVSVTCORWBXHQV-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H9N3O2
+
+> <MOLECULAR_WEIGHT>
+131.1332
+
+> <EXACT_MASS>
+131.069476547
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.170880209535248
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(N-methylcarbamimidamido)acetic acid
+
+> <ALOGPS_LOGP>
+-1.59
+
+> <JCHEM_LOGP>
+-2.8642238844128185
+
+> <ALOGPS_LOGS>
+-1.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.501029063602651
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.429771248504041
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.41
+
+> <JCHEM_REFRACTIVITY>
+42.0127
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.11e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+creatine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

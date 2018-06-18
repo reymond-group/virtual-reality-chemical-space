@@ -1,0 +1,145 @@
+441481
+  -OEChem-10051720323D
+
+ 20 20  0     1  0  0  0  0  0999 V2000
+    1.3032    0.9553   -0.6155 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0508   -1.0369    0.8169 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4602   -1.2113   -1.4779 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5910    1.2409   -0.7313 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2547   -0.6198    0.8805 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7583   -0.4432    0.7976 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1604   -1.1635   -0.1942 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8745    1.0488    0.4878 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5003   -0.4309   -0.3128 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5161    1.6605    0.3489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3593   -0.5548    1.8115 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3024   -2.1992    0.1357 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4469    1.5581    1.2698 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0860   -0.8464   -1.1388 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4375    2.6936   -0.0053 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0440    1.6739    1.3088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4254   -0.9520   -0.0767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1367   -1.6945   -2.0743 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0576    0.8734   -1.4563 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6590   -0.6718    1.6434 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04286
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SRBFZHDQGSBBOR-TXICZTDVSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@@H]1CO[C@@H](O)[C@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3-,4-,5-/m1/s1
+
+> <INCHI_KEY>
+SRBFZHDQGSBBOR-TXICZTDVSA-N
+
+> <FORMULA>
+C5H10O5
+
+> <MOLECULAR_WEIGHT>
+150.1299
+
+> <EXACT_MASS>
+150.05282343
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.22950560128355
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4R,5R)-oxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.57
+
+> <JCHEM_LOGP>
+-2.302204276
+
+> <ALOGPS_LOGS>
+0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.786263151759016
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.310624247742409
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.5265718350182684
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+29.9609
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β-D-ribopyranose
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

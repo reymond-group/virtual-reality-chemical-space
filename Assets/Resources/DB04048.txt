@@ -1,0 +1,138 @@
+1535935
+  -OEChem-10051720273D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -1.6799   -1.5881    0.1675 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8649    0.2023   -0.5423 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2493    0.8559   -0.8656 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6040   -0.2996    0.3052 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7957   -1.0013    0.3683 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5174    0.5238   -0.0637 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6925    1.6568    0.9363 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7995   -0.2838   -0.1777 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9053   -0.0660   -0.1280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3157    0.9387   -1.0583 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9041    1.2688    1.9394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2125    2.2703    1.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5249    2.3093    0.6520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430   -1.0822    0.9322 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4931   -1.7555    0.9754 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7828   -0.9604    0.1382 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5307   -2.0691    0.0847 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04048
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LUSWEUMSEVLFEQ-UWTATZPHSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@@H](NC(N)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8N2O3/c1-2(3(7)8)6-4(5)9/h2H,1H3,(H,7,8)(H3,5,6,9)/t2-/m1/s1
+
+> <INCHI_KEY>
+LUSWEUMSEVLFEQ-UWTATZPHSA-N
+
+> <FORMULA>
+C4H8N2O3
+
+> <MOLECULAR_WEIGHT>
+132.1179
+
+> <EXACT_MASS>
+132.053492132
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.87295924602438
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-(carbamoylamino)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.18
+
+> <JCHEM_LOGP>
+-1.0934102453333332
+
+> <ALOGPS_LOGS>
+-0.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.01964763815361
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.774616853492188
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.5552078650871226
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.41999999999999
+
+> <JCHEM_REFRACTIVITY>
+28.617800000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.90e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-carbamoyl-alanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

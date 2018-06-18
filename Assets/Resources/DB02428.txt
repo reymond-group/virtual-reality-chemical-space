@@ -1,0 +1,143 @@
+7124
+  -OEChem-10051719553D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+   -3.0109   -1.6162   -0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8439    0.4986    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5685   -0.8501    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1716    0.8170   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7382   -0.5254    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1978    1.8247   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5439    1.1197   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7062   -1.5260    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4767    0.1525    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1494    1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4903    0.0990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0705   -1.2253    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8692   -0.2617    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4843    2.8738   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8831    2.1532   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4032   -2.5715    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9013    2.2747   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5495    0.3367    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8021   -2.0281    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9547   -1.8841   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6 10  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02428
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LOAUVZALPPNFOQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=NC2=C(C=CC=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7NO2/c12-10(13)9-6-5-7-3-1-2-4-8(7)11-9/h1-6H,(H,12,13)
+
+> <INCHI_KEY>
+LOAUVZALPPNFOQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7NO2
+
+> <MOLECULAR_WEIGHT>
+173.1681
+
+> <EXACT_MASS>
+173.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.268436644483714
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+quinoline-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.44
+
+> <JCHEM_LOGP>
+1.0101197009518392
+
+> <ALOGPS_LOGS>
+-2.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.0732358228251755
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.89143108514837
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.19
+
+> <JCHEM_REFRACTIVITY>
+46.8635
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.60e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+quinaldic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

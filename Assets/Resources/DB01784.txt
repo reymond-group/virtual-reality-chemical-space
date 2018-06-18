@@ -1,0 +1,133 @@
+120231
+  -OEChem-10051719423D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.1317   -0.0002   -0.1037 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7413    0.0005    0.0451 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5767   -1.2604   -0.6823 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5800    1.2591   -0.6818 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5003    0.0008    1.5647 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3865   -0.0001   -0.0591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3106    1.2079   -0.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3107   -1.2080   -0.0408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7050    1.2081   -0.0065 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7052   -1.2079   -0.0054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4023    0.0002    0.0117 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2120    2.1603   -0.0493 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2116   -2.1605   -0.0470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2482    2.1483    0.0084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2486   -2.1480    0.0103 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8909   -0.8600    1.9672 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8911    0.8619    1.9661 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01784
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LFLSATHZMYYIAQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6FNO2S/c7-5-1-3-6(4-2-5)11(8,9)10/h1-4H,(H2,8,9,10)
+
+> <INCHI_KEY>
+LFLSATHZMYYIAQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6FNO2S
+
+> <MOLECULAR_WEIGHT>
+175.181
+
+> <EXACT_MASS>
+175.010327336
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.757516032306032
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-fluorobenzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.62
+
+> <JCHEM_LOGP>
+0.7219785219999999
+
+> <ALOGPS_LOGS>
+-1.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.812097362047577
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.160000000000004
+
+> <JCHEM_REFRACTIVITY>
+38.4323
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.16e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-fluorobenzenesulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,155 @@
+5226
+  -OEChem-10051720163D
+
+ 26 27  0     0  0  0  0  0  0999 V2000
+   -2.9429    0.2545   -0.1110 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0763    1.5618   -0.7386 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6796   -0.8825   -0.6449 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469    1.1978    0.3549 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2962    0.4037    1.5540 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4707   -0.8243    0.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0793    0.5257   -0.0298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9317   -1.1878    0.0919 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1151    1.6213   -0.0932 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8472   -0.0345   -0.3229 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2835    0.8480   -0.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2477   -0.1595   -0.0557 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4947   -1.8284    0.0485 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8592   -1.4958    0.0103 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1561   -1.4812    1.1253 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -2.0509   -0.5532 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1723    1.9917   -1.1243 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7987    2.4554    0.5435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8800   -0.2807   -0.0527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8262    0.1064   -1.4111 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1183    1.9360    0.1457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5771    1.8937   -0.1289 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7852   -2.8743    0.1056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5940   -2.2955    0.0398 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4693    1.3472    1.9220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8798   -0.3239    1.9847 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 12  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03468
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UGLLZXSYRBMNOS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=CC2=C(CCNC2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2O2S/c10-14(12,13)9-2-1-7-3-4-11-6-8(7)5-9/h1-2,5,11H,3-4,6H2,(H2,10,12,13)
+
+> <INCHI_KEY>
+UGLLZXSYRBMNOS-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12N2O2S
+
+> <MOLECULAR_WEIGHT>
+212.269
+
+> <EXACT_MASS>
+212.061948328
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.46050525957841
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,2,3,4-tetrahydroisoquinoline-7-sulfonamide
+
+> <ALOGPS_LOGP>
+0.15
+
+> <JCHEM_LOGP>
+0.004237116732422421
+
+> <ALOGPS_LOGS>
+-2.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.367832419896555
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.623767557376791
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+54.77350000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,2,3,4-tetrahydroisoquinoline-7-sulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

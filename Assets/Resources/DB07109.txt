@@ -1,0 +1,153 @@
+736186
+  -OEChem-10051720563D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+   -3.7921   -0.6393   -0.3401 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8916    1.9890   -0.2599 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8862   -1.0510   -0.3018 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4879    1.0654    0.4511 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2632    0.1666    0.0384 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4634   -0.3663   -0.2151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6479    1.2192   -0.0485 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0113    0.9528   -0.1753 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1890   -1.1524   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5522   -1.4189   -0.1281 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6847    0.4439    0.1714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6802   -0.4253   -0.1120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5438   -0.7665    0.8653 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0893   -0.0171    0.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3076    2.2522   -0.0200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4808   -2.0032    0.0828 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8983   -2.4487   -0.1550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9351    1.4443    0.5187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4996   -1.4268   -0.4858 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4849    0.1510    1.4593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1824   -1.6169    1.4521 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5895   -0.9443    0.5996 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7855    1.6261   -0.3835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8376   -0.8312   -0.2077 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07109
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QURCVMIEKCOAJU-HWKANZROSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=C(O)C=C(\C=C\C(O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10O4/c1-14-9-4-2-7(6-8(9)11)3-5-10(12)13/h2-6,11H,1H3,(H,12,13)/b5-3+
+
+> <INCHI_KEY>
+QURCVMIEKCOAJU-HWKANZROSA-N
+
+> <FORMULA>
+C10H10O4
+
+> <MOLECULAR_WEIGHT>
+194.184
+
+> <EXACT_MASS>
+194.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.362647576770062
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E)-3-(3-hydroxy-4-methoxyphenyl)prop-2-enoic acid
+
+> <ALOGPS_LOGP>
+1.56
+
+> <JCHEM_LOGP>
+1.6748496726666668
+
+> <ALOGPS_LOGS>
+-2.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.852538782041124
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.767472407589629
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.889780749263311
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+51.50400000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.71e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isoferulic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

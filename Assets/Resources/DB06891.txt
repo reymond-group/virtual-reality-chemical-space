@@ -1,0 +1,164 @@
+11069133
+  -OEChem-10051720523D
+
+ 29 30  0     0  0  0  0  0  0999 V2000
+   -4.3475    2.9296    1.0180 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7214   -1.0672    0.7836 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6593    0.5810   -0.4284 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7729    0.5881   -1.1357 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2061   -1.3707   -1.5951 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8042   -2.5204    0.6969 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3044   -0.4613    2.0424 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6104   -0.4138    0.0578 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7626    1.0556   -1.8050 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2991   -0.5126   -0.4890 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3236   -1.1358    0.7058 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6839   -0.8849    0.7530 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0396    1.1171   -0.7434 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7068    1.9353    0.6157 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2805   -0.4181    0.3404 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6650    0.8444    0.7919 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1417   -1.1629   -0.4656 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7128   -0.4333   -0.2373 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7719    0.6174   -0.3687 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9108    1.3623    0.4373 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3873   -0.6452   -0.8201 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0490   -0.0047   -0.1545 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0709    0.1553   -1.1761 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9943    1.4314    1.4147 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8611   -2.1452   -0.8345 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3342    2.0305   -0.4246 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6497    0.5616   -1.3282 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6747    1.7460    1.6258 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3718    2.6818    0.3763 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 21  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  2  0  0  0  0
+ 12 22  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06891
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HOLJYLOVIHBQHO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=C(F)C=C(C=C1Cl)S(=O)(=O)NC1=NN=C(S1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7ClFN5O4S3/c9-4-1-3(2-5(10)6(4)11)22(18,19)15-7-13-14-8(20-7)21(12,16)17/h1-2H,11H2,(H,13,15)(H2,12,16,17)
+
+> <INCHI_KEY>
+HOLJYLOVIHBQHO-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H7ClFN5O4S3
+
+> <MOLECULAR_WEIGHT>
+387.819
+
+> <EXACT_MASS>
+386.933271719
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.335000820683142
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(4-amino-3-chloro-5-fluorobenzenesulfonamido)-1,3,4-thiadiazole-2-sulfonamide
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+0.12830862133333343
+
+> <ALOGPS_LOGS>
+-3.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.03168735012623
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.424004157592678
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7781339601715445
+
+> <JCHEM_POLAR_SURFACE_AREA>
+158.13
+
+> <JCHEM_REFRACTIVITY>
+79.04750000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-(4-amino-3-chloro-5-fluorobenzenesulfonamido)-1,3,4-thiadiazole-2-sulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

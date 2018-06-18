@@ -1,0 +1,143 @@
+5289078
+  -OEChem-10051720413D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    0.1900   -1.1541    0.0199 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2106   -0.1931   -0.0617 S   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.8336    1.2768    0.0130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2004    1.1074   -0.0281 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6630   -0.1089    0.0278 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4796   -0.5103    0.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9245   -0.9594   -0.0092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0791    0.0771    0.0135 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5545    0.5831    0.0341 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1796   -0.1187   -0.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6570    0.5172    0.9271 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6365    0.5574   -0.8417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5788   -1.1226   -0.9000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5808   -1.1640    0.8822 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9519   -1.5843   -0.9091 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9804   -1.6135    0.8684 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4264    1.1824    0.9443 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3789    1.2775   -0.7972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1226   -0.6926   -0.0154 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4 10  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+M  CHG  1   2  -1
+M  END
+> <DATABASE_ID>
+DB04749
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LHLHVBHXBHTTIV-UHFFFAOYSA-M/SDF?record_type=3d
+
+> <SMILES>
+[S-]CCC(=O)SCCC=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O2S2/c7-3-1-5-10-6(8)2-4-9/h3,9H,1-2,4-5H2/p-1
+
+> <INCHI_KEY>
+LHLHVBHXBHTTIV-UHFFFAOYSA-M
+
+> <FORMULA>
+C6H9O2S2
+
+> <MOLECULAR_WEIGHT>
+177.264
+
+> <EXACT_MASS>
+177.004395912
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.02363581402286
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{3-oxo-3-[(3-oxopropyl)sulfanyl]propyl}sulfanide
+
+> <ALOGPS_LOGP>
+0.83
+
+> <JCHEM_LOGP>
+0.8009137630000002
+
+> <ALOGPS_LOGS>
+-2.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.12088503602148
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.12651487202984
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.011461085564074
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+46.788700000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.51e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+{3-oxo-3-[(3-oxopropyl)sulfanyl]propyl}sulfanide
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,137 @@
+8631
+  -OEChem-10051720393D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    2.1427    3.0421    0.1116 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6743   -2.9272   -0.1153 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9752    2.1225    0.0683 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5730   -1.5782    0.5507 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9926    0.3895   -0.5070 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7369   -0.2429   -0.0217 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1615    1.0268    0.0285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0759   -1.3758   -0.0629 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2266    1.1636    0.0374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4640   -1.2389   -0.0539 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0394    0.0308   -0.0038 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1838   -0.4122   -0.0319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3623   -2.3700   -0.1162 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1224    0.1347    0.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9073    1.8665    0.1469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5482   -1.6846    0.5388 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04674
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DHZVWQPHNWDCFS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=C(O)C(I)=CC(I)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H4I2O3/c8-3-1-4(7(11)12)6(10)5(9)2-3/h1-2,10H,(H,11,12)
+
+> <INCHI_KEY>
+DHZVWQPHNWDCFS-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H4I2O3
+
+> <MOLECULAR_WEIGHT>
+389.9138
+
+> <EXACT_MASS>
+389.824980834
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.855238148727086
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxy-3,5-diiodobenzoic acid
+
+> <ALOGPS_LOGP>
+3.13
+
+> <JCHEM_LOGP>
+3.835152359
+
+> <ALOGPS_LOGS>
+-3.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.672291810563484
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5074565325579834
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.102409443327333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+62.0201
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.55e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,5-diiodosalicylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

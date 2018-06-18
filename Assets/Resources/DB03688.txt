@@ -1,0 +1,128 @@
+68152
+  -OEChem-10051720203D
+
+ 12 11  0     0  0  0  0  0  0999 V2000
+   -1.8431    0.3169   -0.8325 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8864   -0.5663   -0.5685 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8867    1.2542    0.3550 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2327   -0.8839    0.4796 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5778   -0.1794    0.4734 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8804    0.0585    0.0930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0108   -1.2985    1.4673 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2555   -1.6998   -0.2522 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5910    0.6619    1.1739 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3732   -0.8794    0.7476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7113    0.7537   -0.8003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6069    0.0542   -0.8097 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03688
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ALRHLSYJTWAHJZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O3/c4-2-1-3(5)6/h4H,1-2H2,(H,5,6)
+
+> <INCHI_KEY>
+ALRHLSYJTWAHJZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H6O3
+
+> <MOLECULAR_WEIGHT>
+90.0779
+
+> <EXACT_MASS>
+90.031694058
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.150999882305161
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-hydroxypropanoic acid
+
+> <ALOGPS_LOGP>
+-0.95
+
+> <JCHEM_LOGP>
+-0.8035810240000001
+
+> <ALOGPS_LOGS>
+0.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.02280713040642
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.201252954149806
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.477742482637333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+19.0453
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.47e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxypropionic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,162 @@
+735838
+  -OEChem-10051721193D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    1.6113    1.5159   -0.0004 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8356   -0.7054    0.0020 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0097    1.0639   -0.0014 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4519   -0.7946   -0.0015 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8160   -1.0115   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6061    0.1189   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2722    0.4805   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3089    0.5151   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2961   -2.4091   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0246    0.2562    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4217    1.3564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4812   -0.8691   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7066    0.8134    0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7662   -1.4121    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6595    1.6522    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8788   -0.5707    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0192    2.0819   -0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9019   -2.6116   -0.8892 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9001   -2.6117    0.8897 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4575   -3.1131   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3028    2.4369   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6633   -1.5770   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5730    1.4684    0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9015   -2.4898    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3726    2.2004   -0.9001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7499    1.5524    0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3722    2.1999    0.9026 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8792   -0.9934    0.0025 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08359
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UIIUOFPGDKBCEZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)C1=C(C)N=C(NC2=CC=CC=C2)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N2OS/c1-8-11(9(2)15)16-12(13-8)14-10-6-4-3-5-7-10/h3-7H,1-2H3,(H,13,14)
+
+> <INCHI_KEY>
+UIIUOFPGDKBCEZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H12N2OS
+
+> <MOLECULAR_WEIGHT>
+232.301
+
+> <EXACT_MASS>
+232.067033706
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.918262135717658
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[4-methyl-2-(phenylamino)-1,3-thiazol-5-yl]ethan-1-one
+
+> <ALOGPS_LOGP>
+3.16
+
+> <JCHEM_LOGP>
+2.5776714843333335
+
+> <ALOGPS_LOGS>
+-3.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.59177318572485
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.650544445591038
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.7672815719544095
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.99
+
+> <JCHEM_REFRACTIVITY>
+64.0043
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.69e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[4-methyl-2-(phenylamino)-1,3-thiazol-5-yl]ethanone
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

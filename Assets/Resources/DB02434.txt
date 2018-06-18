@@ -1,0 +1,144 @@
+78386
+  -OEChem-10051719553D
+
+ 21 21  0     0  0  0  0  0  0999 V2000
+    1.4185   -1.0680   -1.0380 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4540   -1.7011    0.6829 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9935   -0.1596   -0.8916 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0223    1.6807    0.2197 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0366    1.2714   -0.8841 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6085    0.4993    0.9988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526    0.4839   -0.3992 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0809    0.8641    0.5205 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4110   -0.4555    0.1426 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0573   -0.1547    0.7169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8167   -1.2605   -0.0685 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5224    2.3513    0.9293 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8358    2.2577   -0.2372 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5732    0.7285   -1.6716 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3395    2.1857   -1.3625 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8066   -0.0576    1.4955 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2793    0.8768    1.7789 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0793    1.8164    1.0348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8937   -0.0803    1.3995 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3953   -2.1720   -0.1194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9900   -2.3170    0.1391 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02434
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VYTXLSQVYGNWLV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CCCC1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10O2S/c9-8(10)5-1-3-7-4-2-6-11-7/h2,4,6H,1,3,5H2,(H,9,10)
+
+> <INCHI_KEY>
+VYTXLSQVYGNWLV-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H10O2S
+
+> <MOLECULAR_WEIGHT>
+170.229
+
+> <EXACT_MASS>
+170.040150254
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.657053002314075
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(thiophen-2-yl)butanoic acid
+
+> <ALOGPS_LOGP>
+2.50
+
+> <JCHEM_LOGP>
+2.413012808333333
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.940345903806706
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.003201820454375
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+43.6115
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.80e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-(2-thienyl)butyric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,128 @@
+3366
+  -OEChem-10051719293D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+    2.3815    0.9951   -0.0002 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7475   -0.4935   -0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5463   -1.0798    0.0006 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7425   -1.7626   -0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2205    1.2102   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8002   -0.7730    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1228    0.5254    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5700   -0.1306    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0374    1.5088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7956   -2.0645    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3457    2.5660   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7274   -1.5286   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4439   -2.7295   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01099
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XRECTZIEBJDKEO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=C(F)C=NC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4FN3O/c5-2-1-7-4(9)8-3(2)6/h1H,(H3,6,7,8,9)
+
+> <INCHI_KEY>
+XRECTZIEBJDKEO-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4FN3O
+
+> <MOLECULAR_WEIGHT>
+129.0925
+
+> <EXACT_MASS>
+129.03383997
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.973904378734243
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-amino-5-fluoro-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-0.24
+
+> <JCHEM_LOGP>
+-0.9481628816666665
+
+> <ALOGPS_LOGS>
+-1.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.163186658693784
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.0557196693239448
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.48
+
+> <JCHEM_REFRACTIVITY>
+38.2177
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.92e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+flucytosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

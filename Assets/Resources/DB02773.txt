@@ -1,0 +1,158 @@
+2084
+  -OEChem-10051720023D
+
+ 28 28  0     0  0  0  0  0  0999 V2000
+   -1.2113   -2.5448   -1.0332 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4868   -0.3897    0.6285 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0805    0.6751   -0.4996 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0621    1.1912   -1.4019 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6645   -0.2879    0.5780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1586    0.7712    0.1451 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5085    0.3582   -0.4211 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1238   -0.3726    0.6008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1549   -0.2411    0.5655 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9907   -1.2731   -0.1439 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9440    0.6550    1.3112 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4034   -1.3154   -0.1324 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4501    0.6128    1.3226 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2777    1.5460   -0.9706 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7235    0.6151   -0.5491 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5673    1.2649   -0.6371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2959    1.4722    0.9764 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3628   -0.3878   -1.2115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0976   -0.1398    0.3583 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5597   -1.2547    0.4573 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5214    0.1538    1.5209 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5550   -2.0058   -0.7165 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4570    1.4278    1.8775 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9962    1.3494    1.9055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7234    2.0326   -1.7795 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2438    1.2207   -1.3691 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4655    2.2878   -0.1878 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4480    1.2287   -1.2213 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02773
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QEJHPAGTOOIBFT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCOC1=CC=C(CC(O)=O)C=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13ClO3/c1-2-5-15-10-4-3-8(6-9(10)12)7-11(13)14/h3-4,6H,2,5,7H2,1H3,(H,13,14)
+
+> <INCHI_KEY>
+QEJHPAGTOOIBFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H13ClO3
+
+> <MOLECULAR_WEIGHT>
+228.672
+
+> <EXACT_MASS>
+228.055321989
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.124908874997296
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(3-chloro-4-propoxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+3.21
+
+> <JCHEM_LOGP>
+2.936697865666667
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6915431163961228
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.894185808744882
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+57.90620000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.27e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3-chloro-4-propoxyphenyl)acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

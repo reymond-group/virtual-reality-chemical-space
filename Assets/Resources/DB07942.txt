@@ -1,0 +1,160 @@
+42647299
+  -OEChem-10051721113D
+
+ 28 30  0     0  0  0  0  0  0999 V2000
+    4.3661    2.2202    0.2975 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1914    2.9072   -1.6004 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5276   -2.6711   -0.1475 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6601   -3.6922   -0.2524 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1714    2.1289    0.3322 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4218   -1.6894   -0.0625 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9304   -1.4502   -0.0313 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4398   -0.6808    0.0307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6934   -0.2316    0.0925 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5292   -3.0864   -0.1999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3543   -0.5150   -1.0095 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5141    0.1333    1.1609 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5579    0.7762   -0.8560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5669   -0.0604    1.1608 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3429    0.4650   -0.9193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5028    1.1131    1.2512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4172    1.2790    0.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3126    1.9266   -0.6922 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2764    1.1275    1.2343 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4221   -3.6924   -0.2639 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5177   -2.8833   -0.1634 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3104   -1.1382   -1.8996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8175    0.0160    1.9877 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8917    0.6807   -1.7073 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6990   -0.8206    1.9240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0545    0.5951   -1.7292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5620    1.7459    2.1317 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9699    1.3107    2.0485 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 18  2  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 19 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07942
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YJCHZVXSPFPKMX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC1=CC=C(C=C1)C1=CNN=C1C1=CC(F)=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H9F2N3/c15-11-3-1-9(2-4-11)12-8-18-19-14(12)10-5-6-17-13(16)7-10/h1-8H,(H,18,19)
+
+> <INCHI_KEY>
+YJCHZVXSPFPKMX-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H9F2N3
+
+> <MOLECULAR_WEIGHT>
+257.2382
+
+> <EXACT_MASS>
+257.076453713
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.642405688354334
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-fluoro-4-[4-(4-fluorophenyl)-1H-pyrazol-3-yl]pyridine
+
+> <ALOGPS_LOGP>
+3.37
+
+> <JCHEM_LOGP>
+3.419392972666666
+
+> <ALOGPS_LOGS>
+-4.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.975770103932621
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.6916045732299045
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.57
+
+> <JCHEM_REFRACTIVITY>
+68.9364
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.60e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-fluoro-4-[4-(4-fluorophenyl)-1H-pyrazol-3-yl]pyridine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

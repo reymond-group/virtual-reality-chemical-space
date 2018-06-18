@@ -1,0 +1,134 @@
+643798
+  -OEChem-10231700123D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+   -1.3252    1.0350    1.2233 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8262   -0.5030    0.0504 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3498    1.2939   -1.0353 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3809    1.2558   -0.0328 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7404   -0.8296   -0.0587 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8125   -1.8784   -0.0416 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5890   -1.0295   -0.0419 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1623    0.5994   -0.0485 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5943    0.0564   -0.0151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4490   -1.7598    0.8409 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4376   -1.7958   -0.9363 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3858   -2.8862   -0.0182 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9690   -2.0478   -0.0320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6068    1.9741    1.2564 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5357    0.1739    0.0770 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04734
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HNEGQIOMVPPMNR-IHWYPQMZSA-N/SDF?record_type=3d
+
+> <SMILES>
+C\C(=C\C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h2H,1H3,(H,6,7)(H,8,9)/b3-2-
+
+> <INCHI_KEY>
+HNEGQIOMVPPMNR-IHWYPQMZSA-N
+
+> <FORMULA>
+C5H6O4
+
+> <MOLECULAR_WEIGHT>
+130.0987
+
+> <EXACT_MASS>
+130.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.166206395628047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2Z)-2-methylbut-2-enedioic acid
+
+> <ALOGPS_LOGP>
+0.21
+
+> <JCHEM_LOGP>
+0.35463615800000003
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.600106202517881
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.306398372526869
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+28.964100000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.59e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+citraconic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,144 @@
+75846
+  -OEChem-10051721063D
+
+ 22 23  0     0  0  0  0  0  0999 V2000
+    0.5594   -1.8326    0.9656 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6267   -1.9258   -0.7144 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7407    1.2013   -0.3061 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6944    1.3622    0.1347 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7976   -0.6517    0.4707 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8224   -0.6442   -0.3834 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6049   -0.9076   -0.6322 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5789    0.6585   -0.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9606    0.5296    1.1855 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9982   -0.9477    0.2910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5529    0.0424   -0.9764 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5387    1.6173   -0.5188 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9376    1.4152    0.7601 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8944    0.0831    0.5237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5210   -1.8192   -1.2148 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6735    0.9351   -1.3303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3504    0.7675    2.0506 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2247   -1.9526    0.6321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2090   -0.1103   -1.8269 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3980    2.6495   -0.8221 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1045    2.3511    1.2831 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8276   -0.0997    1.0462 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3 11  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4 12  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07623
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UHBAPGWWRFVTFS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+S(SC1=CC=NC=C1)C1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8N2S2/c1-5-11-6-2-9(1)13-14-10-3-7-12-8-4-10/h1-8H
+
+> <INCHI_KEY>
+UHBAPGWWRFVTFS-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H8N2S2
+
+> <MOLECULAR_WEIGHT>
+220.314
+
+> <EXACT_MASS>
+220.012889646
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.46088798867781
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(pyridin-4-yldisulfanyl)pyridine
+
+> <ALOGPS_LOGP>
+2.16
+
+> <JCHEM_LOGP>
+2.1384000966666665
+
+> <ALOGPS_LOGS>
+-3.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.595807394753588
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.78
+
+> <JCHEM_REFRACTIVITY>
+58.146400000000014
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.92e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4,4'-dipyridyl disulfide
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

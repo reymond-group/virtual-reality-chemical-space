@@ -1,0 +1,143 @@
+82315
+  -OEChem-10051721163D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+    4.1689   -0.0266    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3646    0.0286   -0.0010 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4621   -0.7256    0.0016 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0182    0.0149   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7276    1.2158    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7035   -1.2001   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1717    1.1377   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1924   -1.0660    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1224    1.2018    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0984   -1.2142   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8079   -0.0131    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4562    0.6467    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2507    2.1900    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2079   -2.1650   -0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8189    2.1586   -0.0021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8548   -2.0928    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6642    2.1439    0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6276   -2.1633   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3769    1.2118    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4931    0.8904    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08214
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CYKCUAPYWQDIKR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1)N1C=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N2O/c12-9-3-1-8(2-4-9)11-6-5-10-7-11/h1-7,12H
+
+> <INCHI_KEY>
+CYKCUAPYWQDIKR-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8N2O
+
+> <MOLECULAR_WEIGHT>
+160.1726
+
+> <EXACT_MASS>
+160.063662888
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.407035930360067
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(1H-imidazol-1-yl)phenol
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+0.9764999999999999
+
+> <ALOGPS_LOGS>
+-1.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.958690105858317
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.431878326039338
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.05
+
+> <JCHEM_REFRACTIVITY>
+55.9873
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-(1H-imidazol-1-yl)phenol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

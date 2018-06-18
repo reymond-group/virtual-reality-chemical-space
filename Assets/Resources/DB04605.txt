@@ -1,0 +1,138 @@
+70766
+  -OEChem-10051720383D
+
+ 19 20  0     0  0  0  0  0  0999 V2000
+   -1.7362    2.2100    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7049   -0.3344   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0077    0.4729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3389   -0.8978    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3456    0.8489   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6815   -1.8631    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0389    1.4193    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3516   -0.1191   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0201   -1.4720   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6944   -1.2329    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3502    0.9682   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4404   -2.9236    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8693    2.4896    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4002    0.1682   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8045   -2.2233   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0183   -2.2701    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1774    1.6706   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7217    2.4403   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0630    2.9611   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 10  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04605
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DTVYNUOOZIKEEX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=CC2=C1C=CN=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N2/c10-9-3-1-2-7-6-11-5-4-8(7)9/h1-6H,10H2
+
+> <INCHI_KEY>
+DTVYNUOOZIKEEX-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8N2
+
+> <MOLECULAR_WEIGHT>
+144.1732
+
+> <EXACT_MASS>
+144.068748266
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.210776645101662
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+isoquinolin-5-amine
+
+> <ALOGPS_LOGP>
+1.27
+
+> <JCHEM_LOGP>
+0.9161241916666668
+
+> <ALOGPS_LOGS>
+-1.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.483200447089391
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.91
+
+> <JCHEM_REFRACTIVITY>
+45.051700000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.03e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-aminoisoquinoline
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

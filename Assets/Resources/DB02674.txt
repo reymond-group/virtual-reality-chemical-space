@@ -1,0 +1,164 @@
+446903
+  -OEChem-10051720003D
+
+ 29 30  0     1  0  0  0  0  0999 V2000
+   -1.9022    2.0355    0.9673 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7131   -2.6636    0.8258 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3493   -0.4977    0.5471 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1252   -0.5480   -1.3650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1794   -1.0711    0.0509 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3683   -0.7598   -0.3719 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2173    0.1441   -0.7405 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7253    0.3982   -0.9611 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5763    1.3605   -0.0669 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.1662    1.6901   -0.2768 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6859    1.0820    0.7324 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4519   -1.6211    0.2411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8251    0.5003   -0.1073 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1027    0.2529    0.6949 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2116   -0.3023   -0.1699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7147   -0.0841   -1.6874 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9920    0.4116   -2.0232 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3609    2.1174   -0.8311 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1640    2.5182   -0.9928 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1595    1.6247    0.1767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4783    0.4029    1.5695 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0383    2.0194    1.1837 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3272   -1.5285    0.3590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3675   -0.9352   -0.4073 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5126   -0.4429   -0.5699 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0457    1.1875   -0.9345 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9026   -0.4650    1.4977 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4511    1.1940    1.1343 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0743   -0.8554   -0.0084 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 15  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02674
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AINAXQHKYSZESH-HAFWLYHUSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]12CS[C@@]([H])(CCCC(O)=O)[C@@]1([H])NC(=O)N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N2O3S/c12-7(13)3-1-2-6-8-5(4-15-6)10-9(14)11-8/h5-6,8H,1-4H2,(H,12,13)(H2,10,11,14)/t5-,6-,8-/m0/s1
+
+> <INCHI_KEY>
+AINAXQHKYSZESH-HAFWLYHUSA-N
+
+> <FORMULA>
+C9H14N2O3S
+
+> <MOLECULAR_WEIGHT>
+230.284
+
+> <EXACT_MASS>
+230.072513014
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.64215804803667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(3aS,4S,6aR)-2-oxo-hexahydro-1H-thieno[3,4-d]imidazolidin-4-yl]butanoic acid
+
+> <ALOGPS_LOGP>
+-0.23
+
+> <JCHEM_LOGP>
+-0.12514501699999983
+
+> <ALOGPS_LOGS>
+-2.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.471253727387708
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.327478270255696
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8636397573935244
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.43
+
+> <JCHEM_REFRACTIVITY>
+55.44990000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.22e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-[(3aS,4S,6aR)-2-oxo-hexahydrothieno[3,4-d]imidazolidin-4-yl]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

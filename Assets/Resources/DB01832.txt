@@ -1,0 +1,144 @@
+446167
+  -OEChem-10051719433D
+
+ 20 19  0     1  0  0  0  0  0999 V2000
+   -2.4243   -0.0009   -0.0061 P   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3055    0.8326    1.3677 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6102    0.8299   -1.2289 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2731    1.0901   -0.4914 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0166   -0.7396    0.0345 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7976    1.1301    0.4653 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8900   -0.9487   -0.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3433   -0.1190   -0.2773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7168   -1.1688    0.3139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6599   -0.8645   -0.2764 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8565   -0.0413    0.1157 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9579   -1.7063   -0.8043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7782   -1.4539    0.9474 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8319   -1.8568   -0.5284 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4999   -1.7610    1.2076 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6706   -0.6565    0.4684 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5890   -1.6910    0.4388 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8143   -1.2629   -1.2839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0620    1.3845    1.6600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7909   -0.1940    0.2896 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 19  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01832
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MZTALSPOBPYJPG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[P@@](O)(=O)CC(=O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9O5P/c1-11(9,10)3-4(6)2-5(7)8/h2-3H2,1H3,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+MZTALSPOBPYJPG-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H9O5P
+
+> <MOLECULAR_WEIGHT>
+180.0957
+
+> <EXACT_MASS>
+180.01875991
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.70227180186578
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-[hydroxy(methyl)phosphoryl]-3-oxobutanoic acid
+
+> <ALOGPS_LOGP>
+-1.87
+
+> <JCHEM_LOGP>
+-0.9920000000000002
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.312905697189597
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.852696682805988
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.765746224004349
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.66999999999999
+
+> <JCHEM_REFRACTIVITY>
+36.8297
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.99e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-[hydroxy(methyl)phosphoryl]-3-oxobutanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

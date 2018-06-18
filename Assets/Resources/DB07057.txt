@@ -1,0 +1,160 @@
+756618
+  -OEChem-10051720553D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+   -0.4943    2.5415   -0.6311 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3685   -0.6792    0.6599 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4116   -0.5077    1.8161 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4169   -2.0507   -1.0958 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1486    0.1957   -0.3911 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3973   -0.4644   -0.6023 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9719   -0.9817   -0.5972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2758    0.9861   -1.0345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8671    1.3768   -0.6456 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2344    0.1008   -0.0488 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0231   -0.5484    0.7588 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9879   -1.0209   -0.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8446    1.1432    0.6558 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3381   -1.0994   -0.0676 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1948    1.0648    0.9970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9415   -0.0566    0.6354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0116   -1.0550   -1.2921 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7898   -1.7354    0.1759 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7556   -1.3860   -1.5923 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9978    1.6481   -0.5475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3643    1.0807   -2.1219 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2888    2.0182    0.9786 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9321   -1.9671   -0.3424 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6636    1.8735    1.5502 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9923   -0.1183    0.9028 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7967   -0.7365    1.5406 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0875   -2.7368   -1.2555 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07057
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FPQOSKXLHCTVED-ZETCQYMHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(CN(C(=O)C1)C1=C(O)C=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11NO4/c13-9-4-2-1-3-8(9)12-6-7(11(15)16)5-10(12)14/h1-4,7,13H,5-6H2,(H,15,16)/t7-/m0/s1
+
+> <INCHI_KEY>
+FPQOSKXLHCTVED-ZETCQYMHSA-N
+
+> <FORMULA>
+C11H11NO4
+
+> <MOLECULAR_WEIGHT>
+221.2093
+
+> <EXACT_MASS>
+221.068807845
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.433775500003215
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.72
+
+> <JCHEM_LOGP>
+0.3771118676666665
+
+> <ALOGPS_LOGS>
+-1.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.72169212271603
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.816629173375312
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.197257386656197
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+54.99900000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

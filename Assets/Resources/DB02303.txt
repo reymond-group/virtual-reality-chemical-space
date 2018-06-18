@@ -1,0 +1,133 @@
+5288605
+  -OEChem-10051719523D
+
+ 14 14  0     1  0  0  0  0  0999 V2000
+    1.9501   -1.3382    1.3766 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6628    1.8239   -0.1863 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6267    0.3574    0.6177 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1438   -1.1171   -0.3301 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5076    1.0981    0.0944 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2432   -0.5272   -0.4729 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0912   -1.3316   -1.0524 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8405    0.9081   -0.1995 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5097    0.1266    0.1525 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0673   -0.5194   -1.1957 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1006   -1.0153   -2.0847 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2955   -2.4072   -1.0628 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8321   -1.8635   -0.3112 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7805    2.0413    0.3569 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02303
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YGKCTZPSAOUUMT-REOHCLBHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(I)CN=C(O)N=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H5IN2O2/c5-2-1-6-4(9)7-3(2)8/h2H,1H2,(H2,6,7,8,9)/t2-/m0/s1
+
+> <INCHI_KEY>
+YGKCTZPSAOUUMT-REOHCLBHSA-N
+
+> <FORMULA>
+C4H5IN2O2
+
+> <MOLECULAR_WEIGHT>
+239.9992
+
+> <EXACT_MASS>
+239.939570834
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.084805984264111
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5S)-5-iodo-5,6-dihydropyrimidine-2,4-diol
+
+> <ALOGPS_LOGP>
+0.49
+
+> <JCHEM_LOGP>
+1.0878476536666666
+
+> <ALOGPS_LOGS>
+-2.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+8.063711371007368
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.717602999900477
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.409026503336651
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.18
+
+> <JCHEM_REFRACTIVITY>
+39.5087
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(5S)-5-iodo-5,6-dihydropyrimidine-2,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

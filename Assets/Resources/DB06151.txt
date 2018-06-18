@@ -1,0 +1,142 @@
+12035
+  -OEChem-10051720493D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+   -1.4080    2.1982   -1.0440 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3703   -1.5653   -0.9730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6361   -0.8563    0.7693 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3902    0.1470    1.2616 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7320   -0.1767   -0.3405 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4109    0.0695    0.5030 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7835    1.5538    0.5436 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5910   -0.8129    0.1315 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0401   -0.1164    0.1142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0374   -0.4408   -0.9656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1235   -0.2376    1.5171 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0842    2.1575    0.8301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5662    1.7234    1.2907 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5623   -0.3930   -1.3188 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0468   -0.2028   -0.6189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9812   -1.5059   -1.2063 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8275    0.1477   -1.8634 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5265    1.4597   -1.0877 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1411   -2.1315   -1.1912 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06151
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PWKSKIMOESPYIA-BYPYZUCNSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)N[C@@H](CS)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO3S/c1-3(7)6-4(2-10)5(8)9/h4,10H,2H2,1H3,(H,6,7)(H,8,9)/t4-/m0/s1
+
+> <INCHI_KEY>
+PWKSKIMOESPYIA-BYPYZUCNSA-N
+
+> <FORMULA>
+C5H9NO3S
+
+> <MOLECULAR_WEIGHT>
+163.195
+
+> <EXACT_MASS>
+163.030313849
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.3392752094222
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-acetamido-3-sulfanylpropanoic acid
+
+> <ALOGPS_LOGP>
+-0.03
+
+> <JCHEM_LOGP>
+-0.7113127423333335
+
+> <ALOGPS_LOGS>
+-1.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.049469514329088
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.817578829469042
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.494491573735262
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.39999999999999
+
+> <JCHEM_REFRACTIVITY>
+37.6674
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.09e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetylcysteine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

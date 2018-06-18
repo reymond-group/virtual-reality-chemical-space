@@ -1,0 +1,134 @@
+9923
+  -OEChem-10051719403D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -1.0725    2.3738   -0.2195 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0724   -2.3738   -0.2199 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6376   -2.3679    0.0739 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6375    2.3679    0.0737 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9966    0.0000    0.2210 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2057    0.0001    0.8974 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1084   -0.0001   -0.2241 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4151    1.2080   -0.1489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4150   -1.2080   -0.1487 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5912   -0.0001   -0.3853 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9718   -1.2079    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9717    1.2080    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6651    0.0000    0.0769 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9361    0.8786   -0.9408 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9355   -0.8816   -0.9361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8011    0.7066    1.4292 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01711
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PGJYYCIOYBZTPU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1=C(F)C(F)=C(F)C(F)=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H3F5O/c8-3-2(1-13)4(9)6(11)7(12)5(3)10/h13H,1H2
+
+> <INCHI_KEY>
+PGJYYCIOYBZTPU-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H3F5O
+
+> <MOLECULAR_WEIGHT>
+198.0901
+
+> <EXACT_MASS>
+198.010405743
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.413725643075988
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(pentafluorophenyl)methanol
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.9194057303333334
+
+> <ALOGPS_LOGS>
+-2.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.67607127333584
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3778864250429033
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+33.9559
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.81e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pentafluorobenzyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

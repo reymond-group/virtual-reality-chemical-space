@@ -1,0 +1,145 @@
+127716
+  -OEChem-10051720153D
+
+ 20 20  0     1  0  0  0  0  0999 V2000
+   -0.3424    1.8353   -0.5492 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4165    0.7453    0.7861 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7996    0.4644    0.1650 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2299   -1.6347    0.0210 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6867   -0.5435   -0.3102 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1038    0.6771    0.1374 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5387    0.3328   -0.2519 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5562   -1.1858   -0.4105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0165   -0.6909    0.4122 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8700   -0.4948   -1.3926 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0144    0.8623    1.2153 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8510    0.8328   -1.1749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6950   -1.4446   -1.4667 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3422   -1.6743    0.1729 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0361   -2.4943   -0.4559 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8778   -0.7876    1.4949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5605   -1.5703    0.0514 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2745    1.9766   -0.3113 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1845    0.2536    1.5924 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6429    0.3446    0.6340 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03411
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OQEBIHBLFRADNM-YUPRTTJUSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@@H]1NC[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO3/c7-2-3-5(9)4(8)1-6-3/h3-9H,1-2H2/t3-,4-,5-/m0/s1
+
+> <INCHI_KEY>
+OQEBIHBLFRADNM-YUPRTTJUSA-N
+
+> <FORMULA>
+C5H11NO3
+
+> <MOLECULAR_WEIGHT>
+133.1457
+
+> <EXACT_MASS>
+133.073893223
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.097954411648923
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3S,4S)-2-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <ALOGPS_LOGP>
+-1.83
+
+> <JCHEM_LOGP>
+-2.2554082409999996
+
+> <ALOGPS_LOGS>
+0.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.628828479465383
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.318700802503066
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.360543824381354
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.72
+
+> <JCHEM_REFRACTIVITY>
+30.611899999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.59e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3S,4S)-2-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

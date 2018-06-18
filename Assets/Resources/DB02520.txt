@@ -1,0 +1,136 @@
+8987
+  -OEChem-10051719573D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    2.0415   -1.2754    0.6034 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0247    1.4511   -0.5423 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2694    0.0000   -0.0263 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1498    1.0721   -0.4983 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9889   -1.1735    0.4775 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5536    1.9926    0.6410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2389   -2.1819   -0.6309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1343    0.1150   -0.0241 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6569    1.6550   -1.2815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0400    0.6301   -0.9603 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4495   -1.6469    1.3017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9475   -0.8519    0.9011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1001    1.4507    1.4194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6806    2.4552    1.1119 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2019    2.7920    0.2687 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8413   -1.7468   -1.4350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3026   -2.5344   -1.0743 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7770   -3.0502   -0.2381 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2657   -0.7549    0.4341 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02520
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LMBWSYZSUOEYSN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCN(CC)C(S)=S
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NS2/c1-3-6(4-2)5(7)8/h3-4H2,1-2H3,(H,7,8)
+
+> <INCHI_KEY>
+LMBWSYZSUOEYSN-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NS2
+
+> <MOLECULAR_WEIGHT>
+149.278
+
+> <EXACT_MASS>
+149.033290737
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.142004210396635
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+diethyl[sulfanyl(carbonothioyl)]amine
+
+> <ALOGPS_LOGP>
+3.10
+
+> <JCHEM_LOGP>
+2.0074607299999996
+
+> <ALOGPS_LOGS>
+-2.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.001002081018951
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+45.0157
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+diethyldithiocarbamate
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

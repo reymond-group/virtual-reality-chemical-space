@@ -1,0 +1,162 @@
+448012
+  -OEChem-10051720303D
+
+ 29 28  0     1  0  0  0  0  0999 V2000
+    2.8522    2.5837   -0.7046 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8556   -1.5061   -0.1504 P   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4837    1.3528    0.1436 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3298   -0.2519   -0.7485 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3814   -1.2328   -0.7507 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2241   -0.1564    0.6598 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6211   -2.5920    1.0257 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8799   -1.9101   -1.1708 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9589    2.1219    1.4832 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8433    1.2231   -0.7206 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3240    1.9768   -0.5751 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880   -0.1907    0.1180 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9545   -0.6489   -0.6881 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6758   -0.8431    0.1193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1045    1.2321    0.6809 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4675   -1.1583    1.2782 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7589    0.0261   -1.5301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -1.5999   -1.1871 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3964    0.0841    0.6264 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8062   -1.6278    0.8695 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0391    1.5207    1.1732 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2770    1.3563    1.3848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5279   -2.1915    0.9175 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4381   -0.9387    1.7389 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7032   -1.1029    2.0594 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1808    0.3765   -1.4759 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5197   -3.5374    0.7848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0987    3.0922    1.4496 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1699    2.0064   -1.2126 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 14  1  0  0  0  0
+  7 27  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04170
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YKAYCWPQDPILSA-RXMQYKEDSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@](O)(CBr)CCO[P@](O)(=O)OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13BrO8P2/c1-5(7,4-6)2-3-13-16(11,12)14-15(8,9)10/h7H,2-4H2,1H3,(H,11,12)(H2,8,9,10)/t5-/m1/s1
+
+> <INCHI_KEY>
+YKAYCWPQDPILSA-RXMQYKEDSA-N
+
+> <FORMULA>
+C5H13BrO8P2
+
+> <MOLECULAR_WEIGHT>
+343.003
+
+> <EXACT_MASS>
+341.926903063
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.124492588001722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+({[(3R)-4-bromo-3-hydroxy-3-methylbutoxy](hydroxy)phosphoryl}oxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+0.01
+
+> <JCHEM_LOGP>
+-0.5037550069999996
+
+> <ALOGPS_LOGS>
+-1.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.2008159877497984
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7790519506230962
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1508442656034514
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.52
+
+> <JCHEM_REFRACTIVITY>
+57.800000000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3R)-4-bromo-3-hydroxy-3-methylbutoxy(hydroxy)phosphoryl]oxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

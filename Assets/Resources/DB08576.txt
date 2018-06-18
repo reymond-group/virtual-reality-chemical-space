@@ -1,0 +1,160 @@
+6852124
+  -OEChem-10051721233D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+   -0.6513    0.6369    0.0029 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9464    1.7102    0.0034 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1682   -1.5396   -0.0039 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2096   -1.4278   -0.0039 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2324    0.3652    0.0122 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0161    0.1699    0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5630   -0.3332    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9185   -0.8525    0.7265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5085    0.3423   -1.4507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2058    1.5294    0.7128 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4659   -0.1406   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7499    0.4624    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0138   -0.4364   -0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4134   -0.4862   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9635   -0.5225    0.7424 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8903   -1.8305    0.2318 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5960   -0.9992    1.7640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4422   -0.6023   -2.0032 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5516    0.6763   -1.4836 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9004    1.0785   -1.9895 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2588    1.8330    0.7265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8555    1.4803    1.7504 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6387    2.3239    0.2140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9740   -1.0533   -0.9071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9663   -1.0823    0.8824 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2470    0.9428    0.8526 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3126    0.1377    0.0050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4473   -1.1030   -0.9051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4497   -1.1373    0.8785 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4 11  2  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08576
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CLBJJWUUSJAAPJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CNCC(=O)C1=NN=C(O1)C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15N3O2/c1-9(2,3)8-12-11-7(14-8)6(13)5-10-4/h10H,5H2,1-4H3
+
+> <INCHI_KEY>
+CLBJJWUUSJAAPJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H15N3O2
+
+> <MOLECULAR_WEIGHT>
+197.2343
+
+> <EXACT_MASS>
+197.116426739
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.96265863387089
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(5-tert-butyl-1,3,4-oxadiazol-2-yl)-2-(methylamino)ethan-1-one
+
+> <ALOGPS_LOGP>
+0.69
+
+> <JCHEM_LOGP>
+0.3209296553333335
+
+> <ALOGPS_LOGS>
+-2.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.720079075368918
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.351697336088677
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.02000000000001
+
+> <JCHEM_REFRACTIVITY>
+53.14099999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-(5-tert-butyl-1,3,4-oxadiazol-2-yl)-2-(methylamino)ethanone
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

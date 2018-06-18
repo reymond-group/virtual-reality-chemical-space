@@ -1,0 +1,161 @@
+1854
+  -OEChem-10051721193D
+
+ 29 30  0     0  0  0  0  0  0999 V2000
+    3.9220   -0.3294    0.7819 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2243   -1.0422   -1.4117 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6211    1.0833   -1.1618 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4355   -0.3611    0.2128 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8838    1.0382    1.6438 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5091   -1.5593    1.5352 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6878   -1.0338    0.2161 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5080    1.2121    0.4343 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4726    0.2818   -0.4485 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9313    0.0364   -0.6393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7979   -0.5760   -0.2835 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2747    0.7426   -0.0905 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5788   -0.7894   -0.4611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0037    1.5784   -0.2588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3607    1.8088   -0.0809 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6515    0.9560    0.0870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7118   -1.6421   -0.2932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5453   -0.1151    0.0746 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0763   -1.4117   -0.1151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9682    0.1225    0.2587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9550   -1.8005   -0.6072 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6895    2.4212   -0.2444 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7045    2.8305    0.0664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0209    1.9694    0.2353 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3672   -2.6637   -0.4399 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7355   -2.2751   -0.1321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1678   -0.5875    0.8249 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3367    1.0639    2.5134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6472   -0.8709    0.3404 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 28  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8 20  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08397
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NKGNOWNPXBURRW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC2=C(C=C1)C=C(C=C2)C(F)(F)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9F2O5P/c13-12(14,20(17,18)19)10-4-3-7-5-9(11(15)16)2-1-8(7)6-10/h1-6H,(H,15,16)(H2,17,18,19)
+
+> <INCHI_KEY>
+NKGNOWNPXBURRW-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9F2O5P
+
+> <MOLECULAR_WEIGHT>
+302.1674
+
+> <EXACT_MASS>
+302.01556632
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.777370330240586
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-[difluoro(phosphono)methyl]naphthalene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.33
+
+> <JCHEM_LOGP>
+1.8732167846666663
+
+> <ALOGPS_LOGS>
+-3.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.989101625809196
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.4909563707160354
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+66.4863
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.94e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-[difluoro(phosphono)methyl]naphthalene-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

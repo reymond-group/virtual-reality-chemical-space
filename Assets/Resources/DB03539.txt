@@ -1,0 +1,158 @@
+5287668
+  -OEChem-10051720173D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+    1.2830   -0.8398   -0.6368 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7635    0.2819    1.4372 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8379    2.6362   -0.3522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6452   -3.1879   -0.2462 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3198    1.4318   -0.2695 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2053    0.1107    0.1755 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0139   -0.8676    0.1846 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0412   -0.4167   -0.9084 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0019    1.1086   -0.8292 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0153    0.2846    0.2332 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1157    1.5169    0.1389 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6630   -2.2107   -0.1177 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9251    0.2894   -0.2415 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3644   -0.1372    1.4320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4838   -0.9620    1.1432 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3456   -0.7535   -1.9059 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1108    1.5731   -1.8156 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7217    0.2454   -0.6053 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7196    1.7919    1.1242 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2338   -2.1777   -1.0518 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3364   -2.5072    0.6930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3198    1.0791    1.4380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5688    2.8075    0.2658 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0835   -4.0349   -0.4355 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3765   -0.2925    1.8366 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5231   -0.2054    2.1430 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03539
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YJMIXNAZGREWGZ-GKHCUFPYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(O)[C@]([H])(O)[C@@]2([H])N=C(O[C@@]2([H])[C@]1([H])CO)N=C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N2O4/c1-9-8-10-4-6(13)5(12)3(2-11)7(4)14-8/h3-7,11-13H,1-2H2/t3-,4-,5-,6-,7+/m1/s1
+
+> <INCHI_KEY>
+YJMIXNAZGREWGZ-GKHCUFPYSA-N
+
+> <FORMULA>
+C8H12N2O4
+
+> <MOLECULAR_WEIGHT>
+200.1919
+
+> <EXACT_MASS>
+200.079706882
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.910323738942452
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3aR,4R,5R,6R,6aS)-6-(hydroxymethyl)-2-(methylideneamino)-3aH,4H,5H,6H,6aH-cyclopenta[d][1,3]oxazole-4,5-diol
+
+> <ALOGPS_LOGP>
+-1.39
+
+> <JCHEM_LOGP>
+-2.149448662
+
+> <ALOGPS_LOGS>
+-1.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.592749712012264
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.121336012637247
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.6600722487713844
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.64000000000001
+
+> <JCHEM_REFRACTIVITY>
+44.9534
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3aR,4R,5R,6R,6aS)-6-(hydroxymethyl)-2-(methylideneamino)-3aH,4H,5H,6H,6aH-cyclopenta[d][1,3]oxazole-4,5-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

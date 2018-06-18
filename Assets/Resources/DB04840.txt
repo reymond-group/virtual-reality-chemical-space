@@ -1,0 +1,152 @@
+2966
+  -OEChem-10051720433D
+
+ 26 27  0     0  0  0  0  0  0999 V2000
+   -1.5756   -0.0105    0.2297 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2923    1.4852    0.0724 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5547   -0.6791   -0.8108 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0453   -1.8170    0.0616 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1809   -1.2936    0.8022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5868    1.0665    0.3060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1402   -0.7842    0.0094 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8316    0.5850    0.1031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4688   -1.1845   -0.1876 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8673    1.5284    0.0295 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8391    0.2207   -0.1983 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4882   -0.2361   -0.2640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880    1.1192   -0.1531 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2247   -2.0838   -0.9677 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4031   -2.7239    0.5630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9861   -2.0350    0.7437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9565   -1.1560    1.8678 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6542    1.5475    1.2894 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7866    1.8179   -0.4688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7162   -2.2390   -0.2809 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6472    2.5901    0.1119 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5160   -0.5546   -0.4116 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9819    1.8580   -0.2113 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2226    1.7734   -0.2117 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7740    2.1421    0.6442 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4698   -0.2730   -1.0350 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 24  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 11  2  0  0  0  0
+  3 26  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04840
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JWPGJSVJDAJRLW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)N1CCC2=CC=CC=C2C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N3/c11-10(12)13-6-5-8-3-1-2-4-9(8)7-13/h1-4H,5-7H2,(H3,11,12)
+
+> <INCHI_KEY>
+JWPGJSVJDAJRLW-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H13N3
+
+> <MOLECULAR_WEIGHT>
+175.2303
+
+> <EXACT_MASS>
+175.110947431
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.475173029334815
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,2,3,4-tetrahydroisoquinoline-2-carboximidamide
+
+> <ALOGPS_LOGP>
+0.58
+
+> <JCHEM_LOGP>
+1.0671080733333334
+
+> <ALOGPS_LOGS>
+-2.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.46939105774148
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.11
+
+> <JCHEM_REFRACTIVITY>
+63.850300000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.42e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+debrisoquin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

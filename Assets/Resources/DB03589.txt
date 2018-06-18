@@ -1,0 +1,121 @@
+10132
+  -OEChem-10051720183D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+    2.3286    0.6544   -0.0104 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3187    0.6278   -0.0030 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0479    1.6817    0.0013 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4259   -1.4494    0.0065 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3928   -1.4740   -0.0097 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0064    0.4608    0.0077 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3298   -0.2386    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3186   -0.2626    0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2107    0.2255   -0.0152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2000    0.1971   -0.0159 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03589
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XEEVLJKYYUVTRC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H2O5/c4-1(2(5)6)3(7)8/h(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+XEEVLJKYYUVTRC-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H2O5
+
+> <MOLECULAR_WEIGHT>
+118.045
+
+> <EXACT_MASS>
+117.990223174
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.0490078164927
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopropanedioic acid
+
+> <ALOGPS_LOGP>
+-0.43
+
+> <JCHEM_LOGP>
+0.025468098333333355
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+2.72307514560714
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5608712626362866
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.66999999999999
+
+> <JCHEM_REFRACTIVITY>
+19.7846
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.45e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mesoxalic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

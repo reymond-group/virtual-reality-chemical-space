@@ -1,0 +1,139 @@
+6038
+  -OEChem-10051720413D
+
+ 18 19  0     0  0  0  0  0  0999 V2000
+   -3.3368   -0.7550    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0632   -1.1195   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2483   -0.6110   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4491    0.7744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146    1.6574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3345   -1.4880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7525    1.2795   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1880   -0.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9535    1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6316   -0.9761    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8402    0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1838   -2.1283   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5564    2.7304    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1834   -2.5640    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9351    2.3511   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8227    1.8002    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4816   -1.6524    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8524    0.7981    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04745
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LISFMEBWQUVKPJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1NC2=CC=CC=C2C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7NO/c11-9-6-5-7-3-1-2-4-8(7)10-9/h1-6H,(H,10,11)
+
+> <INCHI_KEY>
+LISFMEBWQUVKPJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H7NO
+
+> <MOLECULAR_WEIGHT>
+145.158
+
+> <EXACT_MASS>
+145.052763851
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.82129022770587
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,2-dihydroquinolin-2-one
+
+> <ALOGPS_LOGP>
+1.51
+
+> <JCHEM_LOGP>
+1.5971423416666664
+
+> <ALOGPS_LOGS>
+-1.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.952454233112086
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.1866847715175437
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+45.2792
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.45e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-oxoquinoline
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

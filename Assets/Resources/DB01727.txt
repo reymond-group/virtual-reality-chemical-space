@@ -1,0 +1,146 @@
+447805
+  -OEChem-10051719413D
+
+ 21 20  0     1  0  0  0  0  0999 V2000
+   -1.5015    1.1272    1.3444 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9313    2.1743   -1.3517 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5201   -0.9708   -1.3957 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5096    1.7289    0.8034 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8159   -1.2309    1.1183 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0786   -0.9847    0.8035 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3563   -1.4866   -1.0926 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0259    0.2394   -0.3743 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4617    0.6491    0.0082 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5529   -0.9422    0.4189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8814    1.4464   -0.2069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4423   -0.5016   -0.1240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9825   -1.2486    0.0486 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0024   -0.0457   -1.4353 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8151    1.4675   -0.6288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5154   -0.7369    1.4953 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0302   -1.8548    0.2524 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2484    0.4018    1.9392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5230    2.9519   -1.2650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1439   -1.7242   -1.4700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7422   -1.4300    0.8641 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 13  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01727
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ODBLHEXUDAPZAU-OKKQSCSOSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@@H]([C@H](CC(O)=O)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/t2-,4-/m0/s1
+
+> <INCHI_KEY>
+ODBLHEXUDAPZAU-OKKQSCSOSA-N
+
+> <FORMULA>
+C6H8O7
+
+> <MOLECULAR_WEIGHT>
+192.1235
+
+> <EXACT_MASS>
+192.02700261
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.579860945637936
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,2S)-1-hydroxypropane-1,2,3-tricarboxylic acid
+
+> <ALOGPS_LOGP>
+-0.35
+
+> <JCHEM_LOGP>
+-1.4463282496666667
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+4.676758742531206
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.068323851495592
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.021353286822632
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.13000000000002
+
+> <JCHEM_REFRACTIVITY>
+35.716100000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.25e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-erythro-isocitric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

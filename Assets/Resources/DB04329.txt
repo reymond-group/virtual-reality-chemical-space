@@ -1,0 +1,134 @@
+8405
+  -OEChem-10051720333D
+
+ 17 18  0     0  0  0  0  0  0999 V2000
+    2.4384   -0.6888   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0030    0.7135    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0063   -0.6966    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2346    1.3887   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2077   -1.4032    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2172    1.3992    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2493   -1.3327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4351    0.6762   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4216   -0.7167   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3907    0.6604   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2690    2.4761   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2153   -2.4908    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2590    2.4841    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3276   -2.4164    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3814    1.2095   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3570   -1.2686   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3562    1.1557   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04329
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AWJUIBRHMBBTKR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1=CC=C2C=NC=CC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7N/c1-2-4-9-7-10-6-5-8(9)3-1/h1-7H
+
+> <INCHI_KEY>
+AWJUIBRHMBBTKR-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H7N
+
+> <MOLECULAR_WEIGHT>
+129.1586
+
+> <EXACT_MASS>
+129.057849229
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.85036560759372
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+isoquinoline
+
+> <ALOGPS_LOGP>
+2.14
+
+> <JCHEM_LOGP>
+1.7450501456666665
+
+> <ALOGPS_LOGS>
+-1.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.262251802823965
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.89
+
+> <JCHEM_REFRACTIVITY>
+40.351299999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.81e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isoquinoline
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

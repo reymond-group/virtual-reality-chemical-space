@@ -1,0 +1,144 @@
+77918
+  -OEChem-10051720383D
+
+ 22 23  0     0  0  0  0  0  0999 V2000
+    1.5454   -0.0459   -0.4982 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1825    0.7490    0.7348 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3841   -0.0606   -1.3937 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9014   -0.0246   -0.6379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4899    1.1996   -0.3207 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5147   -1.2151   -0.2480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1554   -1.1386    0.0141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1780    1.0640   -0.0525 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6918    1.2333    0.3866 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7167   -1.1814    0.4591 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1743   -0.6226    0.7800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3052    0.0428    0.7763 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4608   -0.9606   -2.0161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4792    0.7988   -2.0688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0225    2.1345   -0.6183 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0669   -2.1756   -0.4884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8391   -2.1517   -0.1915 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8801    2.0687   -0.3207 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1499    2.1865    0.6338 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1943   -2.1084    0.7628 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9019   -1.1692    1.3621 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2409    0.0690    1.3270 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04581
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KKKDZZRICRFGSD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C(N1C=CN=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N2/c1-2-4-10(5-3-1)8-12-7-6-11-9-12/h1-7,9H,8H2
+
+> <INCHI_KEY>
+KKKDZZRICRFGSD-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10N2
+
+> <MOLECULAR_WEIGHT>
+158.1998
+
+> <EXACT_MASS>
+158.08439833
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.067680807524212
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-benzyl-1H-imidazole
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+1.802924976
+
+> <ALOGPS_LOGS>
+-2.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.750873703284838
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.82
+
+> <JCHEM_REFRACTIVITY>
+48.52210000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.47e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-benzylimidazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

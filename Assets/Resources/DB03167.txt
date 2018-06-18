@@ -1,0 +1,128 @@
+11852
+  -OEChem-10051720103D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+   -2.8235   -1.7578    0.0002 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8223   -1.7596   -0.0001 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0011    3.2876    0.0004 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8843    1.6068    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8832    1.6087   -0.0004 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0010   -2.7939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0005   -1.4268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2083   -0.7291    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2078   -0.7298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2083    0.6651   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2078    0.6658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0005    1.3629   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9206   -3.1044   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03167
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SVHOVVJFOWGYJO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=C(Br)C(Br)=C(Br)C(Br)=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6HBr5O/c7-1-2(8)4(10)6(12)5(11)3(1)9/h12H
+
+> <INCHI_KEY>
+SVHOVVJFOWGYJO-UHFFFAOYSA-N
+
+> <FORMULA>
+C6HBr5O
+
+> <MOLECULAR_WEIGHT>
+488.592
+
+> <EXACT_MASS>
+483.594427889
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.176797287498125
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pentabromophenol
+
+> <ALOGPS_LOGP>
+5.30
+
+> <JCHEM_LOGP>
+5.5134436209999995
+
+> <ALOGPS_LOGS>
+-5.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.0135996281153945
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.376872536191154
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+66.1529
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.06e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pentabromophenol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

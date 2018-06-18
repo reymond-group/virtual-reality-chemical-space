@@ -1,0 +1,138 @@
+473
+  -OEChem-10051719513D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -3.1010   -0.8537   -0.0263 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8819    1.5926    0.0097 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1995    0.5917   -0.0198 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3188   -1.5263    0.0274 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3432   -0.5188   -0.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6578    0.2542    0.0099 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8807    0.3707    0.0048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3951    0.4065    0.0118 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2162   -0.3170   -0.0126 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2885   -1.1417   -0.9057 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2858   -1.1689    0.8763 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7047    0.9212   -0.8579 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7110    0.8752    0.9108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3181    1.0594   -0.8616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3208    1.0027    0.9251 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3734   -0.0811   -0.0051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0887    0.1777   -0.0071 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02238
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SXFSQZDSUWACKX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CSCCC(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O3S/c1-9-3-2-4(6)5(7)8/h2-3H2,1H3,(H,7,8)
+
+> <INCHI_KEY>
+SXFSQZDSUWACKX-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H8O3S
+
+> <MOLECULAR_WEIGHT>
+148.18
+
+> <EXACT_MASS>
+148.019414812
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.212411248449214
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(methylsulfanyl)-2-oxobutanoic acid
+
+> <ALOGPS_LOGP>
+-0.07
+
+> <JCHEM_LOGP>
+1.1240172496666667
+
+> <ALOGPS_LOGS>
+-1.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.823095177292476
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.303792429217063
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.673901775734686
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+35.0709
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-oxo-4-thiomethylbutyric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

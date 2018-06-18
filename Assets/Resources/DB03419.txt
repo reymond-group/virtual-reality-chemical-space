@@ -1,0 +1,129 @@
+1174
+  -OEChem-10051720153D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    2.3264    0.9651    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2972    1.0232    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0180    1.0199   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1637   -1.0221    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2524    0.3629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2315    0.4141   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0268   -1.6955    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2049   -1.0676   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0382    2.0357   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0187   -1.5702    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1443   -1.6063   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0469   -2.7761    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03419
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ISAKRJDGNUQOIC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1NC=CC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)
+
+> <INCHI_KEY>
+ISAKRJDGNUQOIC-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4N2O2
+
+> <MOLECULAR_WEIGHT>
+112.0868
+
+> <EXACT_MASS>
+112.027277382
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.365510550968738
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.20
+
+> <JCHEM_LOGP>
+-0.8552909999999998
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.791445484531952
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.768625171737702
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.5116186106051215
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+25.9693
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.65e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+uracil
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,158 @@
+5287584
+  -OEChem-10051720213D
+
+ 27 26  0     1  0  0  0  0  0999 V2000
+    2.9838   -0.4967   -0.0885 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0295   -0.5441    1.3589 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5703    1.9149   -1.3255 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2181    1.1393    0.7781 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7012    0.3413   -0.6097 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0784   -2.0920   -0.9141 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4532   -1.2109    1.2619 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9691    0.6600    0.4650 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5950   -1.4176   -1.1037 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2010    0.0344    0.0593 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4257    1.3636   -0.0182 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7188    0.1790   -0.1620 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0663    1.2344    0.2911 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5269   -1.1057    0.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8019   -0.6730   -0.6764 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8362    2.0855    0.6981 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8915    0.5751   -1.1693 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5514    2.2091    0.1690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2086    0.9158    1.3284 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5931   -0.9222   -0.1650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4380   -1.5068    1.0223 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3821    0.0861    2.0106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4840    2.2342   -1.4134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1624    1.2714    0.5873 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1856   -1.7262   -1.8087 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0442   -1.8379    1.7307 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8718    0.4137    0.7593 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03745
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VJDOAZKNBQCAGE-WDCZJNDASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](O)(CO)[C@]([H])(O)[C@]([H])(O)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h3-9H,1-2H2,(H2,10,11,12)/t3-,4-,5+/m1/s1
+
+> <INCHI_KEY>
+VJDOAZKNBQCAGE-WDCZJNDASA-N
+
+> <FORMULA>
+C5H13O8P
+
+> <MOLECULAR_WEIGHT>
+232.1257
+
+> <EXACT_MASS>
+232.034803904
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.821385406874388
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R)-2,3,4,5-tetrahydroxypentyl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.14
+
+> <JCHEM_LOGP>
+-3.2232499379999995
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.517789357699702
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.4919789137158341
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.974203813611499
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.68
+
+> <JCHEM_REFRACTIVITY>
+43.31399999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.85e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4R)-2,3,4,5-tetrahydroxypentyl]oxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

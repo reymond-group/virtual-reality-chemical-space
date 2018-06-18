@@ -1,0 +1,122 @@
+637090
+  -OEChem-10051719483D
+
+ 12 11  0     0  0  0  0  0  0999 V2000
+    2.0046    0.9556   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3674   -1.2284   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3803   -0.3347   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7807    0.1865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3006    0.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0896   -0.0380    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2643   -1.4150   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8180    1.2805    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3113   -0.1726   -0.8871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3113   -0.1729    0.8870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4222    1.5387    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9229    0.6105   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02074
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LDHQCZJRKDOVOX-NSCUHMNNSA-N/SDF?record_type=3d
+
+> <SMILES>
+C\C=C\C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O2/c1-2-3-4(5)6/h2-3H,1H3,(H,5,6)/b3-2+
+
+> <INCHI_KEY>
+LDHQCZJRKDOVOX-NSCUHMNNSA-N
+
+> <FORMULA>
+C4H6O2
+
+> <MOLECULAR_WEIGHT>
+86.0892
+
+> <EXACT_MASS>
+86.036779436
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.443178849897404
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-but-2-enoic acid
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+0.9195822873333331
+
+> <ALOGPS_LOGS>
+0.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.900895626912272
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+22.9649
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butenoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

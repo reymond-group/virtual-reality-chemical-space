@@ -1,0 +1,129 @@
+5289089
+  -OEChem-10051719463D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+   -0.1863   -1.3943    0.3292 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956   -0.9438   -0.1711 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9216    1.3101   -0.2041 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8541    0.9050    0.3625 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1402    0.7311    0.0314 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1075   -0.2142    0.2184 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6871   -0.5574   -0.4902 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5428    0.1635   -0.0762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4890    1.8721    0.6875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8270    1.5663    0.1345 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6579   -0.3651   -0.9612 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0571   -1.0030   -1.2657 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8577   -1.2705    0.3218 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2353   -0.7381   -0.3632 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02005
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IWARWSDDJHGZOW-IHWYPQMZSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]\C(C)=C(/[H])C(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6O3/c1-2-3-4(6)5(7)8/h2-3H,1H3,(H,7,8)/b3-2-
+
+> <INCHI_KEY>
+IWARWSDDJHGZOW-IHWYPQMZSA-N
+
+> <FORMULA>
+C5H6O3
+
+> <MOLECULAR_WEIGHT>
+114.0993
+
+> <EXACT_MASS>
+114.031694058
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.502038218928705
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3Z)-2-oxopent-3-enoic acid
+
+> <ALOGPS_LOGP>
+0.77
+
+> <JCHEM_LOGP>
+1.208801955
+
+> <ALOGPS_LOGS>
+-0.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.2163772509869792
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.689519462828171
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+28.3109
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.98e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(Z)-2-oxopent-3-enoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

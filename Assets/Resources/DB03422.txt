@@ -1,0 +1,124 @@
+304271
+  -OEChem-10051720153D
+
+ 11 11  0     0  0  0  0  0  0999 V2000
+    2.4070    0.7434    0.0003 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0339   -1.1570   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1872    1.1109   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6381   -1.1416    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360    0.0638    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7526    1.1953   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9312   -0.9053   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4716    0.0906    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4542    2.2344   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615   -1.7028   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0140   -1.1130   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03422
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HMVYYTRDXNKRBQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CSC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H3NO2S/c6-4(7)3-1-8-2-5-3/h1-2H,(H,6,7)
+
+> <INCHI_KEY>
+HMVYYTRDXNKRBQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H3NO2S
+
+> <MOLECULAR_WEIGHT>
+129.137
+
+> <EXACT_MASS>
+128.988449035
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.07640852485011
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,3-thiazole-4-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.6754718299999999
+
+> <ALOGPS_LOGS>
+-1.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1847303655298145
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.05934786587400931
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.19
+
+> <JCHEM_REFRACTIVITY>
+28.150599999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.39e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,3-thiazole-4-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

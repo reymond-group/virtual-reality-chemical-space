@@ -1,0 +1,156 @@
+3639
+  -OEChem-10051719273D
+
+ 25 26  0     0  0  0  0  0  0999 V2000
+    2.7010   -2.4152   -0.0041 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3843    1.2390    0.0262 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9884    0.8025    0.1072 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6655    1.5600    1.4114 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1586    2.2718   -0.9652 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8058    2.1097    0.7178 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9631   -0.1273    0.6553 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5780    0.1713   -0.5689 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3503   -1.8587   -0.0568 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2964    1.0065   -1.5598 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9702    0.1815    0.0403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1247   -1.2131    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6052   -1.1526    0.0785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2871    0.7920    0.0681 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4314    0.0008    0.0573 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0498   -1.9826   -0.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3139   -1.3856    0.0119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4034   -1.7454   -0.3796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8572   -1.0340    1.1382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3584    1.8756    0.0935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7350    0.1603   -1.5847 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3647   -2.8719   -0.0297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0290   -3.0687   -0.0604 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2437    1.9587   -1.9418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0330    0.4290   -1.9833 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 15  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00999
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JZUFKLXOESDKRF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8ClN3O4S2/c8-4-1-5-7(2-6(4)16(9,12)13)17(14,15)11-3-10-5/h1-2,10-11H,3H2,(H2,9,12,13)
+
+> <INCHI_KEY>
+JZUFKLXOESDKRF-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8ClN3O4S2
+
+> <MOLECULAR_WEIGHT>
+297.739
+
+> <EXACT_MASS>
+296.964474846
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.351294097644047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-chloro-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+> <ALOGPS_LOGP>
+-0.16
+
+> <JCHEM_LOGP>
+-0.5756177763333332
+
+> <ALOGPS_LOGS>
+-2.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.826927880529535
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.087113445194948
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.684926632999791
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.36
+
+> <JCHEM_REFRACTIVITY>
+63.10960000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.24e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydrochlorothiazide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

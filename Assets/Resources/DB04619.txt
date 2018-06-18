@@ -1,0 +1,136 @@
+7410
+  -OEChem-10051720383D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.3824   -1.1634    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2856   -0.0440   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3633    1.1908   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4592   -1.2233   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7385   -0.1016   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7571    1.2462    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8530   -1.1679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5020    0.0668    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5282    1.1963    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1730    2.1344   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0253   -2.1961   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2631    2.2073    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4332   -2.0860    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5872    0.1100    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130    1.7744   -0.9025 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5985    0.9650   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3133    1.7735    0.9032 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04619
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KWOLFJPFCHCOCG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O/c1-7(9)8-5-3-2-4-6-8/h2-6H,1H3
+
+> <INCHI_KEY>
+KWOLFJPFCHCOCG-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O
+
+> <MOLECULAR_WEIGHT>
+120.1485
+
+> <EXACT_MASS>
+120.057514878
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.052820536982113
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-phenylethan-1-one
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.5308933346666667
+
+> <ALOGPS_LOGS>
+-1.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.099925039370238
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.3885191025078125
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+36.460800000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetophenone
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

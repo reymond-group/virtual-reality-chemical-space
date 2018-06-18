@@ -1,0 +1,144 @@
+34474
+  -OEChem-10051720393D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+   -0.8043    3.1200   -0.0015 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7974   -2.9868    0.0009 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0637   -2.0888    0.0021 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0566    2.2222    0.0014 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4490    0.2777   -0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9419    0.2714   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9715   -0.4033   -1.2587 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9861   -0.3964    1.2549 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1514    1.3564   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3398   -1.0947    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9348   -0.1381    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1443   -1.2231    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3327    1.2279    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4420   -0.1443   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8397    1.2994   -0.0061 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9066   -1.4944   -1.2462 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4598   -0.0382   -2.1566 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0362   -0.1696   -1.3822 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4905   -0.0171    2.1558 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9080   -1.4866    1.2544 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0547   -0.1722    1.3597 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8206    0.3732   -0.8890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8835   -1.1431   -0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8217    0.3718    0.8881 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 13  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04646
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GHHZELQYJPWSMG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C1=C(Br)C(=O)C(C)=C(Br)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10Br2O2/c1-4(2)6-8(12)9(13)5(3)7(11)10(6)14/h4H,1-3H3
+
+> <INCHI_KEY>
+GHHZELQYJPWSMG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10Br2O2
+
+> <MOLECULAR_WEIGHT>
+321.993
+
+> <EXACT_MASS>
+319.904754858
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.30024070458888
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,5-dibromo-3-methyl-6-(propan-2-yl)cyclohexa-2,5-diene-1,4-dione
+
+> <ALOGPS_LOGP>
+3.01
+
+> <JCHEM_LOGP>
+3.6541230826666666
+
+> <ALOGPS_LOGS>
+-3.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+64.11120000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dibromothymoquinone
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

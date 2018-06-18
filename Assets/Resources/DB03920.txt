@@ -1,0 +1,129 @@
+134856
+  -OEChem-10051720243D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+   -1.2418   -1.4907   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1524    0.5906    0.0081 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2330   -0.6232   -0.0129 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2457    0.3179   -0.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6361   -0.3003    0.0143 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1716   -0.1375    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4510    1.6432   -0.0042 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9541   -1.5987   -0.0158 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9296    0.2767   -0.8688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2234   -1.2242    0.0139 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8998    0.2576    0.9188 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4468    2.0739   -0.0091 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3675    2.3564    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1693   -1.8100    0.0047 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03920
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FLEYLGCAQDCGHN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CNC(=C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO2/c1-3(5-2)4(6)7/h5H,1H2,2H3,(H,6,7)
+
+> <INCHI_KEY>
+FLEYLGCAQDCGHN-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7NO2
+
+> <MOLECULAR_WEIGHT>
+101.1039
+
+> <EXACT_MASS>
+101.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.690491389165027
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(methylamino)prop-2-enoic acid
+
+> <ALOGPS_LOGP>
+0.28
+
+> <JCHEM_LOGP>
+-0.19031090600000009
+
+> <ALOGPS_LOGS>
+-0.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.701096094130726
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.359321510302728
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+25.690900000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.99e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-methyl-α-β-dehydroalanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

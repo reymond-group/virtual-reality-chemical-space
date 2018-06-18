@@ -1,0 +1,114 @@
+6597
+  -OEChem-10051721283D
+
+  8  7  0     0  0  0  0  0  0999 V2000
+    1.6399    1.2497    0.3651 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2823   -1.4806   -0.5767 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7026   -0.6378    0.6303 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0729    0.9508   -0.8581 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6250   -0.2005    0.4527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7718    0.1183   -0.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6149   -0.5373    1.4931 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6130   -0.4291    0.3302 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08809
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JXTHNDFMNIQAHM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H2Cl2O2/c3-1(4)2(5)6/h1H,(H,5,6)
+
+> <INCHI_KEY>
+JXTHNDFMNIQAHM-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H2Cl2O2
+
+> <MOLECULAR_WEIGHT>
+128.942
+
+> <EXACT_MASS>
+127.943184722
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.32308517760299
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,2-dichloroacetic acid
+
+> <ALOGPS_LOGP>
+0.99
+
+> <JCHEM_LOGP>
+1.0581826133333334
+
+> <ALOGPS_LOGS>
+-0.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.2969741576208516
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+22.6195
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.23e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dichloroacetic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

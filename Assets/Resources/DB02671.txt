@@ -1,0 +1,126 @@
+444235
+  -OEChem-10051720003D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+   -0.7086   -0.0059    0.0002 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.3273    0.7084    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0479    1.0964   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1004   -1.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1567   -0.0178   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3897   -0.6643   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3007    2.1165   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3629   -2.0845   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5405    1.0060    0.0043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5125   -0.5317   -0.8972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5130   -0.5394    0.8923 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1279    1.3342    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3611   -1.1173   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <DATABASE_ID>
+DB02671
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MCTWTZJPVLRJOU-UHFFFAOYSA-O/SDF?record_type=3d
+
+> <SMILES>
+CN1C=C[NH+]=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2/c1-6-3-2-5-4-6/h2-4H,1H3/p+1
+
+> <INCHI_KEY>
+MCTWTZJPVLRJOU-UHFFFAOYSA-O
+
+> <FORMULA>
+C4H7N2
+
+> <MOLECULAR_WEIGHT>
+83.1118
+
+> <EXACT_MASS>
+83.060923234
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.004207855707245
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-methyl-1H-imidazol-3-ium
+
+> <ALOGPS_LOGP>
+-1.47
+
+> <JCHEM_LOGP>
+0.07845185866666653
+
+> <ALOGPS_LOGS>
+-1.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.817722029546911
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.07
+
+> <JCHEM_REFRACTIVITY>
+23.956
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.26e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-methylimidazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

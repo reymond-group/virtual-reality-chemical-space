@@ -1,0 +1,162 @@
+6102820
+  -OEChem-10051721003D
+
+ 29 31  0     0  0  0  0  0  0999 V2000
+   -3.4410    2.0563    1.5957 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9826   -3.7622   -0.6031 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.4601   -0.7414    1.1050 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7411    1.4634   -1.0911 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0957    0.1884   -0.9070 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1794    0.8602   -2.2848 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6611    2.5799   -1.1953 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5203    1.8194    0.0051 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7186    1.4527    0.8680 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5694    0.1834   -0.1939 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7779    1.1555   -0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7502    0.6162    0.5161 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3725   -0.1594   -0.5701 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2928    0.4592    0.9562 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4662   -1.1101   -0.6843 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0329    0.4468    1.0564 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1784   -1.1120   -1.1812 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1018   -2.1516   -0.0083 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9284   -0.5824    1.6320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8328   -1.8878    1.1499 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8759   -0.5060    0.4663 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4548   -1.2687   -0.6301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5937    2.6397    0.6185 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8985   -1.3374   -1.5818 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3558    1.0398    1.9065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8429   -1.6965   -2.0287 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5019   -0.3944    2.5363 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3329   -2.6895    1.6870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1238   -2.0034   -1.0742 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 17 26  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 27  1  0  0  0  0
+ 20 28  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07312
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JCXZHFCBNFFHRC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C2OC(NS(=O)(=O)C3=CC(Cl)=CC=C3Cl)=NC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H7Cl3N2O3S/c14-7-2-4-11-10(5-7)17-13(21-11)18-22(19,20)12-6-8(15)1-3-9(12)16/h1-6H,(H,17,18)
+
+> <INCHI_KEY>
+JCXZHFCBNFFHRC-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H7Cl3N2O3S
+
+> <MOLECULAR_WEIGHT>
+377.63
+
+> <EXACT_MASS>
+375.924295911
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.15116466379189
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,5-dichloro-N-(5-chloro-1,3-benzoxazol-2-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+4.18
+
+> <JCHEM_LOGP>
+4.303914724666666
+
+> <ALOGPS_LOGS>
+-4.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.576241422045005
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.3895144042933487
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.2
+
+> <JCHEM_REFRACTIVITY>
+83.443
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.88e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,5-dichloro-N-(5-chloro-1,3-benzoxazol-2-yl)benzenesulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

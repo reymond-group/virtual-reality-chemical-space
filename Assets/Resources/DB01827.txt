@@ -1,0 +1,142 @@
+657081
+  -OEChem-10051719433D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+   -0.9870   -2.3778   -0.0428 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2455    2.3639    0.0421 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7226   -2.2240   -0.2156 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4644    2.5117   -0.1312 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9826    0.2211   -0.2626 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3074    0.9340    0.1384 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1810   -1.3557    0.1138 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1535   -0.0091    0.0024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6264    0.1456   -0.1753 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3928   -1.1764   -0.0635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5243    1.2355   -0.0206 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9971   -1.0991   -0.1523 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8656    1.3130   -0.1094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6029   -0.0897    0.0947 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7357   -0.3931    0.7821 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8688   -1.4592    0.5779 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2600   -0.2482    1.7582 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7235    0.0758    0.8077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6614   -2.2245    0.0753 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1899   -1.4504    0.1710 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7 14  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01827
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JTXPTSGPUNTKSM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=C(F)C(F)=C(C(N)=O)C(F)=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H5F4NO2/c1-15-7-5(11)3(9)2(8(13)14)4(10)6(7)12/h1H3,(H2,13,14)
+
+> <INCHI_KEY>
+JTXPTSGPUNTKSM-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H5F4NO2
+
+> <MOLECULAR_WEIGHT>
+223.1244
+
+> <EXACT_MASS>
+223.025641229
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.800415559119926
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,3,5,6-tetrafluoro-4-methoxybenzamide
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.23702259
+
+> <ALOGPS_LOGS>
+-2.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.491443475664267
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9511512143216874
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+42.4652
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,3,5,6-tetrafluoro-4-methoxybenzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

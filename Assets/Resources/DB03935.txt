@@ -1,0 +1,159 @@
+49867144
+  -OEChem-10051720253D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+    2.9405    0.3000    0.6622 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1876   -1.3665   -0.1777 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5127   -0.4353    0.3734 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2554    1.3351   -2.2497 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7864    2.2547   -0.1212 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5219   -2.6866   -1.0931 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7985    0.7477    0.8460 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0325   -1.2692    1.5816 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6308   -0.6370    1.8053 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7404    0.1804   -0.5426 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6919    1.6053    1.2454 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1745    1.0732   -0.9138 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8849   -0.2803   -0.8982 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0330    1.0567    0.0338 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9271   -0.1485   -0.2475 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1225   -1.4168   -1.1288 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.9547   -0.3129    0.8249 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8388    1.8962   -0.6326 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6380   -0.3451   -1.6922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6759    1.0180    1.0709 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4463   -0.0849   -1.2116 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5554   -1.3162   -2.1325 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5377    1.3700   -2.8114 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1891    3.0011    0.0568 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0045   -3.2918   -1.6425 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4819    0.6585    1.5441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5199   -0.3414    2.1123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  2  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 17  2  0  0  0  0
+  9 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03935
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/COJBCAMFZDFGFK-TVSWGBMESA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(O)O[C@@]([H])(C(O)=O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O10S/c7-1-2(8)4(16-17(12,13)14)6(11)15-3(1)5(9)10/h1-4,6-8,11H,(H,9,10)(H,12,13,14)/t1-,2+,3-,4-,6+/m1/s1
+
+> <INCHI_KEY>
+COJBCAMFZDFGFK-TVSWGBMESA-N
+
+> <FORMULA>
+C6H10O10S
+
+> <MOLECULAR_WEIGHT>
+274.203
+
+> <EXACT_MASS>
+273.99946723
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.516698361405304
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R,6S)-3,4,6-trihydroxy-5-(sulfooxy)oxane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.59
+
+> <JCHEM_LOGP>
+-4.502545808905509
+
+> <ALOGPS_LOGS>
+-0.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+2.7726560399704847
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.1378794375062427
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7208123506013786
+
+> <JCHEM_POLAR_SURFACE_AREA>
+170.82
+
+> <JCHEM_REFRACTIVITY>
+45.7826
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.82e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,3R,4S,5R,6S)-3,4,6-trihydroxy-5-(sulfooxy)oxane-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,132 @@
+445319
+  -OEChem-10051720263D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -0.0470   -0.8653    0.6946 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1923    0.5016    0.8880 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6941   -0.3498   -1.2582 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3353   -0.0415   -0.3006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7117   -0.5302    0.1344 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2099    1.4702   -0.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4175   -0.1849   -0.0041 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1919   -0.3134   -1.3519 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4932   -0.0617   -0.4742 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8078   -1.6146    0.0092 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9191   -0.2847    1.1822 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0114    1.9703   -0.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2659    1.8500   -0.5574 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2928    1.7881    0.8916 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0618    0.9390    0.6031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9185    0.5963    1.8599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9551   -0.9112   -1.6937 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 17  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04018
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XSSNABKEYXKKMK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)SC(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10N2S/c1-3(2)7-4(5)6/h3H,1-2H3,(H3,5,6)
+
+> <INCHI_KEY>
+XSSNABKEYXKKMK-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H10N2S
+
+> <MOLECULAR_WEIGHT>
+118.201
+
+> <EXACT_MASS>
+118.05646902
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.84555182090078
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(propan-2-ylsulfanyl)methanimidamide
+
+> <ALOGPS_LOGP>
+0.62
+
+> <JCHEM_LOGP>
+0.9792875456666668
+
+> <ALOGPS_LOGS>
+-1.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.556200224859513
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.870000000000005
+
+> <JCHEM_REFRACTIVITY>
+44.24510000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.18e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-isopropyl-isothiourea
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

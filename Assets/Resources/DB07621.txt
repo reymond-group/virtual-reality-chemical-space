@@ -1,0 +1,146 @@
+11332763
+  -OEChem-10051721063D
+
+ 23 24  0     0  0  0  0  0  0999 V2000
+    1.1553    0.4493   -0.2404 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0421    1.3374    0.8282 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7689    1.5738   -0.1246 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2768   -0.5676   -0.0510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3939   -0.1092   -0.2516 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1097   -0.1809   -0.0077 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9341   -1.7672    0.0593 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -1.4704   -0.0714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5218    0.8129   -0.4459 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1119   -1.1260    0.1810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4873    1.1443   -0.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4422   -0.7229    0.2172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7155    0.6264    0.0609 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4935   -2.7419    0.2141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1395   -2.1641   -0.0376 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3363    0.2953   -0.9646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2226    1.6543   -1.0811 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8862   -2.1820    0.3024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7683    1.9439   -0.3054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2401   -1.4419    0.3631 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248    1.9081    1.2749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8208    1.9661    0.6339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7368    0.9921    0.0814 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 21  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07621
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LENAVORGWBTPJR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCC1=CC=C(O1)C1=CC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N2O/c11-6-9-3-4-10(13-9)8-2-1-5-12-7-8/h1-5,7H,6,11H2
+
+> <INCHI_KEY>
+LENAVORGWBTPJR-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10N2O
+
+> <MOLECULAR_WEIGHT>
+174.1992
+
+> <EXACT_MASS>
+174.079312952
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.83067753789434
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[5-(pyridin-3-yl)furan-2-yl]methanamine
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+0.5088149546666667
+
+> <ALOGPS_LOGS>
+-2.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.062067790035512
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.05
+
+> <JCHEM_REFRACTIVITY>
+49.7791
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.76e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[5-(pyridin-3-yl)furan-2-yl]methanamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

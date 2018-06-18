@@ -1,0 +1,133 @@
+7504
+  -OEChem-10051719563D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.8199   -0.0001   -0.6984 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5643    0.0001    0.2728 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0324    0.0001    0.5357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1222    1.2080    0.1499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1221   -1.2079    0.1500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4953    1.2080   -0.0958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4952   -1.2080   -0.0957 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1818   -0.0001   -0.2186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046    0.8801    1.1307 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -0.8700    1.1434 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4009    2.1563    0.2420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4014   -2.1560    0.2422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0300    2.1484   -0.1919 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0297   -2.1486   -0.1918 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2509   -0.0002   -0.4102 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -0.8698   -1.2053 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8115    0.0061   -0.4619 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02464
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WGQKYBSKWIADBV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9N/c8-6-7-4-2-1-3-5-7/h1-5H,6,8H2
+
+> <INCHI_KEY>
+WGQKYBSKWIADBV-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H9N
+
+> <MOLECULAR_WEIGHT>
+107.1531
+
+> <EXACT_MASS>
+107.073499293
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.319635108924254
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+phenylmethanamine
+
+> <ALOGPS_LOGP>
+0.90
+
+> <JCHEM_LOGP>
+1.0990142520000001
+
+> <ALOGPS_LOGS>
+-1.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.507743284870338
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+34.5314
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.71e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+benzylamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

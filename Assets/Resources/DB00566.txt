@@ -1,0 +1,136 @@
+2724354
+  -OEChem-10051719183D
+
+ 16 15  0     1  0  0  0  0  0999 V2000
+   -2.1732   -1.2674   -1.1922 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2619   -1.9553    1.2053 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6072    2.0406    0.0301 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870    0.6484   -1.2691 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9773    0.6621    1.2049 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015    0.1638    0.9216 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7660   -0.1805   -0.7552 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4938   -0.9435   -0.3040 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2016    0.8430    0.2777 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6813   -0.0112   -0.1189 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5515    0.3648   -1.6826 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7885   -1.6540   -1.0867 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5466   -1.9452   -2.1652 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0120   -0.9384    2.0432 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8748    2.7227    0.6822 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7472    1.2567   -1.1498 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00566
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ACTRVOBWPAIOHC-XIXRPRMCSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)[C@@H](S)[C@@H](S)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O4S2/c5-3(6)1(9)2(10)4(7)8/h1-2,9-10H,(H,5,6)(H,7,8)/t1-,2+
+
+> <INCHI_KEY>
+ACTRVOBWPAIOHC-XIXRPRMCSA-N
+
+> <FORMULA>
+C4H6O4S2
+
+> <MOLECULAR_WEIGHT>
+182.21
+
+> <EXACT_MASS>
+181.970751021
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.453763080674037
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-2,3-disulfanylbutanedioic acid
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.25882704599999995
+
+> <ALOGPS_LOGS>
+-1.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.44874638068228
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3712346491431497
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+38.467400000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.43e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+succimer
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

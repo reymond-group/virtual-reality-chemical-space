@@ -1,0 +1,160 @@
+10038928
+  -OEChem-10051720553D
+
+ 28 30  0     0  0  0  0  0  0999 V2000
+    5.6112   -1.0493   -0.0104 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8203    1.6614   -0.0038 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7177   -2.4247    0.0215 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7890   -1.0997    1.0722 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4685    1.7946    0.0062 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8279    2.0221    0.0159 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7616   -1.0740   -1.1969 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4737   -0.3953    0.0148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0228   -0.4638    0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7525   -1.2033    0.0142 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3808    0.9895    0.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9822    0.9298   -0.0050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7340   -0.9894    0.0242 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8637   -0.1809    0.0246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2455   -1.1398    0.0024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6792    1.1915    0.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1755    1.6549   -0.0152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4341   -0.4100   -0.0078 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3995    0.9847   -0.0167 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1828   -0.7982    0.0346 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8389   -2.0712    0.0316 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2916   -2.2250    0.0089 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1602    2.7415   -0.0221 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3271    1.5496   -0.0250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6624    3.0214    0.0136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6697    1.6853   -0.4348 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2988   -0.8528   -2.0729 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6756   -1.5101   -1.2580 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 20  2  0  0  0  0
+  5 11  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 27  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 22  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07040
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GCHMLYYPYFXLQB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=C(N)N=C2OC3=C(C=C(F)C=C3)C(=O)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H8FN3O3/c14-5-1-2-9-6(3-5)10(18)7-4-8(12(16)19)11(15)17-13(7)20-9/h1-4H,(H2,15,17)(H2,16,19)
+
+> <INCHI_KEY>
+GCHMLYYPYFXLQB-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H8FN3O3
+
+> <MOLECULAR_WEIGHT>
+273.2193
+
+> <EXACT_MASS>
+273.054969342
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.059803197481116
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-amino-7-fluoro-5-oxo-5H-chromeno[2,3-b]pyridine-3-carboxamide
+
+> <ALOGPS_LOGP>
+0.71
+
+> <JCHEM_LOGP>
+1.7452991299999998
+
+> <ALOGPS_LOGS>
+-2.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.445055141350654
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.186254620061848
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.3
+
+> <JCHEM_REFRACTIVITY>
+69.2816
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.89e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-7-fluoro-5-oxochromeno[2,3-b]pyridine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

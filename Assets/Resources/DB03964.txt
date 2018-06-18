@@ -1,0 +1,137 @@
+5287714
+  -OEChem-10051720253D
+
+ 16 15  0     1  0  0  0  0  0999 V2000
+    1.4007   -0.6257   -1.7484 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3959   -1.8496    0.8585 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.4995   -2.7394   -0.0534 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0519    0.9266    1.3852 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9133    2.1747   -0.5290 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8397    1.1044   -0.8872 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.6877   -0.2035    0.9856 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2751   -0.6719   -0.8760 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2146    0.5916   -0.0661 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8799    1.2056    0.4094 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4076   -1.8660    0.0721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5257    1.3002    0.2980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2781    0.6530    0.1515 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6128   -0.7767   -1.5080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7904    2.1236    0.9890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2054   -0.7615   -1.2192 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  CHG  3   2  -1   4  -1   6  -1
+M  END
+> <DATABASE_ID>
+DB03964
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WUUVSJBKHXDKBS-ROFOPDMZSA-K/SDF?record_type=3d
+
+> <SMILES>
+[H]\C(C([O-])=O)=C(/C([O-])=O)[C@@]([H])(O)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h1,4,9H,(H,7,8)(H,10,11)(H,12,13)/p-3/b2-1+/t4-/m1/s1
+
+> <INCHI_KEY>
+WUUVSJBKHXDKBS-ROFOPDMZSA-K
+
+> <FORMULA>
+C6H3O7
+
+> <MOLECULAR_WEIGHT>
+187.0838
+
+> <EXACT_MASS>
+186.98787745
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.726353792159637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+-3
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1E,3R)-3-hydroxyprop-1-ene-1,2,3-tricarboxylate
+
+> <ALOGPS_LOGP>
+-0.54
+
+> <JCHEM_LOGP>
+-1.2361954026666666
+
+> <ALOGPS_LOGS>
+-0.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.4888555701800255
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.778037136194679
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.197592325078934
+
+> <JCHEM_POLAR_SURFACE_AREA>
+140.62
+
+> <JCHEM_REFRACTIVITY>
+69.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.95e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1E,3R)-3-hydroxyprop-1-ene-1,2,3-tricarboxylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

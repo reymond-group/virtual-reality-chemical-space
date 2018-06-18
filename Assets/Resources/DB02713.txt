@@ -1,0 +1,134 @@
+10972
+  -OEChem-10051720013D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+   -1.2684   -1.2392    0.5485 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5544    0.9253    1.0332 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8609    0.3330    0.1748 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5847   -0.0409   -0.8497 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6822    0.6524   -0.7974 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5956    0.1582    0.0749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7192   -0.0807    0.0137 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7960   -0.7080   -0.1979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0432    0.7452   -1.8255 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5321    1.6426   -0.3573 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7181   -0.7241   -1.5898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6403   -0.3686    0.4084 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5624   -1.7451    0.0581 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0770   -0.6472   -1.2532 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9608   -1.6962    1.0717 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02713
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OKJIRPAQVSHGFK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO3/c1-3(6)5-2-4(7)8/h2H2,1H3,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+OKJIRPAQVSHGFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7NO3
+
+> <MOLECULAR_WEIGHT>
+117.1033
+
+> <EXACT_MASS>
+117.042593095
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.690091705091968
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-acetamidoacetic acid
+
+> <ALOGPS_LOGP>
+-0.89
+
+> <JCHEM_LOGP>
+-1.3286289540000003
+
+> <ALOGPS_LOGS>
+-0.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.581933746898137
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.772481518365065
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.6440366854147115
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+25.4472
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aceturate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

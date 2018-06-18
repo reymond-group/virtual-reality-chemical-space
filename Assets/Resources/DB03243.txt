@@ -1,0 +1,136 @@
+448749
+  -OEChem-10051720123D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    3.1296   -0.0002    0.2688 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2087   -0.0001    0.7935 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.9625   -0.0001   -0.2829 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4403    0.0000   -0.4820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2713   -1.2080   -0.1898 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2713    1.2080   -0.1898 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1110   -1.2079   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1111    1.2082   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8024    0.0001    0.0894 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7677    0.8832   -1.0416 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7677   -0.8829   -1.0418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7986   -2.1559   -0.2591 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7987    2.1558   -0.2591 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9969    0.8303    1.3628 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9969   -0.8305    1.3625 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2218    0.0000    0.6153 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6496   -2.1482    0.0694 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6496    2.1485    0.0695 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB03243
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IIFVWLUQBAIPMJ-UHFFFAOYSA-O/SDF?record_type=3d
+
+> <SMILES>
+[NH3+]CC1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8FN/c8-7-3-1-6(5-9)2-4-7/h1-4H,5,9H2/p+1
+
+> <INCHI_KEY>
+IIFVWLUQBAIPMJ-UHFFFAOYSA-O
+
+> <FORMULA>
+C7H9FN
+
+> <MOLECULAR_WEIGHT>
+126.1515
+
+> <EXACT_MASS>
+126.071902498
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.741925859143429
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4-fluorophenyl)methanaminium
+
+> <ALOGPS_LOGP>
+-1.57
+
+> <JCHEM_LOGP>
+1.2417161883333332
+
+> <ALOGPS_LOGS>
+-2.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.4350156628564
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.64
+
+> <JCHEM_REFRACTIVITY>
+46.04060000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.84e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-fluorobenzylamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

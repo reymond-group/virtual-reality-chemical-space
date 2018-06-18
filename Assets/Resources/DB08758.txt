@@ -1,0 +1,158 @@
+869249
+  -OEChem-10051721263D
+
+ 27 29  0     0  0  0  0  0  0999 V2000
+    4.2300   -0.8958   -0.0099 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0641   -1.4319    0.0012 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9654    0.6130    0.0033 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6872    1.3599    0.0072 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0107    1.7561   -0.0093 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1641   -0.0641    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5453    0.4208    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5848   -0.5434   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9613   -2.3717   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4226   -1.6100    0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2490   -1.9852   -0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9522   -0.3405    0.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8528    1.7832    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9169   -0.1199   -0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1874    2.1905   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2140    1.2444   -0.0023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3435   -0.0055    0.0061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6768   -3.4177   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8749   -2.5928    0.0029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0534   -2.7120   -0.0028 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0683    2.5353    0.0026 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7315   -0.8395   -0.0041 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4293    3.2496   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    1.5715   -0.0034 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9764    2.0852    0.0137 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1289    2.3557   -0.8247 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1493    2.3554    0.8033 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08758
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WSNWYZBDIKCPIG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NNC(=O)C1=CN2C=CC3=C(C=CC=C3)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10N4O/c13-15-12(17)10-7-16-6-5-8-3-1-2-4-9(8)11(16)14-10/h1-7H,13H2,(H,15,17)
+
+> <INCHI_KEY>
+WSNWYZBDIKCPIG-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H10N4O
+
+> <MOLECULAR_WEIGHT>
+226.234
+
+> <EXACT_MASS>
+226.085460962
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.58002431878313
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+imidazo[2,1-a]isoquinoline-2-carbohydrazide
+
+> <ALOGPS_LOGP>
+1.49
+
+> <JCHEM_LOGP>
+0.689041108
+
+> <ALOGPS_LOGS>
+-2.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.98747389894723
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.447054908136327
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.42
+
+> <JCHEM_REFRACTIVITY>
+65.5771
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.13e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+imidazo[2,1-a]isoquinoline-2-carbohydrazide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

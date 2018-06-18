@@ -1,0 +1,163 @@
+656952
+  -OEChem-10051720583D
+
+ 28 30  0     0  0  0  0  0  0999 V2000
+    0.2026   -0.5798    0.0011 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216    1.5670   -0.0014 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0866   -0.3022   -0.0026 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3101   -3.5922   -0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5786    1.2117    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5046   -0.1773    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5581    0.5457    0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2347    1.6698    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9771    0.3278    0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8478    1.8165   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6151   -1.0194   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9838    0.9956   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8668   -0.3967   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8562    1.4151   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4901   -0.9730    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2350    1.2037   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8688   -1.1845    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7414   -0.0961   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4477   -2.4317   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0972    2.6989    0.0018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9400    2.8987   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7708   -1.0038   -0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4938    2.4399   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8435   -1.8471    0.0027 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9099    2.0553   -0.0024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2510   -2.2018    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1225    2.5345   -0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2587   -1.2595   -0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 19  3  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07198
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GGEKOZPXKBYLNK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(O1)C(=CC(O)=C2)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H9NO3/c16-8-11-6-13(18)5-10-7-14(19-15(10)11)9-1-3-12(17)4-2-9/h1-7,17-18H
+
+> <INCHI_KEY>
+GGEKOZPXKBYLNK-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H9NO3
+
+> <MOLECULAR_WEIGHT>
+251.2369
+
+> <EXACT_MASS>
+251.058243159
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.098928211472373
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-hydroxy-2-(4-hydroxyphenyl)-1-benzofuran-7-carbonitrile
+
+> <ALOGPS_LOGP>
+3.01
+
+> <JCHEM_LOGP>
+2.948561247333333
+
+> <ALOGPS_LOGS>
+-2.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+8.905001866841875
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.902592462114105
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6205422055658816
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.39000000000001
+
+> <JCHEM_REFRACTIVITY>
+69.5962
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-hydroxy-2-(4-hydroxyphenyl)-1-benzofuran-7-carbonitrile
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

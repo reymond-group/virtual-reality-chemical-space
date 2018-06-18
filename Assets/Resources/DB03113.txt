@@ -1,0 +1,135 @@
+5288237
+  -OEChem-10051720093D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -1.7149   -0.0181   -0.0455 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1267   -1.6615   -0.7208 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3580   -0.8960    0.0127 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1838    0.0686    1.4997 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7783   -1.0459   -0.6997 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6607    1.8739    0.7835 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5894    1.2994   -0.7529 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0043    1.1366   -1.2605 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7794   -0.3389    0.6570 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9007   -1.3583    0.5878 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524    0.9402   -0.0615 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5202   -0.1181    1.6976 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6221   -2.2888    1.0906 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8323   -0.9747    1.0131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9638    0.6175    1.7288 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6741   -0.7191   -0.9298 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8922    2.7039    0.3146 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03113
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BNOCDEBUFVJMQI-REOHCLBHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CF)(OP(O)(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6FO6P/c4-1-2(3(5)6)10-11(7,8)9/h2H,1H2,(H,5,6)(H2,7,8,9)/t2-/m0/s1
+
+> <INCHI_KEY>
+BNOCDEBUFVJMQI-REOHCLBHSA-N
+
+> <FORMULA>
+C3H6FO6P
+
+> <MOLECULAR_WEIGHT>
+188.0483
+
+> <EXACT_MASS>
+187.988602641
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.602708887506028
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-3-fluoro-2-(phosphonooxy)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.63
+
+> <JCHEM_LOGP>
+-0.7512137420000001
+
+> <ALOGPS_LOGS>
+-1.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.6021367470750185
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.49611839209272857
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06000000000002
+
+> <JCHEM_REFRACTIVITY>
+29.5643
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.02e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-3-fluoro-2-(phosphonooxy)propanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

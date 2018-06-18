@@ -1,0 +1,136 @@
+7058174
+  -OEChem-10051719513D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -1.7706    0.1457    0.7750 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4237    0.1189    0.6665 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0730    1.6821   -0.3016 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6321   -1.9112    0.1610 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5586   -0.6210   -0.5975 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9253   -0.2915   -0.7798 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4419    0.5048   -0.0301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4333    0.3722    0.1066 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9779   -0.8613   -1.5826 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0295    0.5561   -1.4664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4455   -1.1437   -1.2325 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6058   -2.2292    0.2569 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1109   -2.6621   -0.3112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2457   -1.8112    1.1092 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7953   -0.5573   -0.3405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4385    1.1680   -0.6428 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1116    0.6543    0.9162 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB02216
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IDIDJDIHTAOVLG-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+CSC[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO2S/c1-8-2-3(5)4(6)7/h3H,2,5H2,1H3,(H,6,7)/t3-/m0/s1
+
+> <INCHI_KEY>
+IDIDJDIHTAOVLG-VKHMYHEASA-N
+
+> <FORMULA>
+C4H9NO2S
+
+> <MOLECULAR_WEIGHT>
+135.185
+
+> <EXACT_MASS>
+135.035399227
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.556713228582215
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-(methylsulfanyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-2.21
+
+> <JCHEM_LOGP>
+-2.404744262255893
+
+> <ALOGPS_LOGS>
+-0.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.4449295067998698
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.146384026498897
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+32.8746
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-methylcysteine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

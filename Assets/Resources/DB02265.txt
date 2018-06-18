@@ -1,0 +1,135 @@
+137936
+  -OEChem-10051719523D
+
+ 20 19  0     0  0  0  0  0  0999 V2000
+   -0.4802    0.0001   -0.0001 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    1.1683   -0.8871   -0.1081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8721   -1.2476   -0.1520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6088    0.8819    1.6500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6089    1.2525   -1.3897 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4016    0.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2093   -1.6424    0.6852 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2094   -1.4298   -1.0595 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8158   -1.7745   -1.1092 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8158   -1.9889    0.6506 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8448   -0.7507   -0.0914 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5788    1.3785    1.7467 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5039    0.1725    2.4762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1734    1.6404    1.7482 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1732    2.0125   -1.3029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5041    0.7626   -2.3623 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5788    1.7579   -1.3643 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090   -0.6083   -0.0741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4328    0.7454   -0.8021 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4327    0.5311    0.9575 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02265
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UKAJDOBPPOAZSS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC[Si](C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14Si/c1-5-6(2,3)4/h5H2,1-4H3
+
+> <INCHI_KEY>
+UKAJDOBPPOAZSS-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H14Si
+
+> <MOLECULAR_WEIGHT>
+102.2502
+
+> <EXACT_MASS>
+102.086476981
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.432849979183644
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethyltrimethylsilane
+
+> <ALOGPS_LOGP>
+2.95
+
+> <JCHEM_LOGP>
+2.5069999999999997
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+26.9942
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.28e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyltrimethylsilane
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

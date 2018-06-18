@@ -1,0 +1,136 @@
+8060
+  -OEChem-10051719473D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    3.1129   -0.2340   -0.0112 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6431    0.3925   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6675   -0.3975   -0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8544   -0.5396    0.0161 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8758    0.5373    0.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1586    0.2414   -0.0131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6747    1.0494    0.8771 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6854    1.0363   -0.8877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7051   -1.0367   -0.8963 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6974   -1.0603    0.8690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8196   -1.2115   -0.8494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8295   -1.1666    0.9149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8564    1.1638    0.9125 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8521    1.2014   -0.8566 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0114   -0.4445    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2398    0.9019    0.8560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2294    0.8533   -0.9180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1592   -0.8358    0.8101 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9079    0.4003    0.0543 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02045
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DPBLXKKOBLCELK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13N/c1-2-3-4-5-6/h2-6H2,1H3
+
+> <INCHI_KEY>
+DPBLXKKOBLCELK-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H13N
+
+> <MOLECULAR_WEIGHT>
+87.1634
+
+> <EXACT_MASS>
+87.104799421
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.680418726738795
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pentan-1-amine
+
+> <ALOGPS_LOGP>
+1.39
+
+> <JCHEM_LOGP>
+1.1430088143333337
+
+> <ALOGPS_LOGS>
+-0.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.205502377029477
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+28.3934
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.80e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+amylamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

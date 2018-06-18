@@ -1,0 +1,143 @@
+378
+  -OEChem-10051720303D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    3.1682   -0.2266    0.0679 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9815    0.8745    0.0657 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0733   -0.9125   -1.3939 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5011    0.6840   -0.0453 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1611   -1.1738    1.2325 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2909    0.6720   -0.0161 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.8361   -1.4755   -0.0375 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4687   -0.2759   -0.0177 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.6499    0.5932    0.0452 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0796    0.0181    0.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2819    1.6314    0.0456 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2168   -0.7326    0.0237 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6466    1.3438    0.0245 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1480   -1.0201    0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0502    2.6659    0.0623 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9035   -1.5715    0.0184 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3436    2.1779    0.0256 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4493   -2.0645   -0.0149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6654   -1.6659   -1.6036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3781    0.2527    0.0375 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+M  CHG  2   6  -1   8   1
+M  END
+> <DATABASE_ID>
+DB04214
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XZKIHKMTEMTJQX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)OC1=CC=C(C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6NO6P/c8-7(9)5-1-3-6(4-2-5)13-14(10,11)12/h1-4H,(H2,10,11,12)
+
+> <INCHI_KEY>
+XZKIHKMTEMTJQX-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6NO6P
+
+> <MOLECULAR_WEIGHT>
+219.0887
+
+> <EXACT_MASS>
+218.993273441
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.569686923456207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4-nitrophenoxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+0.50
+
+> <JCHEM_LOGP>
+0.9557995379999997
+
+> <ALOGPS_LOGS>
+-2.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.739134395077744
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7778619416744141
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.57999999999998
+
+> <JCHEM_REFRACTIVITY>
+46.23650000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.03e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-nitrophenyl phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

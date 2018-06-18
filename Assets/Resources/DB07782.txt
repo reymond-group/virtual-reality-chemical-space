@@ -1,0 +1,163 @@
+1722
+  -OEChem-10051721083D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+    3.1278   -1.2704    0.4375 P   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9386    1.4991   -0.1335 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8090    1.9368    0.3851 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4374    0.2003   -0.7524 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0767    0.0243    1.3847 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5501   -0.9141    0.4841 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7874   -0.0810   -0.4366 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2233   -2.5506   -0.5470 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7665   -1.4736    1.7808 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8389    2.0249   -1.3685 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9561    1.5427    1.1216 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6413    2.2251    0.0671 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8833   -1.0634   -0.1588 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2937    1.2713   -0.0675 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2155   -2.7024   -0.5541 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5998   -0.3845   -0.4682 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8361   -0.6997   -0.7211 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5837   -1.3445   -0.3877 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0122    0.9186   -0.2992 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1640    0.2453   -0.0104 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5909    0.5956    0.2441 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9420   -1.5749   -1.3706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2993    0.1302   -1.2671 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3145    1.7485   -0.3426 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5699   -3.0442    0.1524 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9011   -2.9333   -1.4923 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0060   -3.4388   -0.1921 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0031    2.9876   -1.4605 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1473    2.4050    1.5482 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 21  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 17  1  0  0  0  0
+  8 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07782
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UKNJCTHTCAKKNG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=NC=C1CO[P@@](O)(=O)OP(O)(O)=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8F3N3O7P2/c7-6(8,9)5-11-1-3(4(10)12-5)2-18-21(16,17)19-20(13,14)15/h1H,2H2,(H,16,17)(H2,10,11,12)(H2,13,14,15)
+
+> <INCHI_KEY>
+UKNJCTHTCAKKNG-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H8F3N3O7P2
+
+> <MOLECULAR_WEIGHT>
+353.0864
+
+> <EXACT_MASS>
+352.978957264
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.86504580381889
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[({[4-amino-2-(trifluoromethyl)pyrimidin-5-yl]methoxy}(hydroxy)phosphoryl)oxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+0.65
+
+> <JCHEM_LOGP>
+-0.2356550879338225
+
+> <ALOGPS_LOGS>
+-2.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.1876866805382815
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8999162593453196
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.207289268928591
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.09
+
+> <JCHEM_REFRACTIVITY>
+61.9325
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+{[4-amino-2-(trifluoromethyl)pyrimidin-5-yl]methoxy(hydroxy)phosphoryl}oxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

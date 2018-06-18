@@ -1,0 +1,136 @@
+220010
+  -OEChem-10051719553D
+
+ 16 15  0     1  0  0  0  0  0999 V2000
+    1.2839   -1.3108    0.0948 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2776    1.3136   -0.0601 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6972   -0.0794   -0.3220 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6921    0.0680    0.3138 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6339    1.0606    0.0608 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6452   -1.0519   -0.0873 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6150   -0.0930   -1.4157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6013    0.0619    1.4062 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7669    1.1074    1.1472 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2609    2.0274   -0.2896 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6278    0.8963   -0.3696 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6458   -0.8623    0.3167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7518   -1.1040   -1.1764 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3080   -2.0256    0.2792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8172   -2.0310   -0.3613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3549    1.3259   -1.0295 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02418
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OWBTYPJTUOEWEK-ZXZARUISSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@@H](O)[C@H](C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2/c1-3(5)4(2)6/h3-6H,1-2H3/t3-,4+
+
+> <INCHI_KEY>
+OWBTYPJTUOEWEK-ZXZARUISSA-N
+
+> <FORMULA>
+C4H10O2
+
+> <MOLECULAR_WEIGHT>
+90.121
+
+> <EXACT_MASS>
+90.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.827093542014602
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-butane-2,3-diol
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+-0.37552903133333315
+
+> <ALOGPS_LOGS>
+0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.678062098346835
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.224481598439645
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.006341228739074
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+23.391199999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.03e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(R,R)-2,3-butanediol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

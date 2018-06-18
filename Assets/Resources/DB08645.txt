@@ -1,0 +1,162 @@
+6604229
+  -OEChem-10051721243D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+   -4.2221    2.2580   -0.9433 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1454   -0.4845   -0.6126 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1069    2.6269    0.2568 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4065   -1.7074    0.1728 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8265   -0.4890   -0.2246 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9455   -2.8158    0.9858 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7677   -1.8920   -1.2184 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7303    0.4755    0.3818 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8962   -1.8911    0.1557 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6695   -0.9273    1.0085 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7887    1.3332    0.6352 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9474   -0.3712   -1.9237 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9628    0.4815    0.6652 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1591   -0.4634    0.2016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5008    0.8792    0.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1637   -0.8763    0.0118 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1849    0.0679    0.0268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7233    0.5788   -0.6501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5545    1.8070    0.4255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8813    1.4099    0.2331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6038    0.8578    1.4742 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7858   -1.1569    2.0039 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9340    2.3345    0.7058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3792   -1.9268   -0.1617 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1120    0.2818   -1.5059 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3305    2.8605    0.5913 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5437    0.3711   -2.3096 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9717   -1.2457   -2.4623 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08645
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LMJSLTNSBFUCMU-MRVPVSSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(NC2=CC(Cl)=C(C=C2S(=O)(=O)N1)S(N)(=O)=O)C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8Cl3N3O4S2/c9-3-1-4-6(2-5(3)19(12,15)16)20(17,18)14-8(13-4)7(10)11/h1-2,7-8,13-14H,(H2,12,15,16)/t8-/m1/s1
+
+> <INCHI_KEY>
+LMJSLTNSBFUCMU-MRVPVSSYSA-N
+
+> <FORMULA>
+C8H8Cl3N3O4S2
+
+> <MOLECULAR_WEIGHT>
+380.656
+
+> <EXACT_MASS>
+378.90218026
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.99642466457655
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-6-chloro-3-(dichloromethyl)-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+> <ALOGPS_LOGP>
+0.86
+
+> <JCHEM_LOGP>
+0.9733494586666664
+
+> <ALOGPS_LOGS>
+-2.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.80221331927889
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.322179814553696
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.055106429314077
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.35999999999999
+
+> <JCHEM_REFRACTIVITY>
+77.43509999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R)-6-chloro-3-(dichloromethyl)-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,148 @@
+1779
+  -OEChem-10051719453D
+
+ 21 22  0     0  0  0  0  0  0999 V2000
+    2.5941    2.6493   -0.0042 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.9230   -2.5126   -0.0019 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1981    2.8575    0.0033 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4334   -1.9655    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3692    0.1212   -0.0049 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0193   -1.1053    0.0025 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3321   -0.7383    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6872    0.6237    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3915    1.6488    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0087   -0.1590    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3441   -1.7031    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0291    1.0128   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8003    1.1645    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6854   -1.3154    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0262    0.0378   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4007   -0.6166   -0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2732   -2.0843    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0812   -2.7589    0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5883    1.9084   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0762    0.3249   -0.0018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3510   -2.3123   -0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 16  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 16  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01931
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BGKFPRIGXAVYNX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=NC2=CC(Cl)=CC(Cl)=C2C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H5Cl2NO3/c11-4-1-5(12)9-6(2-4)13-7(10(15)16)3-8(9)14/h1-3H,(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+BGKFPRIGXAVYNX-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H5Cl2NO3
+
+> <MOLECULAR_WEIGHT>
+258.058
+
+> <EXACT_MASS>
+256.964648445
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.6914188719283
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,7-dichloro-4-hydroxyquinoline-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.0788577359999993
+
+> <ALOGPS_LOGS>
+-3.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.425089836318154
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.818082217747947
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.5864724242802628
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.42
+
+> <JCHEM_REFRACTIVITY>
+58.45400000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.56e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+C10H5cl2NO3
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

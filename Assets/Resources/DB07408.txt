@@ -1,0 +1,152 @@
+736027
+  -OEChem-10051721023D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+    1.1549    0.3975    0.4062 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6953   -0.0499    0.0537 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2654   -2.7480    0.3424 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.2865   -2.0357   -0.2867 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4988    0.2860    1.9568 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4750   -1.8220    0.0470 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.1130    0.5959   -0.2257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2658    0.3952   -0.6153 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9446   -0.4782    0.0916 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6063    1.8995   -0.1712 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8889    0.1990   -1.8169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3765    0.1982   -0.1543 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2666    0.0701   -1.5194 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2693   -0.2485    0.4635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9310    2.1291    0.2007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7625    1.0551    0.5180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5065    0.1566    0.7097 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4209    0.1527   -2.7900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9723    2.7490   -0.4146 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0723   -0.0956   -2.2206 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9505   -1.0562    0.7186 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3150    3.1440    0.2434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7938    1.2346    0.8075 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4523   -0.0736    0.6772 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5 17  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  CHG  2   3  -1   6   1
+M  END
+> <DATABASE_ID>
+DB07408
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XUFDYUSOQQYQRL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC=C(O1)C1=C(C=CC=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H7NO5/c13-11(14)10-6-5-9(17-10)7-3-1-2-4-8(7)12(15)16/h1-6H,(H,13,14)
+
+> <INCHI_KEY>
+XUFDYUSOQQYQRL-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H7NO5
+
+> <MOLECULAR_WEIGHT>
+233.177
+
+> <EXACT_MASS>
+233.032422339
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.244394927275206
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(2-nitrophenyl)furan-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.36
+
+> <JCHEM_LOGP>
+2.1982860429999995
+
+> <ALOGPS_LOGS>
+-3.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1254524598571733
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.889633787241708
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+58.043500000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.93e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-(2-nitrophenyl)furan-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,120 @@
+11575
+  -OEChem-10051719513D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    2.9763    0.0001   -0.0002 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8989    0.0000    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2013    1.2080    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2015   -1.2081    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1936    1.2080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1935   -1.2080   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8909    0.0000   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7249    2.1606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7251   -2.1608    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7369    2.1484   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7368   -2.1485   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9769    0.0000   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02252
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SNHMUERNLJLMHN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+IC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5I/c7-6-4-2-1-3-5-6/h1-5H
+
+> <INCHI_KEY>
+SNHMUERNLJLMHN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5I
+
+> <MOLECULAR_WEIGHT>
+204.0084
+
+> <EXACT_MASS>
+203.94359358
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.218248111981637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+iodobenzene
+
+> <ALOGPS_LOGP>
+3.00
+
+> <JCHEM_LOGP>
+2.9021902943333333
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+39.420500000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.45e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iodophenyl
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

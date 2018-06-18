@@ -1,0 +1,133 @@
+2733
+  -OEChem-10051719133D
+
+ 15 16  0     0  0  0  0  0  0999 V2000
+    3.7901    0.8156    0.0006 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7579   -1.0498    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5653    0.3933    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3857    1.2181    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1613    0.6046   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4040   -0.7522   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1072    1.1386   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6280   -1.6655   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1692    0.2311   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3522    0.2252    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9319   -1.1590    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5438    2.2180    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2682    2.2107   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4439   -2.7334    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7662   -1.8571    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00356
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/TZFWDZFKRBELIQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC2=C(OC(=O)N2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H4ClNO2/c8-4-1-2-6-5(3-4)9-7(10)11-6/h1-3H,(H,9,10)
+
+> <INCHI_KEY>
+TZFWDZFKRBELIQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H4ClNO2
+
+> <MOLECULAR_WEIGHT>
+169.565
+
+> <EXACT_MASS>
+168.993056084
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.93950345990999
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-chloro-2,3-dihydro-1,3-benzoxazol-2-one
+
+> <ALOGPS_LOGP>
+2.09
+
+> <JCHEM_LOGP>
+1.9356712949999997
+
+> <ALOGPS_LOGS>
+-1.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.390750101816508
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.17284617303016
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+41.069
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.96e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chlorzoxazone
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

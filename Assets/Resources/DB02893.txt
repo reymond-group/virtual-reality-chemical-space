@@ -1,0 +1,141 @@
+84815
+  -OEChem-10051720043D
+
+ 20 19  0     1  0  0  0  0  0999 V2000
+   -2.3216   -0.9566   -0.3220 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1990   -1.6377   -0.6749 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6174   -0.3325    0.5181 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332    1.8951   -0.4765 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4200    0.7632    0.8024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5692    0.6484   -0.3663 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2637   -0.4848    1.0782 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5805   -0.4573   -0.1216 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2941    0.5622   -0.4374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1442    0.9659    1.7245 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0662    1.6382    0.6645 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0681    0.4775   -1.3238 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9025   -0.3126    1.9513 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6237   -1.3374    1.3259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7815    2.1078    0.4146 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6941    2.6688   -0.6567 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6667    0.8659    0.5444 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1551    0.3793   -1.0866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7070    1.3686   -0.8832 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8504   -2.3503   -0.5013 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02893
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FFEARJCKVFRZRR-SCSAIBSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CSCC[C@@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m1/s1
+
+> <INCHI_KEY>
+FFEARJCKVFRZRR-SCSAIBSYSA-N
+
+> <FORMULA>
+C5H11NO2S
+
+> <MOLECULAR_WEIGHT>
+149.211
+
+> <EXACT_MASS>
+149.051049291
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.464914492868445
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-4-(methylsulfanyl)butanoic acid
+
+> <ALOGPS_LOGP>
+-1.85
+
+> <JCHEM_LOGP>
+-2.189326616871282
+
+> <ALOGPS_LOGS>
+-0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5319210041042344
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.502323343916569
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+37.586000000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.39e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(l)-methionine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,152 @@
+5280980
+  -OEChem-10051719223D
+
+ 23 24  0     1  0  0  0  0  0999 V2000
+   -0.5983    1.0573    0.9895 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7283    1.1491   -1.5246 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6612   -2.9572   -0.8660 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4364   -2.3130    1.3090 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9649    1.0938   -0.9074 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4226    0.1365    0.1606 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8386    1.0226    1.1708 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3967   -0.6647   -0.4520 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7014    2.1539    0.5837 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1240    1.1207   -0.4765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8449    0.0274    0.0612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4947   -2.0410    0.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0912   -0.2406   -0.3438 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3048    0.4553    0.1765 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1073    0.7279    2.1915 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4741   -0.6323   -1.5427 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5197    2.4991    1.2204 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1496    3.0051    0.1776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2501   -1.0248   -1.0801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0790    1.2170    0.9276 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9923   -0.2673    0.6274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7287   -3.8691   -0.5107 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2432    0.4043   -1.5345 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 12  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 14  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00766
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HZZVJAQRINQKSD-PBFISZAISA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]12CC(=O)N1[C@@H](C(O)=O)\C(O2)=C\CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO5/c10-2-1-4-7(8(12)13)9-5(11)3-6(9)14-4/h1,6-7,10H,2-3H2,(H,12,13)/b4-1-/t6-,7-/m1/s1
+
+> <INCHI_KEY>
+HZZVJAQRINQKSD-PBFISZAISA-N
+
+> <FORMULA>
+C8H9NO5
+
+> <MOLECULAR_WEIGHT>
+199.1608
+
+> <EXACT_MASS>
+199.048072403
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.127806374561942
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3Z,5R)-3-(2-hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.16
+
+> <JCHEM_LOGP>
+-1.521207563
+
+> <ALOGPS_LOGS>
+0.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.522017294386345
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.316908146355913
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.572438391835412
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.07
+
+> <JCHEM_REFRACTIVITY>
+44.252500000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.37e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+clavulanate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

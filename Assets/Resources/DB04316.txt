@@ -1,0 +1,164 @@
+446049
+  -OEChem-10311712093D
+
+ 28 28  0     1  0  0  0  0  0999 V2000
+    2.8164    1.8756   -0.6075 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3496    3.2259    0.4583 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2724   -0.9179    1.4572 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3041   -3.0862    0.2345 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2812   -0.2358   -0.5239 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5252   -2.1601   -0.4726 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6598    0.9519    0.0066 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6201    1.3045   -0.7624 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7996    0.4492   -0.3667 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6228    2.1297   -0.0195 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0363   -0.7365   -1.0440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6239    0.8649    0.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1258   -1.5270   -0.6784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7133    0.0742    1.0327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0518   -1.0908    0.2588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9643   -1.1217    0.3599 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4391    0.7719    1.0666 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8914    2.3559   -0.5954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4544    1.2275   -1.8459 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2293   -0.4150   -1.5223 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3901   -1.0610   -1.8545 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4352    1.7931    1.1986 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3212   -2.4581   -1.2022 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3658    0.3893    1.8417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8125   -1.7372    0.6448 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4044    2.6608   -0.5983 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5159   -2.2355   -1.4828 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6262   -3.7469    0.4560 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04316
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IOFPEOPOAMOMBE-MRVPVSSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N(O)C(=O)N([H])[C@H](CC1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O4/c13-9(14)8(11-10(15)12-16)6-7-4-2-1-3-5-7/h1-5,8,16H,6H2,(H,13,14)(H2,11,12,15)/t8-/m1/s1
+
+> <INCHI_KEY>
+IOFPEOPOAMOMBE-MRVPVSSYSA-N
+
+> <FORMULA>
+C10H12N2O4
+
+> <MOLECULAR_WEIGHT>
+224.2133
+
+> <EXACT_MASS>
+224.079706882
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.276245860558227
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-[N-hydroxy-(C-hydroxycarbonimidoyl)amino]-3-phenylpropanoic acid
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+0.8950756680357245
+
+> <ALOGPS_LOGS>
+-2.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+5.317484147499049
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.026406722045276
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.0645743436654085
+
+> <JCHEM_POLAR_SURFACE_AREA>
+102.15
+
+> <JCHEM_REFRACTIVITY>
+66.138
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-[N-hydroxy-(C-hydroxycarbonimidoyl)amino]-3-phenylpropanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,143 @@
+5394
+  -OEChem-10051719243D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+    2.6498    1.6852    0.0032 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8126   -1.6976    0.0114 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5864    0.7933    0.0007 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3381   -0.6593   -0.0007 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4685    1.6448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2231   -1.5299   -0.0024 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4610   -1.7251   -0.0024 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9618    0.2869   -0.0043 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2632   -0.2747   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5254    0.2747   -0.0019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9626    0.6761    0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1841    1.9271    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7590   -0.9581   -0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7644   -0.4433   -0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2405    2.9218    0.0032 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3703   -0.0519    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9908   -1.5450   -0.8948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9908   -1.5476    0.8906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9720    1.3019   -0.0090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8601   -0.1847    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 14  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00853
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BPEGJWRSRHCHSN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1N=NC2=C(N=CN2C1=O)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N6O2/c1-11-6(14)12-2-8-3(4(7)13)5(12)9-10-11/h2H,1H3,(H2,7,13)
+
+> <INCHI_KEY>
+BPEGJWRSRHCHSN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6N6O2
+
+> <MOLECULAR_WEIGHT>
+194.1508
+
+> <EXACT_MASS>
+194.055223466
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.875955761195286
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-methyl-4-oxo-3H,4H-imidazo[4,3-d][1,2,3,5]tetrazine-8-carboxamide
+
+> <ALOGPS_LOGP>
+-1.00
+
+> <JCHEM_LOGP>
+-0.2825381519999997
+
+> <ALOGPS_LOGS>
+-1.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.511549673808375
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.638478343476955
+
+> <JCHEM_POLAR_SURFACE_AREA>
+105.94
+
+> <JCHEM_REFRACTIVITY>
+47.8609
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.09e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+temozolomide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

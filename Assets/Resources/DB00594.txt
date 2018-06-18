@@ -1,0 +1,151 @@
+16231
+  -OEChem-10051719183D
+
+ 23 23  0     0  0  0  0  0  0999 V2000
+   -2.3546    2.6599   -0.5229 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6926   -1.6986   -1.2164 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0899   -1.1792    0.5167 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5153    0.8520   -0.6063 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2504   -2.6725    0.3395 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1600    0.5125   -0.7213 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9055    0.3375    0.6773 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6599    1.7951    0.6579 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6926   -0.1091    1.4587 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0703   -0.3859   -0.3913 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8098   -1.3886    0.1504 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5686    0.0638    0.3118 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7954    1.0616   -0.2398 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3465   -0.5957   -0.8037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8080    0.7473    0.3896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8554   -3.3770    0.7439 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7430   -2.7485    0.5187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4387   -0.4193    1.0868 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1530    1.2884    0.9210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8490    2.5074   -0.0389 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1193    1.8881    1.5572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1200   -0.9450    1.4381 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1941    0.0702    2.3223 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00594
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XSDQTOBWRPYKKA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(N)=NC(=O)C1=C(N)N=C(N)C(Cl)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8ClN7O/c7-2-4(9)13-3(8)1(12-2)5(15)14-6(10)11/h(H4,8,9,13)(H4,10,11,14,15)
+
+> <INCHI_KEY>
+XSDQTOBWRPYKKA-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H8ClN7O
+
+> <MOLECULAR_WEIGHT>
+229.627
+
+> <EXACT_MASS>
+229.04788562
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.99291748770876
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,5-diamino-6-chloro-N-(diaminomethylidene)pyrazine-2-carboxamide
+
+> <ALOGPS_LOGP>
+-0.72
+
+> <JCHEM_LOGP>
+-0.8903691166666666
+
+> <ALOGPS_LOGS>
+-2.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.691859100323214
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.458863179588512
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.2857540348413337
+
+> <JCHEM_POLAR_SURFACE_AREA>
+159.29000000000002
+
+> <JCHEM_REFRACTIVITY>
+56.688399999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+amiloride
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

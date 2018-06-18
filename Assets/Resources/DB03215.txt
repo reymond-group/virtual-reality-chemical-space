@@ -1,0 +1,151 @@
+447989
+  -OEChem-10051720113D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+    3.7302   -0.2261   -0.6004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4391    1.6357   -0.3499 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0686   -0.0445    0.4224 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8350    0.2926   -1.4604 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6376    0.3664    1.1322 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4490    0.1382    0.1659 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3224   -1.3415   -0.1573 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1803   -1.5770   -0.1783 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7660   -0.4500    0.6649 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8083    0.5054    0.7398 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6519    0.4514   -0.1363 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9218    0.2495   -0.2425 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2559    0.7329   -0.7367 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7832   -1.6091   -1.1133 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7803   -1.9619    0.6236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4145   -2.5599    0.2443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5436   -1.5607   -1.2123 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3382   -0.8226    1.5213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3417    0.0112    2.0426 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9998   -0.0784    1.6492 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8405    1.5671    1.0101 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3231    0.3478   -1.1308 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8135   -0.2171   -0.1921 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03215
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LIZWYFXJOOUDNV-WHFBIAKZSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(CC(O)=O)CC[C@]([H])(N1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO4/c9-6(10)3-4-1-2-5(8-4)7(11)12/h4-5,8H,1-3H2,(H,9,10)(H,11,12)/t4-,5-/m0/s1
+
+> <INCHI_KEY>
+LIZWYFXJOOUDNV-WHFBIAKZSA-N
+
+> <FORMULA>
+C7H11NO4
+
+> <MOLECULAR_WEIGHT>
+173.1665
+
+> <EXACT_MASS>
+173.068807845
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.446978661898918
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,5S)-5-(carboxymethyl)pyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-2.65
+
+> <JCHEM_LOGP>
+-2.8788291108759165
+
+> <ALOGPS_LOGS>
+-0.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.7197225141113024
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5073775453146245
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.326930457329532
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+38.5185
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.39e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,5S)-5-carboxymethylproline
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

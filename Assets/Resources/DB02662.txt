@@ -1,0 +1,149 @@
+1829
+  -OEChem-10051719593D
+
+ 22 22  0     0  0  0  0  0  0999 V2000
+    4.9650    1.4845    0.0440 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8190   -2.9259   -0.5605 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1434   -2.6242    0.5462 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2062    2.0146   -0.0462 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5327    0.9331   -0.0578 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6034   -1.1539   -0.0149 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1032   -0.0734   -0.0038 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2553    0.2556    0.0071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2346   -0.7374    0.0319 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6256    1.6002   -0.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5844   -0.3855    0.0425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9753    1.9521    0.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9548    0.9591    0.0284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8810   -2.1515    0.0478 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1904    0.7947   -0.0282 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5159    0.0578   -0.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0704    2.4268   -0.0262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3568   -1.1507    0.0765 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3235   -1.0658    0.0051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2434    3.0056   -0.0078 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5739   -3.8756   -0.5459 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4064    0.4870   -0.0609 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 15  2  0  0  0  0
+  5 16  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02662
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SHSWHSQPJKMCPN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(=O)NC1=C(C=C(I)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H6INO5/c10-4-1-2-6(5(3-4)8(13)14)11-7(12)9(15)16/h1-3H,(H,11,12)(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+SHSWHSQPJKMCPN-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H6INO5
+
+> <MOLECULAR_WEIGHT>
+335.0521
+
+> <EXACT_MASS>
+334.929065727
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.259399033168595
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(carboxyformamido)-5-iodobenzoic acid
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+2.4070777146666664
+
+> <ALOGPS_LOGS>
+-3.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.428388994575448
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.470806499871161
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.922512588248663
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.7
+
+> <JCHEM_REFRACTIVITY>
+63.334600000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.66e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+novo nordisk a/S compound
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

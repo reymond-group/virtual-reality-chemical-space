@@ -1,0 +1,130 @@
+100714
+  -OEChem-10051719523D
+
+ 13 12  0     0  0  0  0  0  0999 V2000
+    2.4016    0.2788    0.3246 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4751   -1.3513    0.5914 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1881   -1.3224   -0.7322 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1814    0.4822   -0.5393 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0986    1.8192   -0.1263 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0455    0.4806    0.4537 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2340   -0.2941   -0.0726 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3114   -0.0929    0.1008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1085    0.5394    1.5460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9675    2.2765    0.1491 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6499    2.3916    0.2638 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1816   -0.2246    0.0075 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3558   -1.7194    0.3651 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02289
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JINBYESILADKFW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5NO4/c4-1(2(5)6)3(7)8/h1H,4H2,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+JINBYESILADKFW-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H5NO4
+
+> <MOLECULAR_WEIGHT>
+119.0761
+
+> <EXACT_MASS>
+119.021857653
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.47937151561501
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminopropanedioic acid
+
+> <ALOGPS_LOGP>
+-3.50
+
+> <JCHEM_LOGP>
+-3.4290208572044985
+
+> <ALOGPS_LOGS>
+0.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.6755223055219526
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.45162167120244945
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.495965759301432
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.62
+
+> <JCHEM_REFRACTIVITY>
+21.983500000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.26e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aminomalonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

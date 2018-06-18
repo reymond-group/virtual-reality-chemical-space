@@ -1,0 +1,161 @@
+444635
+  -OEChem-10051719423D
+
+ 28 28  0     1  0  0  0  0  0999 V2000
+   -2.9252   -0.4088    0.1652 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3575    0.1248   -0.1533 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7474    0.6405   -0.2569 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1045   -1.0485   -1.4596 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0102    2.8756    0.3362 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6951    2.4212   -0.4012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6037   -2.2314    0.5065 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1632   -0.0126   -0.8205 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4775   -1.7377   -0.2080 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3359   -0.1346    1.5296 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4467    0.5053    0.3089 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1413   -0.8616   -0.0433 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4449    1.6354   -0.2047 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5960   -0.9384    0.4328 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8966    1.4200    0.2290 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2667   -2.2493    0.0392 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5472    0.5994    1.3984 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3857   -1.6871    0.4350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3663    1.7206   -1.2952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6514   -0.8276    1.5240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036    1.5498    1.3134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -2.3824   -1.0467 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7532   -3.1074    0.4828 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7446   -0.4398   -1.8651 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5872    3.5711    0.0117 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4885    2.5405    0.1479 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0443   -1.4616    0.1078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3680    0.9504   -0.8736 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  2  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01818
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HHRMGTRTCHNCRO-FDROIEKHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)O[C@]([H])(CO)[C@]([H])(O)[C@]([H])(OS(O)(=O)=O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O9S/c7-1-2-3(8)5(15-16(11,12)13)4(9)6(10)14-2/h2-10H,1H2,(H,11,12,13)/t2-,3+,4-,5+,6-/m1/s1
+
+> <INCHI_KEY>
+HHRMGTRTCHNCRO-FDROIEKHSA-N
+
+> <FORMULA>
+C6H12O9S
+
+> <MOLECULAR_WEIGHT>
+260.219
+
+> <EXACT_MASS>
+260.020202672
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.802687107019096
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R,3R,4S,5S,6R)-2,3,5-trihydroxy-6-(hydroxymethyl)oxan-4-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-2.11
+
+> <JCHEM_LOGP>
+-4.729415807583714
+
+> <ALOGPS_LOGS>
+-0.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.300440238027804
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.9980021667040395
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.98112808794708
+
+> <JCHEM_POLAR_SURFACE_AREA>
+153.74999999999997
+
+> <JCHEM_REFRACTIVITY>
+45.9152
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3R,4S,5S,6R)-2,3,5-trihydroxy-6-(hydroxymethyl)oxan-4-yl]oxidanesulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

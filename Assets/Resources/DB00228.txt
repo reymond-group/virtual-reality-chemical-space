@@ -1,0 +1,122 @@
+3226
+  -OEChem-10051719103D
+
+ 12 11  0     1  0  0  0  0  0999 V2000
+   -1.9365   -1.8721    0.2904 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3320    1.5743   -0.6925 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3487    0.5508    1.2412 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7497    0.5308   -0.0514 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8896   -0.7258   -0.6384 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0400    0.1805    1.1502 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6725   -0.4405   -0.5315 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4218    0.3577   -0.0974 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7418   -0.2794   -0.4718 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9284    0.1237   -0.1988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8330   -0.4069   -1.5542 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0804    1.1129   -0.6413 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00228
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JPGQOUSTVILISH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)OC(F)(F)C(F)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H2ClF5O/c4-1(5)3(8,9)10-2(6)7/h1-2H
+
+> <INCHI_KEY>
+JPGQOUSTVILISH-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H2ClF5O
+
+> <MOLECULAR_WEIGHT>
+184.492
+
+> <EXACT_MASS>
+183.971433418
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.743590662177006
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane
+
+> <ALOGPS_LOGP>
+2.24
+
+> <JCHEM_LOGP>
+2.7992093016666666
+
+> <ALOGPS_LOGS>
+-1.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.979172640295099
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+23.065399999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.90e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+enflurane
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

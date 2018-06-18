@@ -1,0 +1,139 @@
+340
+  -OEChem-10051720163D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+   -0.1056   -2.1393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3605   -0.8860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1982   -0.0120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0322   -0.7775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1183    1.3806   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2137   -0.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5412   -0.6649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1276    2.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2937    1.2421    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0169    1.9920   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6708   -1.2818   -0.8954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6707   -1.2820    0.8953 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3498    0.0746    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1901    3.0919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2612    1.7368    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0267   -2.4424   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1191   -1.8286   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03454
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PGSWEKYNAOWQDF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=CC(O)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O2/c1-5-3-2-4-6(8)7(5)9/h2-4,8-9H,1H3
+
+> <INCHI_KEY>
+PGSWEKYNAOWQDF-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8O2
+
+> <MOLECULAR_WEIGHT>
+124.1372
+
+> <EXACT_MASS>
+124.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.727085176271189
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylbenzene-1,2-diol
+
+> <ALOGPS_LOGP>
+1.03
+
+> <JCHEM_LOGP>
+1.8795365619999997
+
+> <ALOGPS_LOGS>
+-0.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.04231581149143
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.594384881130571
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.26938194286343
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+35.061
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.67e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methylcatechol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

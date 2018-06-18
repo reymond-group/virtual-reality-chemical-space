@@ -1,0 +1,138 @@
+4369374
+  -OEChem-10051720083D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -1.6931    2.3743    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3700   -2.1810    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7761    0.4745    0.0002 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4281   -1.7004   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2218   -1.3619   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0374    0.1005   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0476   -0.5244    0.0002 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0162    2.1185    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6376   -0.2987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2496    0.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2348    1.2330   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5980   -1.2219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1722   -2.2984    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0426    0.2496   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0253    2.0773   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5626    3.0241   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 12  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  CHG  2   3  -1   7   1
+M  END
+> <DATABASE_ID>
+DB03099
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CLOSWQFGCBFNCK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=C(NC(=O)NC1=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N4O4/c5-1-2(8(11)12)6-4(10)7-3(1)9/h5H2,(H2,6,7,9,10)
+
+> <INCHI_KEY>
+CLOSWQFGCBFNCK-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4N4O4
+
+> <MOLECULAR_WEIGHT>
+172.099
+
+> <EXACT_MASS>
+172.023254636
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.012521885008718
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-amino-6-nitro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.12
+
+> <JCHEM_LOGP>
+-1.5955020943333333
+
+> <ALOGPS_LOGS>
+-1.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.15170954352845
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.0706133225643635
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.287596594000012
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.04
+
+> <JCHEM_REFRACTIVITY>
+34.58410000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-amino 6-nitro uracil
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

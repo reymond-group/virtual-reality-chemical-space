@@ -1,0 +1,134 @@
+1609
+  -OEChem-10051720353D
+
+ 17 18  0     0  0  0  0  0  0999 V2000
+    1.6742   -2.6344    0.0006 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7118   -0.1731    0.0006 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5529    1.3879   -0.0010 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1171    2.9128    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3131   -0.7059   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7407    0.6301    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2965   -1.7104   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1305   -0.9896   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1070    0.9503    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2375    1.7409    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6574   -1.3911   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0623   -0.0619    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870    0.0445   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0344   -2.7651   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4448    1.9834    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3992   -2.1847   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1194    0.1862    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04459
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SUGXUUGGLDCZKB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=C(Cl)C2=CC=CC=C2C(=O)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H4Cl2O2/c10-7-5-3-1-2-4-6(5)9(12)13-8(7)11/h1-4H
+
+> <INCHI_KEY>
+SUGXUUGGLDCZKB-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H4Cl2O2
+
+> <MOLECULAR_WEIGHT>
+215.033
+
+> <EXACT_MASS>
+213.958834786
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.647167210521253
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,4-dichloro-1H-isochromen-1-one
+
+> <ALOGPS_LOGP>
+3.14
+
+> <JCHEM_LOGP>
+2.876764642666666
+
+> <ALOGPS_LOGS>
+-3.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.093804122933593
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+61.05240000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.97e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,4-dichloroisocoumarin
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

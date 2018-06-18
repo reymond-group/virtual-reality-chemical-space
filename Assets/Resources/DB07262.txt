@@ -1,0 +1,157 @@
+9543472
+  -OEChem-10051720593D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+    1.7806   -1.0489    0.9810 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8966    0.9199    0.3489 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2323    1.8369    1.3944 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4672    2.1389   -0.7463 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7970   -0.0855   -0.5924 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3699   -1.4585    1.1745 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4280    2.1065   -1.3558 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0193    1.7260    0.8582 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5745   -1.0054   -0.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7263   -0.0077   -0.0416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3446    0.1210   -0.1828 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9152   -0.8669   -0.5925 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1612   -2.2584   -0.5586 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3254   -1.2620   -0.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5428   -2.3874   -0.4174 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5633    1.1950    0.2350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4565   -0.8437    0.4968 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    1.1803   -0.4023 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8793    1.0991   -0.0899 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2891   -1.6159   -1.3005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1433    0.1125   -1.0289 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5613   -3.1418   -0.7590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3999   -1.3827   -0.0522 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0091   -3.3641   -0.5086 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2854   -1.2516    0.7601 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.8475   -2.3331 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6208    3.0716   -1.1111 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7740    1.1899    1.6828 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2303    2.7072    1.0063 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 17  2  0  0  0  0
+  6 25  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 26  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07262
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DWJNPCRXBNWCJC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)NC(=N)SCC1=CC=CC(=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11F3N4S/c11-10(12,13)7-3-1-2-6(4-7)5-18-9(16)17-8(14)15/h1-4H,5H2,(H5,14,15,16,17)
+
+> <INCHI_KEY>
+DWJNPCRXBNWCJC-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11F3N4S
+
+> <MOLECULAR_WEIGHT>
+276.281
+
+> <EXACT_MASS>
+276.065651677
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.63734374733375
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[({[3-(trifluoromethyl)phenyl]methyl}sulfanyl)methanimidoyl]guanidine
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+2.6908284149999995
+
+> <ALOGPS_LOGS>
+-4.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.030325032537998
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.75
+
+> <JCHEM_REFRACTIVITY>
+86.32940000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.26e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[({[3-(trifluoromethyl)phenyl]methyl}sulfanyl)methanimidoyl]guanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

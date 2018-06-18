@@ -1,0 +1,159 @@
+446916
+  -OEChem-10051720303D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+   -0.3771   -2.8094   -0.6776 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3724   -1.0445    0.4003 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7265    3.9719    0.1744 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4276    2.5462   -0.3158 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2608   -2.0597    1.3785 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0972   -1.7293   -0.8607 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1206    1.9650    0.1686 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3298    0.3544   -0.3108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9617   -0.2311   -0.1911 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6050   -0.3297   -0.6210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8531    0.8009    0.1101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1998    1.7052   -0.0843 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3760   -0.8327    0.6147 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4592   -1.5440   -0.3102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2228    0.5846    0.2990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8270   -1.7752   -0.1238 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6934   -0.7257    0.1760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2100    2.7175   -0.0933 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6548   -1.5644    0.2672 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4590   -1.1440   -1.3353 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2635    0.3420   -1.1855 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5053    2.8779    0.3697 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6382    0.0165    1.2564 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7433   -1.5162    1.1922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8881    1.4101    0.5324 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2147   -2.7883   -0.2149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4400    4.6451    0.1614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0835   -2.5471    1.1593 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5 19  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6 19  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04175
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KNBSYZNKEAWABY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CCC1=C(NC2=C1C(Cl)=CC(Cl)=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9Cl2NO4/c13-5-3-7(14)10-6(1-2-9(16)17)11(12(18)19)15-8(10)4-5/h3-4,15H,1-2H2,(H,16,17)(H,18,19)
+
+> <INCHI_KEY>
+KNBSYZNKEAWABY-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9Cl2NO4
+
+> <MOLECULAR_WEIGHT>
+302.11
+
+> <EXACT_MASS>
+300.990863195
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.620816153139316
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(2-carboxyethyl)-4,6-dichloro-1H-indole-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.46
+
+> <JCHEM_LOGP>
+2.9399981476666666
+
+> <ALOGPS_LOGS>
+-3.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.988264616707232
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3651134589863103
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.38999999999999
+
+> <JCHEM_REFRACTIVITY>
+69.79639999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-(2-carboxyethyl)-4,6-dichloro-1H-indole-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

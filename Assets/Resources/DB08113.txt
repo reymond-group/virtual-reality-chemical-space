@@ -1,0 +1,152 @@
+12412578
+  -OEChem-10051721143D
+
+ 24 26  0     0  0  0  0  0  0999 V2000
+    1.5871    1.9975   -0.0013 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2439    1.9756   -0.0031 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0725   -0.6185    0.0017 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1095   -0.1428   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0430    0.6720   -0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1685    0.7582   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4157    0.2337   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3791   -1.5216    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5071    0.3603    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7150   -1.9420    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7594   -1.0155    0.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0755    0.0259    1.2024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0751    0.0183   -1.2026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3941   -0.3970    1.1499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3935   -0.4044   -1.1478 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5773   -2.2537   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0503    2.8976   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3170    1.0813    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9406   -3.0052    0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7876   -1.3687    0.0034 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5901    0.1840    2.1600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5895    0.1704   -2.1611 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9570   -0.5748    2.0603 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9562   -0.5881   -2.0571 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3 14  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 12  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08113
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MSRXUUDVRNWSTN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1N=C(C2=C1C=CC=C2)C1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9N3/c1-2-4-11-10(3-1)12(15-14-11)9-5-7-13-8-6-9/h1-8H,(H,14,15)
+
+> <INCHI_KEY>
+MSRXUUDVRNWSTN-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9N3
+
+> <MOLECULAR_WEIGHT>
+195.22
+
+> <EXACT_MASS>
+195.079647303
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.583920166715842
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(pyridin-4-yl)-1H-indazole
+
+> <ALOGPS_LOGP>
+2.39
+
+> <JCHEM_LOGP>
+2.111710949
+
+> <ALOGPS_LOGS>
+-2.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.842278632393029
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.773426116767129
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.57
+
+> <JCHEM_REFRACTIVITY>
+58.680400000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.48e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-pyridin-4-yl-1H-indazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

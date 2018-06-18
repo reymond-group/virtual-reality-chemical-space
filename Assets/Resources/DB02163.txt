@@ -1,0 +1,139 @@
+7259
+  -OEChem-10051719503D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+   -1.6601    1.8668    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1570   -0.5212    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7276    0.8058   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5710    0.0621   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6364    1.0975   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2223   -1.5567    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1417   -1.2651    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6117   -0.8627   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0296    0.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9728    2.1320    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5393   -2.5962    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8601   -2.0806    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1011   -0.4612    0.8932 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0999   -0.4626   -0.8951 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7751   -1.9461    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2350    1.2985   -0.5494 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3892    0.4874    1.0274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6049   -0.4217   -0.4862 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3296    2.8230   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6542    1.6864   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02163
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VOWZNBNDMFLQGM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=C(C)C(N)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N/c1-6-3-4-7(2)8(9)5-6/h3-5H,9H2,1-2H3
+
+> <INCHI_KEY>
+VOWZNBNDMFLQGM-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11N
+
+> <MOLECULAR_WEIGHT>
+121.1796
+
+> <EXACT_MASS>
+121.089149357
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.456488566442367
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,5-dimethylaniline
+
+> <ALOGPS_LOGP>
+1.79
+
+> <JCHEM_LOGP>
+2.1711626406666666
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.653922355346197
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+40.8408
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.07e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,5-xylidine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

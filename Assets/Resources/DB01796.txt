@@ -1,0 +1,139 @@
+1066
+  -OEChem-10051719423D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    1.9944   -1.2138   -1.2007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1226    2.8817   -0.0151 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1595   -1.2290    1.0663 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7528    1.5979    0.0233 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7089    0.9004   -0.0089 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0570   -0.7503    0.0298 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4014    0.5571    0.0094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8871   -1.7711    0.0317 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2417   -1.4577    0.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5973   -0.1187   -0.0064 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4743   -1.0795    0.0498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5211    1.6830    0.0076 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5795   -2.8133    0.0476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9953   -2.2369    0.0144 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6407    0.1786   -0.0212 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9497   -1.4357   -1.1766 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5069    3.6342   -0.0166 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01796
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GJAWHXHKYYXBSV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC=CN=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5NO4/c9-6(10)4-2-1-3-8-5(4)7(11)12/h1-3H,(H,9,10)(H,11,12)
+
+> <INCHI_KEY>
+GJAWHXHKYYXBSV-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5NO4
+
+> <MOLECULAR_WEIGHT>
+167.1189
+
+> <EXACT_MASS>
+167.021857653
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.340881634809179
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyridine-2,3-dicarboxylic acid
+
+> <ALOGPS_LOGP>
+0.15
+
+> <JCHEM_LOGP>
+-0.5431572445886471
+
+> <ALOGPS_LOGS>
+-1.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.88729404846235
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.2932245059395324
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.258386966374333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.49000000000001
+
+> <JCHEM_REFRACTIVITY>
+38.0415
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.07e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+quinolinic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

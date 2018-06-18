@@ -1,0 +1,140 @@
+448926
+  -OEChem-10051720293D
+
+ 19 19  0     0  0  0  0  0  0999 V2000
+    2.9885    0.7404   -0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8993   -1.2825    0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7366    0.7515    0.0012 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1868   -0.0848   -0.0014 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6054    0.3699    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6065    1.3413    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9462   -0.9828    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9483    0.9602   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2881   -1.3639   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2890   -0.3923   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8723   -0.0570    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3555    2.3989    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2280   -1.7910    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9119    1.7535    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7278    1.7165   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5550   -2.4168   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3337   -0.6891   -0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6701    0.2879    0.8145 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6684    0.2865   -0.8189 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04157
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YQHOHPOCZUAUKP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NOC(=O)NC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N2O2/c8-11-7(10)9-6-4-2-1-3-5-6/h1-5H,8H2,(H,9,10)
+
+> <INCHI_KEY>
+YQHOHPOCZUAUKP-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8N2O2
+
+> <MOLECULAR_WEIGHT>
+152.1506
+
+> <EXACT_MASS>
+152.05857751
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.918229984938531
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+amino N-phenylcarbamate
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+1.3100955606666664
+
+> <ALOGPS_LOGS>
+-1.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.647794891859995
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.5964885929779595
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.35
+
+> <JCHEM_REFRACTIVITY>
+42.132000000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.60e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+amino N-phenylcarbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,161 @@
+656936
+  -OEChem-10051720553D
+
+ 27 29  0     0  0  0  0  0  0999 V2000
+    0.3943   -0.9744    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5903    0.7000   -0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8425   -0.1192   -0.0017 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9296    0.6827    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2595    0.2163    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7278   -0.6936    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6335    1.2626    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6925    0.1301    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2490    1.1680   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7560   -1.6344   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3046    0.2459   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4679    1.2936    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3230   -1.1181    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0598   -1.1297   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8602    1.2098   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7154   -1.2018    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4840   -0.0378   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3978    2.3179    0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4406    2.2371   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5582   -2.6996   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0127    2.2807    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7597   -2.0480    0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8947   -1.8269   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4539    2.1199   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1895   -2.1797    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5811    1.6726   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1019   -1.0566   -0.0018 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07032
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SNNNDCMXZYWCCI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(O1)C=CC(O)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10O3/c15-11-3-1-9(2-4-11)14-8-10-7-12(16)5-6-13(10)17-14/h1-8,15-16H
+
+> <INCHI_KEY>
+SNNNDCMXZYWCCI-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H10O3
+
+> <MOLECULAR_WEIGHT>
+226.2274
+
+> <EXACT_MASS>
+226.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.135527125546446
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-hydroxyphenyl)-1-benzofuran-5-ol
+
+> <ALOGPS_LOGP>
+3.19
+
+> <JCHEM_LOGP>
+3.0924650589999993
+
+> <ALOGPS_LOGS>
+-3.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.734682411823723
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.131068836834151
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.275509670137707
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+63.8746
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(4-hydroxyphenyl)-1-benzofuran-5-ol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

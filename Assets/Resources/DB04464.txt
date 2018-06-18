@@ -1,0 +1,148 @@
+439750
+  -OEChem-10051720353D
+
+ 22 21  0     1  0  0  0  0  0999 V2000
+    3.1510   -0.8964    0.5559 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1584    2.0052   -1.1700 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4614    2.5116    0.9206 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5957   -2.1888    0.4922 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3991   -0.5760   -0.7066 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8732    0.1837    0.3984 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4669   -0.3825    0.8879 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6139   -0.1890   -0.1066 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7885    1.6712    0.0897 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2061   -1.6839   -0.5529 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2507   -0.4550   -0.8086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6017    0.0927    1.2148 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3447   -1.4505    1.1118 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7271    0.1137    1.8326 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3822   -0.6833   -1.0553 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7794    0.8753   -0.2997 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1524   -0.2884   -1.6495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4825   -2.0999   -1.5358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2876    0.6304   -0.9332 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9120   -0.9212   -1.7375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2598   -0.8133   -0.5883 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1130    2.9733   -1.3209 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04464
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PYUSHNKNPOHWEZ-YFKPBYRVSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CCSC)(NC=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11NO3S/c1-11-3-2-5(6(9)10)7-4-8/h4-5H,2-3H2,1H3,(H,7,8)(H,9,10)/t5-/m0/s1
+
+> <INCHI_KEY>
+PYUSHNKNPOHWEZ-YFKPBYRVSA-N
+
+> <FORMULA>
+C6H11NO3S
+
+> <MOLECULAR_WEIGHT>
+177.221
+
+> <EXACT_MASS>
+177.045963913
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.5287820609502
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-formamido-4-(methylsulfanyl)butanoic acid
+
+> <ALOGPS_LOGP>
+-0.61
+
+> <JCHEM_LOGP>
+-0.1571350413333333
+
+> <ALOGPS_LOGS>
+-1.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.896452545212092
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.927720771488015
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9121877153285519
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+42.53930000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.75e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-formylmethionine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

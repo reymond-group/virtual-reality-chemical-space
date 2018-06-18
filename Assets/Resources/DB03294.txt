@@ -1,0 +1,149 @@
+1387
+  -OEChem-10051720123D
+
+ 23 24  0     1  0  0  0  0  0999 V2000
+   -3.0893   -0.0750   -0.0967 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4987   -0.7207    0.0288 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7373    1.0929   -0.6766 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3266   -1.3928   -0.6692 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8199   -2.7859   -0.0073 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7764    0.7828    0.0206 N   0  0  3  0  0  0  0  0  0  0  0  0
+   -3.4449   -0.1306    1.5735 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3898    0.7185   -0.0067 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8728   -0.5851   -0.0194 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3671    0.2118   -0.0606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4846   -0.8653   -0.0460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4957    1.7828   -0.0220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8811    1.5267   -0.0489 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9524   -1.5767   -0.0024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5252    2.0169    0.0329 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8352   -1.8917   -0.0494 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8428    2.8116   -0.0118 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5631    2.3732   -0.0537 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069    1.8416    0.0579 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2714    2.6153    0.9149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3111    2.6086   -0.8640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9698    0.6557    1.9756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6870   -1.0428    1.9794 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03294
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DFPYCCVFXMWMJM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1SC(=O)C2=CC(=CC=C12)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8N2O3S2/c1-10-7-3-2-5(15(9,12)13)4-6(7)8(11)14-10/h2-4H,1H3,(H2,9,12,13)
+
+> <INCHI_KEY>
+DFPYCCVFXMWMJM-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8N2O3S2
+
+> <MOLECULAR_WEIGHT>
+244.291
+
+> <EXACT_MASS>
+243.997633512
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.802009985283284
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-methyl-3-oxo-1,3-dihydro-2,1-benzothiazole-5-sulfonamide
+
+> <ALOGPS_LOGP>
+0.66
+
+> <JCHEM_LOGP>
+0.7782465169999999
+
+> <ALOGPS_LOGS>
+-1.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.066506730756728
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.206394622299378
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.47
+
+> <JCHEM_REFRACTIVITY>
+69.21569999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.96e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-methyl-3-oxo-2,1-benzothiazole-5-sulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

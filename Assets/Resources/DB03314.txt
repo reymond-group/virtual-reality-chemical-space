@@ -1,0 +1,160 @@
+688357
+  -OEChem-10051720133D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+   -2.5424    2.7115    0.5785 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5911    0.7104   -1.8248 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3684    2.1290   -0.2361 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1299   -2.4718   -0.3932 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0362    0.1155    0.6542 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4765   -1.2268    0.4993 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7771   -0.8056    1.0585 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6788   -0.4122    0.3357 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7758   -0.2634    0.0099 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6719   -1.2175   -0.2261 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1681   -2.4874    0.0422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9758    0.9371    0.6127 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9523   -0.7389   -0.5259 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2523    1.4295    0.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2341    0.9881   -0.6604 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2239    0.6026   -0.2425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2347   -1.6586    1.5786 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6065   -0.0442    1.8321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9870   -1.0187   -0.7561 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7542   -3.3941   -0.0136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6199   -3.2659   -0.7815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2345    1.5962    1.0546 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7093   -1.3818   -0.9623 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7141    0.3888   -0.0566 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4334   -0.6953    1.1273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2087    1.0062   -0.4632 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2498    1.5225   -2.2563 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 24  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03314
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/INPQIVHQSQUEAJ-VIFPVBQESA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CNC2=C1C=C(F)C=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11FN2O2/c12-7-1-2-10-8(4-7)6(5-14-10)3-9(13)11(15)16/h1-2,4-5,9,14H,3,13H2,(H,15,16)/t9-/m0/s1
+
+> <INCHI_KEY>
+INPQIVHQSQUEAJ-VIFPVBQESA-N
+
+> <FORMULA>
+C11H11FN2O2
+
+> <MOLECULAR_WEIGHT>
+222.2156
+
+> <EXACT_MASS>
+222.080455811
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.30638642956077
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(5-fluoro-1H-indol-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.02
+
+> <JCHEM_LOGP>
+-0.9433258680394597
+
+> <ALOGPS_LOGS>
+-2.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.229189183660274
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.124746605976088
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.404627224152868
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11000000000001
+
+> <JCHEM_REFRACTIVITY>
+56.41920000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.21e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fluorotryptophane
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

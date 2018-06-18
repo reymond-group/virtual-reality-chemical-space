@@ -1,0 +1,160 @@
+46936619
+  -OEChem-10051720113D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+    3.0071    1.3230   -1.1886 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4981    1.1833   -0.0548 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3216    1.3646    1.0566 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9945   -0.9740   -0.7481 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5334   -1.3829    1.0388 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5396    0.0775    0.6116 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2557   -1.0039    0.2243 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3994   -0.7385   -1.0118 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7464   -0.7453   -0.0194 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.2591   -0.4790   -0.0859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8406    0.0263   -0.2831 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0642    0.7381    0.0362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1960    0.6108    0.4242 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8951   -0.3913    1.0616 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1005   -2.0504    0.5210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5236    0.2926   -1.3578 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6921   -1.4070   -1.8284 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0726   -1.1557   -0.9815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3617   -1.9088   -0.9013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6176   -0.8690   -1.0467 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2265   -1.3138    0.6254 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5271   -1.2716    0.8394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3571   -2.3870    1.0386 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2298    1.4459   -0.2846 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8311    1.0075    1.3781 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9003   -0.2653   -0.2778 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1639    0.8287    0.9026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2003    2.2837   -1.1442 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 28  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03236
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZTTQHTAQUGLWNQ-YFKPBYRVSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCC(=O)NCC[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15N3O3/c8-3-1-6(11)10-4-2-5(9)7(12)13/h5H,1-4,8-9H2,(H,10,11)(H,12,13)/t5-/m0/s1
+
+> <INCHI_KEY>
+ZTTQHTAQUGLWNQ-YFKPBYRVSA-N
+
+> <FORMULA>
+C7H15N3O3
+
+> <MOLECULAR_WEIGHT>
+189.2123
+
+> <EXACT_MASS>
+189.111341361
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.52271140569973
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-(3-aminopropanamido)butanoic acid
+
+> <ALOGPS_LOGP>
+-3.62
+
+> <JCHEM_LOGP>
+-5.100777859279532
+
+> <ALOGPS_LOGS>
+-0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.853675181654225
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.352113256757856
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.40788060394044
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.44
+
+> <JCHEM_REFRACTIVITY>
+46.0668
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.83e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-4-(3-aminopropanamido)butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

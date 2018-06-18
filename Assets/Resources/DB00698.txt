@@ -1,0 +1,156 @@
+6604200
+  -OEChem-10051719213D
+
+ 23 24  0     0  0  0  0  0  0999 V2000
+   -2.1954   -0.5341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6583   -2.2743    0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6417    2.2009   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6715   -0.1748    0.0007 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -4.3840   -1.9581   -0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3186    0.2604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5207    0.0464   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1101    0.8415    0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5196   -0.6995    0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5006   -1.1629   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0160   -1.2334   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5079    0.9850   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2587    0.4310    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1288   -0.0022    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7922    1.6770    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3876    0.1176   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1936    1.4794   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1213   -1.6179   -0.9190 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1216   -1.6180    0.9187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5088    0.2720    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2205   -1.1011    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2643    2.6199    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9616    2.2402   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 23  1  0  0  0  0
+M  CHG  2   4  -1   9   1
+M  END
+> <DATABASE_ID>
+DB00698
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NXFQHRVNIOXGAQ-YCRREMRBSA-N/SDF?record_type=3d
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6N4O5/c13-6-4-11(8(14)10-6)9-3-5-1-2-7(17-5)12(15)16/h1-3H,4H2,(H,10,13,14)/b9-3+
+
+> <INCHI_KEY>
+NXFQHRVNIOXGAQ-YCRREMRBSA-N
+
+> <FORMULA>
+C8H6N4O5
+
+> <MOLECULAR_WEIGHT>
+238.159
+
+> <EXACT_MASS>
+238.033819309
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.492577064204383
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]imidazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+-0.2214499923333333
+
+> <ALOGPS_LOGS>
+-2.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.720212696603358
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.233088918437387
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.246445730643217
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.04999999999998
+
+> <JCHEM_REFRACTIVITY>
+52.1099
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nitrofurantoin sodium
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

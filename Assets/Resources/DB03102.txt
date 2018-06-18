@@ -1,0 +1,160 @@
+444765
+  -OEChem-10051720093D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+   -0.1705   -1.6674   -0.0135 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1449   -1.5168    0.3540 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7563    2.6969    0.0230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4700    3.1018    0.0337 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5947   -2.0031   -0.0217 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0122   -1.1584   -0.0148 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2962    1.0109    0.0070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6934    0.1867    0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9720    0.1650    0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3419    0.7577    0.0282 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8058   -1.2047   -0.0019 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3736   -0.3024   -0.3790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7219    0.8469    0.0078 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9287   -2.1863   -0.0342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3418   -0.0309   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5477    2.2775    0.0225 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6946   -0.7872   -0.0096 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0877   -0.1860   -0.0044 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5515    1.0970    1.0498 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4263    1.6159   -0.6453 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3830    0.0503   -0.1443 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3346   -0.5148   -1.4546 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0596   -2.6049   -1.0381 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7657   -3.0068    0.6712 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9867    1.1599    0.0092 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8220    3.6757    0.0331 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9260   -0.8017   -0.0121 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 17  2  0  0  0  0
+  6 18  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 15  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03102
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SNNOZMNTPOIDSI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(=O)NC1=C(C(O)=O)C2=C(COCC2)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9NO6S/c12-7(10(15)16)11-8-6(9(13)14)4-1-2-17-3-5(4)18-8/h1-3H2,(H,11,12)(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+SNNOZMNTPOIDSI-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9NO6S
+
+> <MOLECULAR_WEIGHT>
+271.247
+
+> <EXACT_MASS>
+271.015057715
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.552674490439962
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]pyran-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+1.4726758236666666
+
+> <ALOGPS_LOGS>
+-3.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.7415190054935916
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.836579020942687
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.158224999641583
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.93
+
+> <JCHEM_REFRACTIVITY>
+60.898600000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.84e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]pyran-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

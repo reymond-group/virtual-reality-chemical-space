@@ -1,0 +1,142 @@
+65249
+  -OEChem-10051719533D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+    1.0400   -2.0465   -0.7210 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4153    1.1581    0.9430 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8316    0.8820   -1.2329 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3776    0.0525    1.2505 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7002    0.1675   -0.3601 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4258   -0.0783    0.5074 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7611   -1.5603    0.5862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5994    0.7038   -0.0442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0103    0.2116    0.0893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9852    0.5097   -1.0182 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1806    0.3056    1.5044 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0808   -2.1309    0.9917 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6426   -1.7310    1.2127 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5208    0.2964   -1.3524 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0076    0.3654   -0.6582 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8617    1.5459   -1.3445 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8134   -0.1624   -1.8639 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2489   -2.9923   -0.6348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1870    1.6457    0.5838 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02340
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JJIHLJJYMXLCOY-BYPYZUCNSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)N[C@@H](CO)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO4/c1-3(8)6-4(2-7)5(9)10/h4,7H,2H2,1H3,(H,6,8)(H,9,10)/t4-/m0/s1
+
+> <INCHI_KEY>
+JJIHLJJYMXLCOY-BYPYZUCNSA-N
+
+> <FORMULA>
+C5H9NO4
+
+> <MOLECULAR_WEIGHT>
+147.1293
+
+> <EXACT_MASS>
+147.053157781
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.42663645613187
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-acetamido-3-hydroxypropanoic acid
+
+> <ALOGPS_LOGP>
+-1.36
+
+> <JCHEM_LOGP>
+-1.8067746783333332
+
+> <ALOGPS_LOGS>
+-0.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.997357799160792
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6110030407267897
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5455972986300575
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+31.4848
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.46e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetylserine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,150 @@
+2182
+  -OEChem-10051719113D
+
+ 23 25  0     0  0  0  0  0  0999 V2000
+    2.4956   -2.5151   -0.0002 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9000   -0.4201    0.0005 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9935   -0.2745    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5654   -0.6490   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7067    1.5399    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0609    1.0301   -0.0006 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2858   -1.3187   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8599   -0.3322    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7912    0.7037   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8201   -1.3578    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6141    1.0565    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7741   -0.1650   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1795   -0.8033   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6957    1.9462    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2472    0.0936   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0057    1.4658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2238   -1.9509   -0.8933 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2240   -1.9514    0.8925 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9566   -1.9499    0.9082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9568   -1.9509   -0.9071 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8355    2.5453    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5248    3.0201    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8264    2.1789    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00261
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OTBXOEAOVRKTNQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C2N=C3NC(=O)CN3CC2=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7Cl2N3O/c11-6-1-2-7-5(9(6)12)3-15-4-8(16)14-10(15)13-7/h1-2H,3-4H2,(H,13,14,16)
+
+> <INCHI_KEY>
+OTBXOEAOVRKTNQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7Cl2N3O
+
+> <MOLECULAR_WEIGHT>
+256.088
+
+> <EXACT_MASS>
+254.996617275
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.610620596496467
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6,7-dichloro-1H,2H,3H,5H-imidazolidino[2,1-b]quinazolin-2-one
+
+> <ALOGPS_LOGP>
+1.95
+
+> <JCHEM_LOGP>
+1.9439308199999998
+
+> <ALOGPS_LOGS>
+-2.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.548791740536455
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6198612137806108
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.7
+
+> <JCHEM_REFRACTIVITY>
+63.250600000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.79e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+anagrelide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

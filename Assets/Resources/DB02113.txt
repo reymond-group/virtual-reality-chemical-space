@@ -1,0 +1,135 @@
+5287547
+  -OEChem-10051719493D
+
+ 16 17  0     0  0  0  0  0  0999 V2000
+   -1.1618   -1.4346    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1056    0.5847   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9750    0.4854    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0380    1.8636   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1278   -0.5422    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2485   -0.6549    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7392    0.7044    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9784   -1.9516   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3260   -0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2966    1.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0857   -2.4432    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7200   -2.5312   -0.8922 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0616   -1.7941    0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7161   -2.5345    0.8879 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2946   -1.1920   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9099    2.5524   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02113
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SYMHUEFSSMBHJA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C2NC=NC2=NC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N4/c1-4-5-6(9-2-7-4)10-3-8-5/h2-3H,1H3,(H,7,8,9,10)
+
+> <INCHI_KEY>
+SYMHUEFSSMBHJA-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6N4
+
+> <MOLECULAR_WEIGHT>
+134.1386
+
+> <EXACT_MASS>
+134.059246212
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.9765298674699
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-methyl-7H-purine
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-0.20763163766666662
+
+> <ALOGPS_LOGS>
+-0.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.83594706213868
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.54921194771139
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.46
+
+> <JCHEM_REFRACTIVITY>
+37.79709999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.93e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-methylpurine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

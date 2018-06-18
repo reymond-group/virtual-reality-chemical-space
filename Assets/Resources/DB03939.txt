@@ -1,0 +1,133 @@
+446637
+  -OEChem-10051720253D
+
+ 14 14  0     1  0  0  0  0  0999 V2000
+   -2.0871    1.0973   -0.5394 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3430    0.8533   -0.0894 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0889    1.0249    0.3046 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0658   -1.0517   -0.1887 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2495    0.4627    0.4155 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2593   -1.0117    0.1886 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2396    0.3115    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1414   -1.6863   -0.0924 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6233    0.6972    1.4170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1873    2.0235    0.4593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2039   -1.5422    0.2595 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1316   -2.7560   -0.2592 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8784   -1.6199   -0.4095 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9176    2.0521   -0.4716 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03939
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DEAAWXYGBWCVJW-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)NC(O)=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2O2/c7-3-1-2-5-4(8)6-3/h1-3,7H,(H2,5,6,8)/t3-/m0/s1
+
+> <INCHI_KEY>
+DEAAWXYGBWCVJW-VKHMYHEASA-N
+
+> <FORMULA>
+C4H6N2O2
+
+> <MOLECULAR_WEIGHT>
+114.1026
+
+> <EXACT_MASS>
+114.042927446
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.019914417883047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4S)-3,4-dihydropyrimidine-2,4-diol
+
+> <ALOGPS_LOGP>
+-1.30
+
+> <JCHEM_LOGP>
+-0.22088623833333326
+
+> <ALOGPS_LOGS>
+-0.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.821248967261319
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.783856513601066
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.130958443897426
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.85000000000001
+
+> <JCHEM_REFRACTIVITY>
+27.366699999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.80e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4S)-3,4-dihydropyrimidine-2,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

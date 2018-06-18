@@ -1,0 +1,130 @@
+9584
+  -OEChem-10051719543D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+    1.7231   -1.4322   -0.0001 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8695    1.3473    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6291    0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5882   -0.7184    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5579    1.4084   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6396   -1.3801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7858    0.7467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8267   -0.6475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5395    2.4953   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6713   -2.4657   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7102    1.3170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7827   -1.1628   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8991    2.3582   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7302    0.8160   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02403
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FTZQXOJYPFINKJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=CC=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6FN/c7-5-3-1-2-4-6(5)8/h1-4H,8H2
+
+> <INCHI_KEY>
+FTZQXOJYPFINKJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6FN
+
+> <MOLECULAR_WEIGHT>
+111.1169
+
+> <EXACT_MASS>
+111.048427402
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.382626821048738
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-fluoroaniline
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.2870217983333332
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.2640650397512
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.4291930975682585
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+30.9748
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.27e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-fluoroaniline
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

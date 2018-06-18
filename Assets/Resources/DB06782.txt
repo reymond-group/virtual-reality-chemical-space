@@ -1,0 +1,132 @@
+3080
+  -OEChem-10051721273D
+
+ 14 13  0     1  0  0  0  0  0999 V2000
+    0.0764   -1.7134    0.2234 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7538    0.0602   -0.2710 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4762    0.0941   -0.2929 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0526    0.0614   -0.2482 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1838    0.7690    0.3217 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323    0.7287    0.2670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0464    0.0951   -1.3439 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1723    1.8249    0.0297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1865    0.7378    1.4173 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4101    0.6924    1.3596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3598    1.7814   -0.0333 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0937   -1.5225    1.5509 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5598    0.9056    0.3877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4459   -0.8418   -0.0309 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06782
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WQABCVAJNWAXTE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC(S)CS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8OS2/c4-1-3(6)2-5/h3-6H,1-2H2
+
+> <INCHI_KEY>
+WQABCVAJNWAXTE-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H8OS2
+
+> <MOLECULAR_WEIGHT>
+124.225
+
+> <EXACT_MASS>
+124.001656258
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.882351050960342
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3-disulfanylpropan-1-ol
+
+> <ALOGPS_LOGP>
+0.58
+
+> <JCHEM_LOGP>
+0.2117348820000001
+
+> <ALOGPS_LOGS>
+-1.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.406150928608998
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.578213305111195
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.755439743023877
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+32.9087
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.76e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimercaprol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

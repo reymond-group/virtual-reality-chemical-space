@@ -1,0 +1,160 @@
+5289415
+  -OEChem-10051720203D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+   -0.1884    2.4911    1.1878 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2676    1.9397   -0.7378 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5255   -1.3461    1.7073 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1214   -0.7155   -1.4401 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6843   -1.0354    0.3489 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7224    0.5526   -0.4562 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3534    0.3932    0.2345 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6435   -0.6843   -0.3715 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4483   -0.7817   -0.3426 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9247   -1.1104    1.0704 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9660   -0.3896   -1.0861 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4710    1.6653    0.1483 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9034   -0.9788   -0.2630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5600    0.8071   -1.5123 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2371    1.4184   -0.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5127    0.2039    1.3039 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1798   -1.5251   -0.8990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6469   -0.6154   -1.4081 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1223   -1.7126   -0.2664 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0183   -1.4724    1.5647 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -0.2788    1.6584 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6538   -1.9275    1.0986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6176   -1.2698   -1.0784 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5039    0.4342   -0.6044 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7901   -0.1150   -2.1315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7035    3.3248    1.1430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7230   -1.2041    0.4389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3398   -2.2988    1.6496 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03683
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LFMOJNDZFCHHPV-SSDOTTSWSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CC(C)C)(CN(O)C=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO4/c1-6(2)3-7(8(11)12)4-9(13)5-10/h5-7,13H,3-4H2,1-2H3,(H,11,12)/t7-/m1/s1
+
+> <INCHI_KEY>
+LFMOJNDZFCHHPV-SSDOTTSWSA-N
+
+> <FORMULA>
+C8H15NO4
+
+> <MOLECULAR_WEIGHT>
+189.209
+
+> <EXACT_MASS>
+189.100107973
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.925427527050786
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-[(N-hydroxyformamido)methyl]-4-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+0.15
+
+> <JCHEM_LOGP>
+0.5756460516666668
+
+> <ALOGPS_LOGS>
+-1.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.486336356979463
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.394971231570439
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.692564894147442
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+45.7458
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.55e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-[(N-hydroxyformamido)methyl]-4-methylpentanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

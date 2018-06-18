@@ -1,0 +1,112 @@
+6407
+  -OEChem-10051719593D
+
+  7  6  0     0  0  0  0  0  0999 V2000
+   -0.1313   -0.0061    1.7782 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2455    1.4603   -0.4775 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2458   -1.4568   -0.4872 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0494    0.0004   -0.1472 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3761    0.0000    0.0256 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9493    0.0023   -0.6920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8939    0.0060   -1.7963 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02650
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HFFLGKNGCAIQMO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC(Cl)(Cl)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2HCl3O/c3-2(4,5)1-6/h1H
+
+> <INCHI_KEY>
+HFFLGKNGCAIQMO-UHFFFAOYSA-N
+
+> <FORMULA>
+C2HCl3O
+
+> <MOLECULAR_WEIGHT>
+147.388
+
+> <EXACT_MASS>
+145.909297775
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.425554991358307
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,2,2-trichloroacetaldehyde
+
+> <ALOGPS_LOGP>
+1.38
+
+> <JCHEM_LOGP>
+1.3704264586666668
+
+> <ALOGPS_LOGS>
+-1.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.046479041249698
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+27.2329
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.15e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chloral
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

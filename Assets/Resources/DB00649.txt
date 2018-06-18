@@ -1,0 +1,162 @@
+18283
+  -OEChem-10051719203D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+    1.7216   -0.8718    0.9826 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0480    1.8242    0.1922 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5970   -2.7199    0.3146 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9402    1.2301    0.0779 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100   -0.7407   -0.0262 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7532   -0.7429    0.1938 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8947   -1.3907   -0.0732 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8840   -0.2528    0.3891 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5881   -1.0646   -1.3409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7219   -0.4182   -1.0798 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9388    1.2032    0.8204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4511    0.6297   -0.1814 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5740   -1.4959    0.1704 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5812    1.3472   -0.1585 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8684    0.6311    0.0458 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6219    2.8321   -0.3268 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8049   -2.4732    0.0606 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773   -0.7906    0.7262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2385   -1.3256   -2.3287 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4240   -0.0789   -1.8267 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0746    1.2582    1.9066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0463    1.7825    0.5914 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4747    1.1412   -0.3775 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6169   -1.2594    0.3348 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6218    3.2562   -0.4659 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0631    3.3051    0.5565 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2219    3.1013   -1.2022 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0817    2.7419    0.5117 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4 15  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00649
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XNKLLVCARDGLGL-JGVFFNPUSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CN([C@@H]2O[C@H](CO)C=C2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O4/c1-6-4-12(10(15)11-9(6)14)8-3-2-7(5-13)16-8/h2-4,7-8,13H,5H2,1H3,(H,11,14,15)/t7-,8+/m0/s1
+
+> <INCHI_KEY>
+XNKLLVCARDGLGL-JGVFFNPUSA-N
+
+> <FORMULA>
+C10H12N2O4
+
+> <MOLECULAR_WEIGHT>
+224.2133
+
+> <EXACT_MASS>
+224.079706882
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.325260481985904
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(2R,5S)-5-(hydroxymethyl)-2,5-dihydrofuran-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.73
+
+> <JCHEM_LOGP>
+-0.23180609499999943
+
+> <ALOGPS_LOGS>
+-0.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.631812414933773
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.952852989475087
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.960262458534433
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+55.3163
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+stavudine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

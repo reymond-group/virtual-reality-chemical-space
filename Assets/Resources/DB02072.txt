@@ -1,0 +1,160 @@
+1521
+  -OEChem-10051719483D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    4.5030    1.6312    0.3886 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1443    1.6731   -0.0216 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6242   -2.7057   -0.5596 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3047   -3.0596    0.5695 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6236    2.0081   -0.0118 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0385    1.1565    0.0183 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3160   -1.0105    0.0519 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7155   -0.1787    0.0212 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9606   -0.1530   -0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2969   -0.8335    0.0185 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7949    1.2220   -0.0174 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4327    0.0436   -0.5064 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7001   -0.8292    0.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8573    2.2738   -0.0630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3648    0.0428    0.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5189   -2.2599    0.0483 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7199    0.7921    0.0105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1110    0.1869    0.0299 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5158   -1.1535    1.0454 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2637   -1.7391   -0.5990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3904   -0.4707   -0.3774 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3103    0.2503   -1.5754 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9214    2.6928   -1.0730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6240    3.0932    0.6251 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0031   -1.1540    0.0411 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7025   -3.6824   -0.5121 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9512    0.7971    0.0300 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 17  2  0  0  0  0
+  6 18  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 15  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02072
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZPDVRWNOCOREGF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(=O)NC1=C(C(O)=O)C2=C(CSCC2)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9NO5S2/c12-7(10(15)16)11-8-6(9(13)14)4-1-2-17-3-5(4)18-8/h1-3H2,(H,11,12)(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+ZPDVRWNOCOREGF-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9NO5S2
+
+> <MOLECULAR_WEIGHT>
+287.312
+
+> <EXACT_MASS>
+286.992213783
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.648087578481167
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]thiopyran-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.68
+
+> <JCHEM_LOGP>
+2.3641499616666666
+
+> <ALOGPS_LOGS>
+-3.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.7473414500343685
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.9784435389660038
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.3572745766092655
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+67.0302
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.30e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]thiopyran-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

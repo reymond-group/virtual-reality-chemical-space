@@ -1,0 +1,158 @@
+10822243
+  -OEChem-10051721113D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+   -4.7704   -1.0922    0.4966 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4262   -0.8714    0.0394 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.0407    1.2846    0.1870 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3530    1.5270   -0.4034 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6353    0.1017    0.0822 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.8483    0.3018    0.2341 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9968   -0.8946   -0.2212 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5160   -0.6275   -0.1156 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0394    0.6916   -0.0188 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0025    1.8491    0.0700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3149    0.0890   -0.1361 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3941   -1.6910   -0.1726 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3406    0.9231    0.0568 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2385   -0.1430    0.0094 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7659   -1.4483   -0.1076 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7778    0.3943    1.3272 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2183   -1.1435   -1.2674 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2451   -1.7710    0.3903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0473    2.1909    1.1115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6259    2.6799   -0.5374 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9752    2.3064   -0.1909 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4464   -0.0198   -1.2185 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9312    0.9264    0.2087 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0375   -2.7135   -0.2679 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6863    1.9502    0.1533 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4365   -2.3027   -0.1513 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7039   -1.2081    0.2504 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 26  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <DATABASE_ID>
+DB07906
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RNUCRXHRBPLYTA-SECBINFHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(CO)CC2=CC=C(C=C2CN1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O3/c13-6-9-3-7-1-2-10(12(14)15)4-8(7)5-11-9/h1-2,4,9,11,13H,3,5-6H2/t9-/m1/s1
+
+> <INCHI_KEY>
+RNUCRXHRBPLYTA-SECBINFHSA-N
+
+> <FORMULA>
+C10H12N2O3
+
+> <MOLECULAR_WEIGHT>
+208.2139
+
+> <EXACT_MASS>
+208.08479226
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.684533417337953
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(3R)-7-nitro-1,2,3,4-tetrahydroisoquinolin-3-yl]methanol
+
+> <ALOGPS_LOGP>
+0.43
+
+> <JCHEM_LOGP>
+0.8811323993333335
+
+> <ALOGPS_LOGS>
+-2.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.108654756081709
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.383850735965916
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.08
+
+> <JCHEM_REFRACTIVITY>
+55.9028
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3R)-7-nitro-1,2,3,4-tetrahydroisoquinolin-3-yl]methanol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

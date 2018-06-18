@@ -1,0 +1,140 @@
+446273
+  -OEChem-10051720093D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    1.5713   -0.1403   -0.2163 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6745   -1.5134    0.6168 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0755    0.4319   -0.2139 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8998   -0.2223   -1.5411 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5875    1.7619   -0.5888 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0754   -1.7238    0.0973 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4931    0.5190    0.0559 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7360    0.9600    0.9516 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6901    0.5349    1.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1111   -0.6078   -0.4086 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3101    0.9771    1.8846 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7629    1.9745    0.5388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6946   -0.4548    1.7151 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1495    1.2383    1.9501 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0751   -2.3015    0.1921 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7458    0.0175   -0.7981 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6769   -0.4108   -1.3339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3144    2.1662   -0.0851 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03135
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NBAIGNUEKZLOMI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ON(CCP(O)(O)=O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8NO5P/c5-3-4(6)1-2-10(7,8)9/h3,6H,1-2H2,(H2,7,8,9)
+
+> <INCHI_KEY>
+NBAIGNUEKZLOMI-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H8NO5P
+
+> <MOLECULAR_WEIGHT>
+169.0731
+
+> <EXACT_MASS>
+169.014008883
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.128360739781238
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[2-(N-hydroxyformamido)ethyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.17
+
+> <JCHEM_LOGP>
+-2.3569273933333332
+
+> <ALOGPS_LOGS>
+-0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.055231659437425
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7873467049273493
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.696205082525958
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.07
+
+> <JCHEM_REFRACTIVITY>
+31.969500000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.15e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(N-hydroxyformamido)ethylphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

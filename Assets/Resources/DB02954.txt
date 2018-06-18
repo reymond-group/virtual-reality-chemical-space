@@ -1,0 +1,132 @@
+4633094
+  -OEChem-10051720053D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+   -0.7361   -1.8587    0.0995 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3538    0.0252   -1.3527 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6263   -0.0694   -0.5083 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9483    0.3686    0.2244 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3881    1.6598    0.2591 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5610   -0.4917    0.3486 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7202   -0.1862    0.9467 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7918    0.0973   -0.0743 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5025    0.4551    0.0570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0315   -1.0304    1.5694 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6145    0.7129    1.5626 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3130   -1.9352   -0.7726 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0688    0.2143   -1.9972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2888    0.6245   -0.7129 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02954
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LJSQPIOQKDFEKE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ON(CC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5NO5/c5-2(6)1-4(9)3(7)8/h9H,1H2,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+LJSQPIOQKDFEKE-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H5NO5
+
+> <MOLECULAR_WEIGHT>
+135.0755
+
+> <EXACT_MASS>
+135.016772275
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.30051554526516
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-[carboxy(hydroxy)amino]acetic acid
+
+> <ALOGPS_LOGP>
+-0.66
+
+> <JCHEM_LOGP>
+-0.8584136013333332
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.413140171815273
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.484377612355806
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.038619220948681
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.07
+
+> <JCHEM_REFRACTIVITY>
+24.066300000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.26e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[carboxy(hydroxy)amino]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

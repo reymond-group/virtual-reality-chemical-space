@@ -1,0 +1,127 @@
+6406
+  -OEChem-10051719513D
+
+ 13 12  0     0  0  0  0  0  0999 V2000
+   -0.8584   -0.0011    1.3745 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2004    0.0002   -0.0414 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4320    0.0000    0.0124 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9757    1.2584   -0.6632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9744   -1.2581   -0.6646 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0401    0.0006   -0.0178 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0695    1.2922   -0.6007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6080    2.1646   -0.1668 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6862    1.3107   -1.7187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0688   -1.2872   -0.6125 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6155   -2.1622   -0.1577 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6744   -1.3168   -1.7167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5631    0.8290    1.7870 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  6  3  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02203
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MWFMGBPGAXYFAR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)(O)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO/c1-4(2,6)3-5/h6H,1-2H3
+
+> <INCHI_KEY>
+MWFMGBPGAXYFAR-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7NO
+
+> <MOLECULAR_WEIGHT>
+85.1045
+
+> <EXACT_MASS>
+85.052763851
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.81099427321786
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxy-2-methylpropanenitrile
+
+> <ALOGPS_LOGP>
+-0.29
+
+> <JCHEM_LOGP>
+0.01888523466666675
+
+> <ALOGPS_LOGS>
+-0.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.7613209888939
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.777998199457806
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.019999999999996
+
+> <JCHEM_REFRACTIVITY>
+22.5324
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.60e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetone cyanohydrin
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

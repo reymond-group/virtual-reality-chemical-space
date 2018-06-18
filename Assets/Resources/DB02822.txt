@@ -1,0 +1,134 @@
+70119
+  -OEChem-10051720033D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -3.6061    0.0010    0.2787 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1497    0.0009    0.8258 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0409   -0.0008   -0.2740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5215    0.0001   -0.4504 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3480   -1.2086   -0.1911 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3487    1.2074   -0.1918 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0371   -1.2080   -0.0263 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0364    1.2078   -0.0268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7292    0.0001    0.0559 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8593   -0.8801   -1.0082 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580    0.8826   -1.0047 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8765   -2.1563   -0.2520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8775    2.1549   -0.2532 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5619   -2.1579    0.0367 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5606    2.1580    0.0358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7465   -0.7011    1.3647 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02822
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VEDDBHYQWFOITD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1=CC=C(Br)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7BrO/c8-7-3-1-6(5-9)2-4-7/h1-4,9H,5H2
+
+> <INCHI_KEY>
+VEDDBHYQWFOITD-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7BrO
+
+> <MOLECULAR_WEIGHT>
+187.034
+
+> <EXACT_MASS>
+185.968027493
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.349257431283263
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4-bromophenyl)methanol
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+1.9746486739999995
+
+> <ALOGPS_LOGS>
+-1.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.975240496593361
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8096298067900634
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+40.496700000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.01e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+para-bromobenzyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

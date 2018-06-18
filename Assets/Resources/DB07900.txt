@@ -1,0 +1,160 @@
+5288561
+  -OEChem-10051721113D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+   -1.1529   -1.9339   -1.0354 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7255   -2.1615    0.8039 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1401    0.8268   -1.2100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8286    1.1407    0.8730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7970    0.1930    0.9093 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9363    0.7684    0.6544 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5368   -0.3714   -0.3013 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2976    1.4302    0.3444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8918   -0.9092   -0.0795 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3675    1.9954   -1.0751 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4222    0.4096    0.5451 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5281   -1.5141   -0.2200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0037    0.1260   -0.2089 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9433    0.3982    1.6880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1707    1.5533    0.6161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5836   -0.0099   -1.3359 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4380    2.2510    1.0585 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9377   -1.3821    0.9097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2880    2.5752   -1.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3676    1.2123   -1.8394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5230    2.6650   -1.2681 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2925   -0.1763    1.4599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3674    0.9548    0.6660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5833   -0.2444   -0.3146 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0437   -1.7696   -1.1621 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9861   -2.3660   -0.7802 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7878   -0.4450    1.6967 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3961    1.8828    1.3285 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07900
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YVDHZNIQWHUORH-BQBZGAKWSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](O)(C(=O)NO)[C@@]([H])(CC(C)C)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO4/c1-5(2)3-6(4-10)7(11)8(12)9-13/h4-7,11,13H,3H2,1-2H3,(H,9,12)/t6-,7-/m0/s1
+
+> <INCHI_KEY>
+YVDHZNIQWHUORH-BQBZGAKWSA-N
+
+> <FORMULA>
+C8H15NO4
+
+> <MOLECULAR_WEIGHT>
+189.209
+
+> <EXACT_MASS>
+189.100107973
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.930260774927735
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3R)-3-formyl-N,2-dihydroxy-5-methylhexanamide
+
+> <ALOGPS_LOGP>
+-0.18
+
+> <JCHEM_LOGP>
+-0.3632393166666665
+
+> <ALOGPS_LOGS>
+-0.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.425206051022847
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.611424618124488
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.812527676035468
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+45.861700000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.19e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3R)-3-formyl-N,2-dihydroxy-5-methylhexanamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

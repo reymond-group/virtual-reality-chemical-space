@@ -1,0 +1,129 @@
+3260017
+  -OEChem-10051719593D
+
+ 12 11  0     0  0  0  0  0  0999 V2000
+    0.2973    1.4233   -0.3224 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7337    0.7695   -0.2279 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2250    0.7938    0.8680 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.7344   -0.6636   -0.8204 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1662   -1.3885    0.3052 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078   -0.7797    0.1883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4713    0.2411   -0.0666 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9922   -0.1529    0.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8910   -0.2430    0.0110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4918   -1.1783    1.2015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4960   -1.5963   -0.5329 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6731    0.4954   -0.1611 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  9  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  CHG  1   3  -1
+M  END
+> <DATABASE_ID>
+DB02637
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KHPXUQMNIQBQEV-UHFFFAOYSA-M/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(=O)CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4O5/c5-2(4(8)9)1-3(6)7/h1H2,(H,6,7)(H,8,9)/p-1
+
+> <INCHI_KEY>
+KHPXUQMNIQBQEV-UHFFFAOYSA-M
+
+> <FORMULA>
+C4H3O5
+
+> <MOLECULAR_WEIGHT>
+131.0636
+
+> <EXACT_MASS>
+130.998048206
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.675193436350721
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-carboxy-3-oxopropanoate
+
+> <ALOGPS_LOGP>
+-0.53
+
+> <JCHEM_LOGP>
+-0.0418976006666667
+
+> <ALOGPS_LOGS>
+-0.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.5760343878793956
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.4098313234932576
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.874004724451435
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.5
+
+> <JCHEM_REFRACTIVITY>
+35.1709
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.42e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oxaloacetate ion
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

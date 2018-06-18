@@ -1,0 +1,138 @@
+12793
+  -OEChem-10051720133D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    2.1369    0.0753   -0.0753 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8291   -0.8789   -0.0806 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1334    0.7419    1.3984 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3544   -0.9873    0.0110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2330    1.0368   -1.2242 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4600   -0.4438   -0.0437 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7337    0.9231    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5074   -1.3649   -0.0517 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0549    1.3690    0.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8286   -0.9191   -0.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1022    0.4479    0.0339 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0465    1.6757    0.0155 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3003   -2.4310   -0.0879 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2687    2.4332    0.0796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6442   -1.6363   -0.0192 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1309    0.7950    0.0644 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8113    1.4168    1.6152 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2754   -0.6604   -0.0724 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03298
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CMPQUABWPXYYSH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OP(O)(=O)OC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7O4P/c7-11(8,9)10-6-4-2-1-3-5-6/h1-5H,(H2,7,8,9)
+
+> <INCHI_KEY>
+CMPQUABWPXYYSH-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H7O4P
+
+> <MOLECULAR_WEIGHT>
+174.0911
+
+> <EXACT_MASS>
+174.008195224
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.19246301142048
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+phenoxyphosphonic acid
+
+> <ALOGPS_LOGP>
+0.67
+
+> <JCHEM_LOGP>
+1.0158153486666668
+
+> <ALOGPS_LOGS>
+-1.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.745428145637477
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.788935246714089
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+38.9118
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.64e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phenylphosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

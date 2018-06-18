@@ -1,0 +1,144 @@
+199
+  -OEChem-10051721303D
+
+ 23 22  0     0  0  0  0  0  0999 V2000
+    1.1021   -0.1467   -0.3306 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0359   -1.0376    0.3871 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0050   -1.4693   -0.2978 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1643    0.5968    0.6514 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9762    1.1439   -0.4360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8095    0.0369    0.2218 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4780    1.1289    0.0246 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2743    0.0465   -0.2208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3464   -0.2996    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4160    2.1205   -0.2017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0154    1.0244   -1.5258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3758   -0.9422   -0.0171 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7582    0.1486    1.3125 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0040    1.9582   -0.4636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5122    1.2852    1.1097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7354    1.0041    0.0461 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3310   -0.0523   -1.3103 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0146   -0.9583    0.1142 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0130   -0.9453    1.4018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5333   -2.2281   -0.7777 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9776   -1.6091   -0.0469 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1301    0.3671    0.8595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8397    1.5114    0.9444 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 20  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 22  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08838
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QYPPJABKJHAVHS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCCCNC(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14N4/c6-3-1-2-4-9-5(7)8/h1-4,6H2,(H4,7,8,9)
+
+> <INCHI_KEY>
+QYPPJABKJHAVHS-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H14N4
+
+> <MOLECULAR_WEIGHT>
+130.1915
+
+> <EXACT_MASS>
+130.121846468
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.01380364533774
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-(4-aminobutyl)guanidine
+
+> <ALOGPS_LOGP>
+-1.01
+
+> <JCHEM_LOGP>
+-1.1788910146666667
+
+> <ALOGPS_LOGS>
+-1.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.605114263747222
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.92
+
+> <JCHEM_REFRACTIVITY>
+48.0932
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+agmatine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

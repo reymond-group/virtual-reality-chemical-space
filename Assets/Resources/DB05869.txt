@@ -1,0 +1,133 @@
+12041
+  -OEChem-10051720483D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+    0.8002    0.2957   -0.1050 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2468   -1.6772    0.5260 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2586   -0.2121   -0.9678 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0924   -0.2976    0.0506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1510    0.7299   -0.2889 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2381   -0.5156    0.1674 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5174    0.2250   -0.1004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7827    1.4519    0.7182 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2191   -0.6313    1.0868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1829   -1.1585   -0.6213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1542    0.3087   -0.1799 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0267    1.0861   -1.3169 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0619    1.6049    0.3636 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6734    1.2177    1.7802 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0901    2.2471    0.4325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8072    1.7915    0.5417 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05869
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XXRCUYVCPSWGCC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC(=O)C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O3/c1-3-8-5(7)4(2)6/h3H2,1-2H3
+
+> <INCHI_KEY>
+XXRCUYVCPSWGCC-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H8O3
+
+> <MOLECULAR_WEIGHT>
+116.1152
+
+> <EXACT_MASS>
+116.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.391231075863539
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethyl 2-oxopropanoate
+
+> <ALOGPS_LOGP>
+0.24
+
+> <JCHEM_LOGP>
+0.8019092973333335
+
+> <ALOGPS_LOGS>
+-0.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.902741432171045
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.733586933688887
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+27.507399999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl 2-oxopropanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

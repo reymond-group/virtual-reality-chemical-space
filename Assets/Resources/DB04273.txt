@@ -1,0 +1,148 @@
+121938
+  -OEChem-10051720323D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+    1.7573   -2.3980   -0.1155 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.9072   -0.1443    0.3924 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1190   -1.5298    0.4657 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8531    1.4577   -0.5025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8238    0.8912    0.5346 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4302    1.0066   -0.2854 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2120   -0.5704    0.3012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0793   -0.3560   -0.3196 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1077   -1.4274   -0.5879 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5675    1.9675   -0.0514 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2608   -0.7241   -0.1111 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8930    1.5865    0.1541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2394    0.2406    0.1253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8994    2.5527   -0.4436 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1686    1.1983   -1.5205 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4194    1.0149    1.5475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7462    1.4847    0.4942 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9836   -0.8275    1.0371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6815   -0.6884   -0.6834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5707   -1.2430   -1.5671 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6691   -2.4207   -0.6988 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5221   -2.4671    0.4320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3171    3.0254   -0.0244 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6392    2.3561    0.3352 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04273
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IADAQXMUWITWNG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C2CCCNCC2=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11Cl2N/c11-9-4-3-7-2-1-5-13-6-8(7)10(9)12/h3-4,13H,1-2,5-6H2
+
+> <INCHI_KEY>
+IADAQXMUWITWNG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11Cl2N
+
+> <MOLECULAR_WEIGHT>
+216.107
+
+> <EXACT_MASS>
+215.026854771
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.68854412886303
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8,9-dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine
+
+> <ALOGPS_LOGP>
+3.02
+
+> <JCHEM_LOGP>
+3.2241411696666664
+
+> <ALOGPS_LOGS>
+-3.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.83636299577689
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+56.82620000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.15e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+8,9-dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

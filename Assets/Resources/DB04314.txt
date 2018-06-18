@@ -1,0 +1,131 @@
+79143
+  -OEChem-10051720323D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    1.4628   -1.8133   -0.0010 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1478    0.4712    0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6822   -1.0709    0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8776   -0.3040    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2649    1.5262   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0538    1.3411   -0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6856   -0.8568    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5746    0.7757    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5221   -0.0692    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6919    2.5230   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7651    2.1561   -0.0018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8152    1.3596    0.8946 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8158    1.3563   -0.8955 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1785   -0.1353    0.0024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5545    0.4519   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2420   -1.2507    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04314
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HWPZZUQOWRWFDB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1C=CC(N)=NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7N3O/c1-8-3-2-4(6)7-5(8)9/h2-3H,1H3,(H2,6,7,9)
+
+> <INCHI_KEY>
+HWPZZUQOWRWFDB-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H7N3O
+
+> <MOLECULAR_WEIGHT>
+125.1286
+
+> <EXACT_MASS>
+125.058911861
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.019942271584497
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-methyl-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.42
+
+> <JCHEM_LOGP>
+-1.0138900770000001
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.067027717954108
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.69
+
+> <JCHEM_REFRACTIVITY>
+32.8452
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.91e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-methylcytosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

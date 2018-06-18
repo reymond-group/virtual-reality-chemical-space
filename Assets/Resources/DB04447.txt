@@ -1,0 +1,140 @@
+439196
+  -OEChem-10051720353D
+
+ 18 17  0     1  0  0  0  0  0999 V2000
+    2.0989    1.6002   -0.8168 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0235    0.9305   -0.2524 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5891   -1.4997   -0.2071 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1874   -1.5582   -0.3483 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8150   -0.5387    0.5086 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5328   -0.2988   -0.2010 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6777    0.7154    0.7185 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4370    0.6491    0.5986 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6156   -0.9905    1.4887 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3677    0.0760   -1.2166 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6282    0.4318    1.1836 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1842    1.4192    1.3947 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9686    1.6260    0.7405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6670    0.2261    1.5820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3951   -1.6747    0.3080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3576   -1.9131    0.5409 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7269    0.5771   -1.4147 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4265   -0.3486   -0.2517 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04447
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VHJLVAABSRFDPM-IMJSIDKUSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@@H](CS)[C@@H](O)CS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2S2/c5-3(1-7)4(6)2-8/h3-8H,1-2H2/t3-,4-/m0/s1
+
+> <INCHI_KEY>
+VHJLVAABSRFDPM-IMJSIDKUSA-N
+
+> <FORMULA>
+C4H10O2S2
+
+> <MOLECULAR_WEIGHT>
+154.251
+
+> <EXACT_MASS>
+154.012220944
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.681480052396674
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R)-1,4-disulfanylbutane-2,3-diol
+
+> <ALOGPS_LOGP>
+0.18
+
+> <JCHEM_LOGP>
+-0.27842509266666665
+
+> <ALOGPS_LOGS>
+-1.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.219099376080758
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.616219832236466
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2867962949581777
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+38.8438
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-dithiothreitol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

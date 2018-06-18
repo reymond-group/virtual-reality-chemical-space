@@ -1,0 +1,137 @@
+445528
+  -OEChem-10051720003D
+
+ 16 16  0     1  0  0  0  0  0999 V2000
+   -1.8245   -0.9943    0.1248 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8011    1.0362   -0.1246 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0759   -1.5416   -0.9910 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1122    1.5162    0.9907 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9529   -0.7550    0.1939 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9702    0.7326   -0.1941 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2569   -1.2228    1.0151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2287    1.2287   -1.0148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8463   -0.9589    0.7967 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8679    0.9156   -0.7974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1656   -2.2966    1.2114 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3062   -0.7146    1.9835 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1125    2.3001   -1.2107 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2898    0.7221   -1.9834 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2324   -1.4884   -1.4716 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2679    1.4829    1.4716 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02693
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YPGMOWHXEQDBBV-QWWZWVQMSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)CSSC[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2S2/c5-3-1-7-8-2-4(3)6/h3-6H,1-2H2/t3-,4-/m1/s1
+
+> <INCHI_KEY>
+YPGMOWHXEQDBBV-QWWZWVQMSA-N
+
+> <FORMULA>
+C4H8O2S2
+
+> <MOLECULAR_WEIGHT>
+152.235
+
+> <EXACT_MASS>
+151.99657088
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.127076987076506
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4S,5S)-1,2-dithiane-4,5-diol
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-0.5909905626666665
+
+> <ALOGPS_LOGS>
+-0.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.903570118541026
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.476841094082925
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.333359185344703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+37.2684
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4S,5S)-1,2-dithiane-4,5-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

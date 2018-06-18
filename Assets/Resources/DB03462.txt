@@ -1,0 +1,135 @@
+1135
+  -OEChem-10051720163D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+   -1.5193    1.8067   -0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8394    0.2913   -0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643    1.0623    0.0011 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1148   -1.2316   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1612   -0.5432    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7129    0.8802    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2260   -1.5013   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6300   -0.8189   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6310    0.0545    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4787   -2.5553   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0014    2.0209    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7564   -2.0191   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1004   -0.3860   -0.8889 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1006   -0.3862    0.8887 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8433   -1.8931   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03462
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RWQNBRDOKXIBIV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CNC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6N2O2/c1-3-2-6-5(9)7-4(3)8/h2H,1H3,(H2,6,7,8,9)
+
+> <INCHI_KEY>
+RWQNBRDOKXIBIV-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H6N2O2
+
+> <MOLECULAR_WEIGHT>
+126.1133
+
+> <EXACT_MASS>
+126.042927446
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.421831597069295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.99
+
+> <JCHEM_LOGP>
+-0.45974051066666644
+
+> <ALOGPS_LOGS>
+-1.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.037584409518914
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.022872945502668
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.998777587332103
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+30.326400000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thymine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

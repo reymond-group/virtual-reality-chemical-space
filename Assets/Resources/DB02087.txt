@@ -1,0 +1,133 @@
+446275
+  -OEChem-10051719483D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.2157   -0.0003   -0.1076 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2910   -2.3677    0.0193 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2904    2.3683    0.0186 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -1.2603   -0.6877 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623    1.2591   -0.6865 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5884    0.0001    1.5600 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4704   -0.0001   -0.0585 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2267    1.2080   -0.0391 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2269   -1.2081   -0.0388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6213   -1.2078    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6210    1.2083    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3183    0.0004    0.0198 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2956    2.1604   -0.0479 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2949   -2.1608   -0.0470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4038    0.0005    0.0503 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9800   -0.8608    1.9612 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9803    0.8611    1.9606 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02087
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MKQPOVUFDWKPNO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=CC(F)=CC(F)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5F2NO2S/c7-4-1-5(8)3-6(2-4)12(9,10)11/h1-3H,(H2,9,10,11)
+
+> <INCHI_KEY>
+MKQPOVUFDWKPNO-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5F2NO2S
+
+> <MOLECULAR_WEIGHT>
+193.171
+
+> <EXACT_MASS>
+193.000905509
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.865678135269516
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,5-difluorobenzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.01
+
+> <JCHEM_LOGP>
+0.8646804583333333
+
+> <ALOGPS_LOGS>
+-1.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.591112993208668
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.160000000000004
+
+> <JCHEM_REFRACTIVITY>
+38.648700000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.18e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,5-difluorobenzenesulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

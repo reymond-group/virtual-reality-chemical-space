@@ -1,0 +1,137 @@
+3281
+  -OEChem-10051719093D
+
+ 18 17  0     1  0  0  0  0  0999 V2000
+    3.4322   -0.7800    0.3294 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5334    0.2908   -1.5661 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5762    0.0971   -0.1512 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1128    1.3857    0.5103 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2074    2.6017    0.3339 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7971   -0.2615    0.3771 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4858   -1.0310    0.1402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9157   -0.3589   -0.3497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2295   -1.9439    0.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0928    1.6354    0.0814 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2737    1.2255    1.5848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7529    2.4676    0.8406 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6860    3.4872    0.7647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0171    2.8055   -0.7244 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8604   -0.4469    1.4495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4187    0.5634   -1.8630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9784   -0.1935   -1.4162 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8891   -2.7534    0.5852 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  3  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00189
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZEHYJZXQEQOSON-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]C(Cl)=CC(O)(CC)C#C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9ClO/c1-3-7(9,4-2)5-6-8/h1,5-6,9H,4H2,2H3
+
+> <INCHI_KEY>
+ZEHYJZXQEQOSON-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H9ClO
+
+> <MOLECULAR_WEIGHT>
+144.599
+
+> <EXACT_MASS>
+144.034192617
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.766102172119936
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-chloro-3-ethylpent-1-en-4-yn-3-ol
+
+> <ALOGPS_LOGP>
+1.45
+
+> <JCHEM_LOGP>
+1.620819461
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.877910831568652
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7270018022718725
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+38.6382
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.43e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+etclorvinol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

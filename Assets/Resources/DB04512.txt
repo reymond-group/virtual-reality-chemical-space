@@ -1,0 +1,151 @@
+32594
+  -OEChem-10051720363D
+
+ 26 26  0     0  0  0  0  0  0999 V2000
+   -0.7525    1.7842   -0.3440 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0058   -1.7668   -0.3800 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0501    0.0026    0.3663 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4772    0.3769   -0.0971 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3830    0.0631   -1.1361 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0015    1.3869    0.9502 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9193   -0.9144    0.5960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0945   -0.4399   -0.5323 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8933    0.4355   -0.1733 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1625   -2.1996    0.1594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1667   -1.3306    0.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8444    2.6021    0.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3399    0.7979   -0.6279 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7566   -0.6895   -1.8433 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1873    0.9551   -1.7448 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2093    0.9931    1.5938 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6572    2.3114    0.4768 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8357    1.6577    1.6081 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7924   -0.7209    1.2292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1395   -1.3309    1.2414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2077   -1.6766   -0.1355 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2569   -3.2707    0.2885 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0959   -1.6792    0.9596 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0278    2.5019    1.1399 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7469    2.3674   -0.5093 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5774    3.6438   -0.1362 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04512
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UXFSPRAGHGMRSQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=NC=CN=C1CC(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N2O/c1-7(2)6-8-9(12-3)11-5-4-10-8/h4-5,7H,6H2,1-3H3
+
+> <INCHI_KEY>
+UXFSPRAGHGMRSQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H14N2O
+
+> <MOLECULAR_WEIGHT>
+166.2203
+
+> <EXACT_MASS>
+166.11061308
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.380994541168764
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methoxy-3-(2-methylpropyl)pyrazine
+
+> <ALOGPS_LOGP>
+2.11
+
+> <JCHEM_LOGP>
+1.5381810036666668
+
+> <ALOGPS_LOGS>
+-0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.9760616216891669
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.010000000000005
+
+> <JCHEM_REFRACTIVITY>
+46.8889
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.09e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-isobutyl-3-methoxypyrazine
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

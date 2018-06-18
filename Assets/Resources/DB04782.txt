@@ -1,0 +1,139 @@
+1237169
+  -OEChem-10051720423D
+
+ 19 20  0     1  0  0  0  0  0999 V2000
+    3.5697    0.7371   -0.4658 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4489    1.1041   -0.1956 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.4585   -1.0911   -0.1939 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8492    0.0039   -0.1292 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.8174   -0.0185    0.4843 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.6737   -0.6906   -0.5409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3361   -0.0128    0.3237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6476    1.1979    0.2473 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6379   -1.2182    0.2499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7393    1.2031    0.0972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7489   -1.2128    0.0997 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4375   -0.0022    0.0235 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1930   -0.0201    1.5031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6032   -1.1402   -0.2151 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2154   -1.1756   -1.3933 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1805    2.1433    0.3060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1626   -2.1680    0.3115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2424    2.1652    0.0418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2598   -2.1707    0.0467 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB04782
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YKIUTLHCSNCTDZ-MRVPVSSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C(C=C1)[C@H]1CO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7NO3/c10-9(11)7-3-1-6(2-4-7)8-5-12-8/h1-4,8H,5H2/t8-/m1/s1
+
+> <INCHI_KEY>
+YKIUTLHCSNCTDZ-MRVPVSSYSA-N
+
+> <FORMULA>
+C8H7NO3
+
+> <MOLECULAR_WEIGHT>
+165.1461
+
+> <EXACT_MASS>
+165.042593095
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.373784071002351
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-(4-nitrophenyl)oxirane
+
+> <ALOGPS_LOGP>
+1.80
+
+> <JCHEM_LOGP>
+1.6772488683333333
+
+> <ALOGPS_LOGS>
+-2.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.2129402001703005
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.35
+
+> <JCHEM_REFRACTIVITY>
+42.65100000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.85e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(S)-4-nitrostyrene oxide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

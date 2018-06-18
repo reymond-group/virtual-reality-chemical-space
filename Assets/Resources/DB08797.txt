@@ -1,0 +1,139 @@
+5147
+  -OEChem-10051721273D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    0.2433   -2.1843    0.0039 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3944   -0.8112   -0.0106 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3552    1.4816    0.0034 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2743    0.2144    0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4215   -0.9945    0.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4248    1.4214   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8164   -0.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8196    1.4196   -0.0024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5154    0.2106   -0.0023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7304    0.2389    0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0421    2.3985   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3716   -1.9307   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3653    2.3588   -0.0043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6015    0.2093   -0.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8977    2.3835    0.0109 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3697    1.5240   -0.0024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4042   -2.9102    0.0036 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08797
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SKZKKFZAGNVIMN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=CC=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO2/c8-7(10)5-3-1-2-4-6(5)9/h1-4,9H,(H2,8,10)
+
+> <INCHI_KEY>
+SKZKKFZAGNVIMN-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO2
+
+> <MOLECULAR_WEIGHT>
+137.136
+
+> <EXACT_MASS>
+137.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.224969535328583
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxybenzamide
+
+> <ALOGPS_LOGP>
+0.74
+
+> <JCHEM_LOGP>
+1.1703207886666664
+
+> <ALOGPS_LOGS>
+-1.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.448510774907184
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.211132878199551
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.7578607061378482
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+37.1173
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.82e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+salicylamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

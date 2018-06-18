@@ -1,0 +1,136 @@
+10026
+  -OEChem-10051719383D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    1.8668    0.3630    0.0010 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1376    0.2503   -0.0234 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0162   -0.4759   -0.0083 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8170   -0.3753    0.0284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5263    0.4408    0.0268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0477    0.5304   -0.0043 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7047   -0.4544    0.0168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3344   -0.2789   -0.0370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8505   -1.0109    0.9217 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8304   -1.0417   -0.8427 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4919    1.0990    0.9040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4977    1.1040   -0.8469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0535    1.1823    0.8769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0101    1.1788   -0.8875 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6905   -1.0957   -0.8738 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7088   -1.0896    0.9118 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3743   -0.9167   -0.9257 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4188   -0.9171    0.8483 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2015    0.3885   -0.0587 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01612
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CSDTZUBPSYWZDX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCON=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2/c1-2-3-4-5-8-6-7/h2-5H2,1H3
+
+> <INCHI_KEY>
+CSDTZUBPSYWZDX-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.840100937582324
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pentyl nitrite
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+2.3125660403333335
+
+> <ALOGPS_LOGS>
+-1.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8145129168936718
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.66
+
+> <JCHEM_REFRACTIVITY>
+31.678600000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+amyl nitrite
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

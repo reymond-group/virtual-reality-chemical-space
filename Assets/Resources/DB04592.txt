@@ -1,0 +1,127 @@
+533975
+  -OEChem-10051720383D
+
+ 13 12  0     0  0  0  0  0  0999 V2000
+   -1.5843   -1.4558    0.3618 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9227    0.2772    0.8447 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3770    0.1317   -1.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5756   -0.4981   -0.2955 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8553    0.1961   -0.1352 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4358    1.3488    0.2252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1525   -0.4346   -1.9132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6518    1.1444   -1.3238 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3818   -1.5242    0.0295 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4402   -0.5226   -0.9671 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1288    1.1764    0.5370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3342    1.3700    0.8335 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0224    2.3047   -0.0795 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04592
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RTKMFQOHBDVEBC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCCC(Br)=C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7BrO/c1-4(5)2-3-6/h6H,1-3H2
+
+> <INCHI_KEY>
+RTKMFQOHBDVEBC-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7BrO
+
+> <MOLECULAR_WEIGHT>
+151.002
+
+> <EXACT_MASS>
+149.968027493
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.372681853872091
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-bromobut-3-en-1-ol
+
+> <ALOGPS_LOGP>
+1.05
+
+> <JCHEM_LOGP>
+0.6741035416666665
+
+> <ALOGPS_LOGS>
+-0.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.902286621657822
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.4041398316868676
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+29.823599999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.94e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-bromo-3-buten-1-ol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

@@ -1,0 +1,160 @@
+5119267
+  -OEChem-10051721073D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    4.5624    2.7427   -1.1403 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1915   -2.4742    1.2353 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6272   -2.5022   -1.5373 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7455    2.6057    1.3474 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.5275    0.0815    0.1116 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6283   -1.7356    0.7288 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0087    0.3346   -0.1973 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3861    0.2707   -0.1197 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3264   -0.3035    0.0486 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9191   -0.6436    0.2189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0007   -0.8582    0.4182 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1567    1.3362   -0.5804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1843   -1.0823   -0.7278 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8091    0.8368    0.6909 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5481    1.2727   -0.5027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3920   -0.9217    0.4958 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1656    0.1437    0.0354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1497    1.1983    0.5565 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5248   -0.7210   -0.8620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0075    0.4194   -0.2200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3880    1.1873   -0.6034 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4676   -1.7183    0.7930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6703    2.2146   -0.9992 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1453    1.4436    1.3035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2065   -1.3174   -1.4633 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0544    0.6890   -0.3337 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8944    0.9056   -0.2526 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 20 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07694
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IFLWCZRMFPKYBN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=C(Br)C=C(NC(=O)C2=CC(Cl)=CC=C2Cl)C=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H7Br2Cl2NO2/c14-9-4-7(5-10(15)12(9)19)18-13(20)8-3-6(16)1-2-11(8)17/h1-5,19H,(H,18,20)
+
+> <INCHI_KEY>
+IFLWCZRMFPKYBN-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H7Br2Cl2NO2
+
+> <MOLECULAR_WEIGHT>
+439.914
+
+> <EXACT_MASS>
+436.822059181
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.60310882509135
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide
+
+> <ALOGPS_LOGP>
+5.96
+
+> <JCHEM_LOGP>
+5.507159903333333
+
+> <ALOGPS_LOGS>
+-5.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.255475641462024
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.716592912936565
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.253709661620999
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+88.42759999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.62e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

@@ -1,0 +1,131 @@
+10927
+  -OEChem-10051719493D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    1.2764   -1.2556    0.0049 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1038    0.8896    0.0036 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4093   -0.4293   -0.0123 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2841    0.6012   -0.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7753    0.2366    0.0122 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0883   -0.0426    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3310   -1.0647   -0.9025 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3148   -1.0900    0.8577 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658    1.2429    0.8769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3581    1.2409   -0.8962 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8969    0.8498    0.9109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9145    0.8785   -0.8635 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5660   -0.5200    0.0079 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0766    0.6015    0.0097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9236    1.8885   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02121
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DNSISZSEWVHGLH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO/c1-2-3-4(5)6/h2-3H2,1H3,(H2,5,6)
+
+> <INCHI_KEY>
+DNSISZSEWVHGLH-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H9NO
+
+> <MOLECULAR_WEIGHT>
+87.1204
+
+> <EXACT_MASS>
+87.068413915
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.611627271998477
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+butanamide
+
+> <ALOGPS_LOGP>
+-0.13
+
+> <JCHEM_LOGP>
+0.11481618399999992
+
+> <ALOGPS_LOGS>
+0.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.96057135799396
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8677398564753654
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+23.693800000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.16e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butyramide
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

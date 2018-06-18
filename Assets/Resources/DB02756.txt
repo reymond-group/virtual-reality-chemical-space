@@ -1,0 +1,149 @@
+91665
+  -OEChem-10051720013D
+
+ 24 26  0     0  0  0  0  0  0999 V2000
+   -3.2974    0.3615   -0.0928 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0104    0.6540   -0.0181 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2608    0.0971    0.0019 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8832    2.1134   -0.1208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6182    2.4355    0.0689 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2421    1.0750    0.0369 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5167   -1.2579   -0.0490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6459   -2.1848   -0.2172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9373   -1.5780    0.3502 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1624   -0.0997    0.0209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5704    0.6992    0.0555 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8551   -1.6446   -0.0495 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8732   -0.6707    0.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5161    2.5951    0.6316 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2396    2.4158   -1.1122 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7926    2.9133    1.0382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9889    3.0792   -0.7339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7759   -2.3801   -1.2887 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4478   -3.1422    0.2777 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9248   -1.6528    1.4453 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7976   -2.1529   -0.0100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3641    1.4373    0.0948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1252   -2.6954   -0.1095 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9131   -0.9881    0.0162 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02756
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XRJLAOUDSILTFT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1CCC2=CC=CC3=C2N1CC3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11NO/c13-10-5-4-8-2-1-3-9-6-7-12(10)11(8)9/h1-3H,4-7H2
+
+> <INCHI_KEY>
+XRJLAOUDSILTFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H11NO
+
+> <MOLECULAR_WEIGHT>
+173.2111
+
+> <EXACT_MASS>
+173.084063979
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.78977771088972
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-azatricyclo[6.3.1.0⁴,¹²]dodeca-4(12),5,7-trien-11-one
+
+> <ALOGPS_LOGP>
+1.10
+
+> <JCHEM_LOGP>
+1.4205734269999997
+
+> <ALOGPS_LOGS>
+-1.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4964955335292154
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.310000000000002
+
+> <JCHEM_REFRACTIVITY>
+50.61140000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyroquilon
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

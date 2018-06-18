@@ -1,0 +1,135 @@
+17754075
+  -OEChem-10051720313D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -1.4377   -0.9064   -1.1947 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6206   -0.9465    1.0677 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3381    1.3974   -0.0148 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3319    0.0335    0.0259 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4057   -0.7778    0.0378 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8598    2.1960    0.0088 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8387   -0.3473    0.0085 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9963   -0.6489    0.0608 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2315    1.8747   -0.0428 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2534   -1.8555    0.0718 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4916    1.9932   -0.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5926    3.2573   -0.0177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4359    2.0233    0.9236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3318   -0.7722   -0.8715 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3525   -0.7209    0.8999 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9700    0.7367   -0.0244 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3102   -1.3549   -1.1917 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04225
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XLSUHJCPPCGPHF-ARJAWSKDSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN\C(=C/C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO2/c1-3-4(6-2)5(7)8/h3,6H,1-2H3,(H,7,8)/b4-3-
+
+> <INCHI_KEY>
+XLSUHJCPPCGPHF-ARJAWSKDSA-N
+
+> <FORMULA>
+C5H9NO2
+
+> <MOLECULAR_WEIGHT>
+115.1305
+
+> <EXACT_MASS>
+115.063328537
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.693773587542552
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2Z)-2-(methylamino)but-2-enoic acid
+
+> <ALOGPS_LOGP>
+0.62
+
+> <JCHEM_LOGP>
+0.1963240886666665
+
+> <ALOGPS_LOGS>
+-0.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.853808096008296
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.6735407965245224
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+31.3644
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.60e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-methyldehydrobutyrine
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

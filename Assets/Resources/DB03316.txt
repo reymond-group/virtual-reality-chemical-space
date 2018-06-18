@@ -1,0 +1,127 @@
+31275
+  -OEChem-10051720133D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+   -1.3826   -0.0004    0.2432 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3826    0.0004   -0.2433 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7239    1.1760   -0.2324 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7232   -1.1764   -0.2324 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7231    1.1764    0.2324 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7239   -1.1760    0.2324 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2543    2.0478    0.1616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7891    1.1982   -1.3263 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7884   -1.1986   -1.3263 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2531   -2.0486    0.1615 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2531    2.0486   -0.1615 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7883    1.1985    1.3264 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7892   -1.1981    1.3263 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2544   -2.0478   -0.1615 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03316
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RYHBNJHYFVUHQT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1COCCO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-2-6-4-3-5-1/h1-4H2
+
+> <INCHI_KEY>
+RYHBNJHYFVUHQT-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.97302947930751
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,4-dioxane
+
+> <ALOGPS_LOGP>
+-0.23
+
+> <JCHEM_LOGP>
+-0.09395101666666672
+
+> <ALOGPS_LOGS>
+0.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.853762716619993
+
+> <JCHEM_POLAR_SURFACE_AREA>
+18.46
+
+> <JCHEM_REFRACTIVITY>
+22.087
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.83e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dioxane
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

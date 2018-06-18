@@ -1,0 +1,160 @@
+446761
+  -OEChem-10051719483D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+    3.3978   -0.5470   -0.1219 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9938    2.6065   -0.7204 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5181    2.0915    1.5999 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1313    0.0719    0.6674 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1821    1.0174   -1.3354 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3425   -0.6534    1.0530 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7253    0.5600   -1.2542 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7341   -1.7567   -0.9653 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5579   -0.9407    0.7451 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4817   -3.1116    0.3538 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0458   -1.9687   -0.3292 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3262    1.4994    0.1135 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0687    1.0190    0.8630 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0633    0.4186   -0.6966 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9926    0.4685   -0.0904 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5531   -0.7747    0.1179 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0266    1.9070    0.8543 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3304    0.2448    1.5933 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4127    0.0820   -1.5114 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3057    1.2421   -0.7986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6164   -0.3958   -0.6426 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5452    3.2675   -0.1658 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1597    2.4323    2.2081 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5503    0.3650   -1.9558 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3400   -2.0968   -1.0455 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5082    0.4316   -1.8310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3197   -2.3609   -1.4695 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6617   -3.6337    0.3607 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 12  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02093
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OHQFMJPEBPCIEQ-JJYYJPOSSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](O)(COP(O)(O)=O)[C@@]([H])(O)[C@]([H])(O)C(O)=NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12NO9P/c7-2(1-15-16(12,13)14)3(8)4(9)5(10)6-11/h2-4,7-9,11H,1H2,(H,6,10)(H2,12,13,14)/t2-,3-,4+/m1/s1
+
+> <INCHI_KEY>
+OHQFMJPEBPCIEQ-JJYYJPOSSA-N
+
+> <FORMULA>
+C5H12NO9P
+
+> <MOLECULAR_WEIGHT>
+261.1238
+
+> <EXACT_MASS>
+261.024967499
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.500945234308972
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-hydroxy(2S,3R,4R)-2,3,4-trihydroxy-5-(phosphonooxy)pentanimidic acid
+
+> <ALOGPS_LOGP>
+-2.36
+
+> <JCHEM_LOGP>
+-2.893495614
+
+> <ALOGPS_LOGS>
+-1.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+4.1255051270483625
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.4933498781728476
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.5944821015138989
+
+> <JCHEM_POLAR_SURFACE_AREA>
+180.26999999999998
+
+> <JCHEM_REFRACTIVITY>
+47.289899999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.20e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-hydroxy(2S,3R,4R)-2,3,4-trihydroxy-5-(phosphonooxy)pentanimidic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

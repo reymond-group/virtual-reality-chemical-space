@@ -1,0 +1,133 @@
+980
+  -OEChem-10051720343D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    3.4465   -0.0002    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7330    1.0973    0.0007 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.7318   -1.0979   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1244    0.0000    0.0002 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7044    0.0007   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0066    1.2084   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0074   -1.2076   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0854   -0.0003    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3882    1.2079   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3875   -1.2082    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5164    2.1685   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5175   -2.1675    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9204    2.1554   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9254   -2.1524    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7616    0.9200    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB04417
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BTJIUGUIPKRLHP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5NO3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H
+
+> <INCHI_KEY>
+BTJIUGUIPKRLHP-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5NO3
+
+> <MOLECULAR_WEIGHT>
+139.1088
+
+> <EXACT_MASS>
+139.026943031
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.178799784713927
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-nitrophenol
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+1.6096646836666664
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.035410600454046
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.064769564122728
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.05000000000001
+
+> <JCHEM_REFRACTIVITY>
+35.3636
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.60e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+P-nitrophenol
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

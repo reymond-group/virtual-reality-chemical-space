@@ -1,0 +1,160 @@
+5287843
+  -OEChem-10051719593D
+
+ 28 27  0     1  0  0  0  0  0999 V2000
+    0.3142    0.8684    1.8208 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2560    2.0838   -0.0069 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9057   -1.8761    1.0029 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6426    0.7855   -0.6542 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1843   -0.8583    0.0796 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1938   -0.2921   -0.2765 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2675   -0.1323   -1.3665 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6544    0.2806   -0.8562 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1549   -0.6657   -0.9082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2921   -0.7501    0.0761 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0503    1.0105    0.4975 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7004   -0.3376    0.4771 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3292   -0.1165    0.1143 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4970   -1.0832    0.4190 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3599   -1.0747   -1.9212 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9408    0.6234   -2.0932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6005    1.2534   -0.3538 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3060    0.4217   -1.7280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4690    0.1034   -1.6235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0579   -1.6068   -1.4626 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6928   -0.8666    0.9850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3298   -1.7273   -0.4186 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1385   -1.0859    1.1451 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3477   -0.2458   -0.4008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6931    0.6233    1.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9863   -0.4190    0.9460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2254    1.7170    2.3047 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2128   -2.6536    0.5061 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02625
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NOSUUIPGNMAALM-SSDOTTSWSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CCCC)(CN(O)C=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO4/c1-2-3-4-7(8(11)12)5-9(13)6-10/h6-7,13H,2-5H2,1H3,(H,11,12)/t7-/m1/s1
+
+> <INCHI_KEY>
+NOSUUIPGNMAALM-SSDOTTSWSA-N
+
+> <FORMULA>
+C8H15NO4
+
+> <MOLECULAR_WEIGHT>
+189.209
+
+> <EXACT_MASS>
+189.100107973
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.27640249713733
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-[(N-hydroxyformamido)methyl]hexanoic acid
+
+> <ALOGPS_LOGP>
+0.38
+
+> <JCHEM_LOGP>
+0.7331956203333332
+
+> <ALOGPS_LOGS>
+-1.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.486439421935586
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.395105189855505
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.69252275118565
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+45.7982
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.64e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-[(N-hydroxyformamido)methyl]hexanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

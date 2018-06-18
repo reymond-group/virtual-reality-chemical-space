@@ -1,0 +1,136 @@
+220224
+  -OEChem-10051720033D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+   -0.0104   -1.0194    0.3823 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9385    0.2157   -0.1282 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4712   -0.5060   -0.0507 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3674   -2.3095   -0.3095 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2821    0.2509    0.3193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8422    0.8227    0.2742 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9648    1.4688   -0.2657 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2498    1.0769   -0.2215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0107   -0.8779    1.7866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7935   -0.6617   -0.0025 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2946    0.2962    1.4129 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1574    1.5294   -0.2038 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7891    0.9552    1.3593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0066    1.5276    0.0615 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4465    2.3844    0.0380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9391    1.4368   -1.3600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5694    2.0957    0.0149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9523    0.3714    0.2344 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3097    0.9300   -1.3051 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02811
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MJUJXFBTEFXVKU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOP(=O)OCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11O3P/c1-3-6-8(5)7-4-2/h8H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+MJUJXFBTEFXVKU-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H11O3P
+
+> <MOLECULAR_WEIGHT>
+138.1021
+
+> <EXACT_MASS>
+138.04458073
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.103227789733541
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+diethyl phosphonate
+
+> <ALOGPS_LOGP>
+-0.02
+
+> <JCHEM_LOGP>
+0.6910000000000002
+
+> <ALOGPS_LOGS>
+-0.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.756066190057169
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.53
+
+> <JCHEM_REFRACTIVITY>
+31.033900000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.38e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+diethylphosphono group
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

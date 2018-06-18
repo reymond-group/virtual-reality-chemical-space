@@ -1,0 +1,131 @@
+7006471
+  -OEChem-10051720223D
+
+ 13 12  0     1  0  0  0  0  0999 V2000
+    1.2719    1.3636   -0.5179 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1723   -0.6120   -0.3896 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507    0.2350    1.3458 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3756    1.5154    0.0091 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.4771   -0.4812    0.0993 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1923   -1.9102    0.0147 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.1894   -0.4964   -0.4756 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1084    0.1250    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4689    0.2607   -0.0864 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1752   -0.5716   -1.5688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6394   -2.4237   -0.3068 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0175   -2.4206   -0.3274 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2071   -1.9534    1.0425 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  CHG  2   4  -1   6   1
+M  END
+> <DATABASE_ID>
+DB03794
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HMJQKIDUCWWIBW-SFOWXEAESA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@](N)(C(O)=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4F3NO2/c4-3(5,6)1(7)2(8)9/h1H,7H2,(H,8,9)/t1-/m0/s1
+
+> <INCHI_KEY>
+HMJQKIDUCWWIBW-SFOWXEAESA-N
+
+> <FORMULA>
+C3H4F3NO2
+
+> <MOLECULAR_WEIGHT>
+143.0646
+
+> <EXACT_MASS>
+143.019412992
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.76957815100112
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3,3,3-trifluoropropanoic acid
+
+> <ALOGPS_LOGP>
+-1.00
+
+> <JCHEM_LOGP>
+-1.668207423784289
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.404104368382676
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.0226964418701225
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.728384461775935
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+21.1988
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.76e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-3,3,3-trifluoropropanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

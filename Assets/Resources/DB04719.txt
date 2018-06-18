@@ -1,0 +1,149 @@
+5326976
+  -OEChem-10051720403D
+
+ 23 24  0     0  0  0  0  0  0999 V2000
+   -0.9953    3.3221    0.1236 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0485   -3.3125   -0.1194 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9798    1.6989    0.0620 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0030   -1.6463   -0.0519 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.3736    1.0429    0.0363 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4661    0.0109   -0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3663   -1.1783   -0.0435 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0508    0.6813    0.0245 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728   -0.7097   -0.0255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1196   -0.1019   -0.0053 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1268    1.4290    0.0522 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1432   -1.4133   -0.0497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3279    0.7125    0.0276 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3382   -0.6834   -0.0224 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3466   -1.0226    0.5890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1669    1.1706   -0.5968 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7260    1.9897    0.0779 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1589   -0.5534    1.1539 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7757   -1.6394   -0.2067 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7913   -1.6710    1.2752 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1989    1.9968    0.1206 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6648    1.5050   -1.5112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1954    0.9065   -0.8656 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04719
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SLPJGDQJLTYWCI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)C1=NC2=C(Br)C(Br)=C(Br)C(Br)=C2N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7Br4N3/c1-16(2)9-14-7-5(12)3(10)4(11)6(13)8(7)15-9/h1-2H3,(H,14,15)
+
+> <INCHI_KEY>
+SLPJGDQJLTYWCI-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H7Br4N3
+
+> <MOLECULAR_WEIGHT>
+476.788
+
+> <EXACT_MASS>
+472.737347827
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.533684973186602
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4,5,6,7-tetrabromo-N,N-dimethyl-1H-1,3-benzodiazol-2-amine
+
+> <ALOGPS_LOGP>
+4.52
+
+> <JCHEM_LOGP>
+5.1268083639999995
+
+> <ALOGPS_LOGS>
+-4.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.77291897222383
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.004917840993728
+
+> <JCHEM_POLAR_SURFACE_AREA>
+31.92
+
+> <JCHEM_REFRACTIVITY>
+79.36160000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.65e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+C9H7br4N3
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$

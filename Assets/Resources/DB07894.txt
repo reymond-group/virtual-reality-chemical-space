@@ -1,0 +1,163 @@
+5288544
+  -OEChem-10051721113D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+   -1.2104   -1.5025    1.0183 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0520    0.4768   -0.2935 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5665    2.9865    0.3828 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6406   -2.4162   -0.6022 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2092   -0.6644   -0.2508 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6599    1.5613    0.7528 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8965    1.0550   -1.6758 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5098   -1.4539    0.5936 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2188   -0.7468    0.1902 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6943   -0.8314   -0.0885 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5546   -0.5068    0.3834 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5980   -1.0782   -0.3431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7041   -0.2337    0.5587 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5429    0.8652    0.6296 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6324   -0.2758   -0.8247 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5772    1.6677    0.1481 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6219    1.0972   -0.5791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4700   -2.5122    0.3073 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6357   -1.4195    1.6832 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0706   -0.8098   -0.8939 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2800    0.3128    0.4606 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7204   -0.8828   -1.1740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6786   -0.1883    1.6437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7471    1.3341    1.2024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4531   -0.7053   -1.3930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4267    1.7225   -0.9540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4402   -2.6175   -1.1180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1669   -1.3675    0.4321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4261    2.1064    0.4736 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6 29  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07894
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UXOYJQMPYTYCMG-ORCRQEGFSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(F)C=C1SCC\C=C\P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12FO4PS/c11-8-3-4-9(12)10(7-8)17-6-2-1-5-16(13,14)15/h1,3-5,7,12H,2,6H2,(H2,13,14,15)/b5-1+
+
+> <INCHI_KEY>
+UXOYJQMPYTYCMG-ORCRQEGFSA-N
+
+> <FORMULA>
+C10H12FO4PS
+
+> <MOLECULAR_WEIGHT>
+278.237
+
+> <EXACT_MASS>
+278.017794279
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.29083680816572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(1E)-4-[(5-fluoro-2-hydroxyphenyl)sulfanyl]but-1-en-1-yl]phosphonic acid
+
+> <ALOGPS_LOGP>
+1.32
+
+> <JCHEM_LOGP>
+1.6329086243333337
+
+> <ALOGPS_LOGS>
+-2.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.469076130144863
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.622546458472578
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.101575445120148
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+66.34030000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1E)-4-[(5-fluoro-2-hydroxyphenyl)sulfanyl]but-1-en-1-ylphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+$$$$

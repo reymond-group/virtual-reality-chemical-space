@@ -1,0 +1,132 @@
+7510
+  -OEChem-10051720293D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    2.7396    0.0283   -0.7029 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4824    1.2111   -0.0869 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5712   -0.0128    0.2732 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0353    0.0108    0.5342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1140   -1.2156    0.1422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1526    1.1624    0.1513 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4827   -1.2065   -0.1031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1145    0.0222   -0.2081 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3240    0.8961    1.1104 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3541   -0.8668    1.1069 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4078   -2.1648    0.2274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3264    2.1326    0.2419 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0372   -2.1318   -0.2093 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1808    0.0837   -0.3990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3782   -0.6749   -1.2691 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04145
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MVQVNTPHUGQQHK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1=CC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7NO/c8-5-6-2-1-3-7-4-6/h1-4,8H,5H2
+
+> <INCHI_KEY>
+MVQVNTPHUGQQHK-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H7NO
+
+> <MOLECULAR_WEIGHT>
+109.1259
+
+> <EXACT_MASS>
+109.052763851
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.227756199860899
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyridin-3-ylmethanol
+
+> <ALOGPS_LOGP>
+-0.13
+
+> <JCHEM_LOGP>
+-0.011776378333333407
+
+> <ALOGPS_LOGS>
+0.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.690153284532908
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.728595177886644
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+30.716999999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.12e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β pyridylcarbinol
+
+> <JCHEM_VEBER_RULE>
+1
+
+$$$$
