@@ -135,7 +135,7 @@ public class MoleculeLoader : MonoBehaviour
             float.TryParse(values[4], out g);
             float.TryParse(values[5], out b);
 
-            loadingIndicatorText.text = String.Format("{0:0.00} %", 100 * ((double)i / (double)lines.Length));
+            loadingIndicatorText.text = String.Format("Loading Models ({0:0.00} %) ...", 100 * ((double)i / (double)lines.Length));
 
             yield return StartCoroutine(this.GetStructure(id, x / 10.0F - 15.0F, y / 10.0F - 15.0F, z / 10.0F - 15.0F));
         }
@@ -241,6 +241,7 @@ public class MoleculeLoader : MonoBehaviour
             GameObject carbons = new GameObject("Atoms");
             GameObject hydrogens = new GameObject("Atoms");
             GameObject chlorines = new GameObject("Atoms");
+            GameObject fluorines = new GameObject("Atoms");
 
             var spherePrefab = Resources.Load("sphere");
 
@@ -274,7 +275,12 @@ public class MoleculeLoader : MonoBehaviour
                 else if (atom.Element.ToLower() == "cl")
                 {
                     sphere.GetComponent<Renderer>().material.color = Color.green;
-                    sphere.transform.parent = carbons.transform;
+                    sphere.transform.parent = chlorines.transform;
+                }
+                else if (atom.Element.ToLower() == "f")
+                {
+                    sphere.GetComponent<Renderer>().material.color = Color.yellow;
+                    sphere.transform.parent = fluorines.transform;
                 }
                 else if (atom.Element.ToLower() == "h")
                 {
@@ -357,7 +363,6 @@ public class MoleculeLoader : MonoBehaviour
                         var b = toAtom.Position - fromAtom.Position;
 
                         var normal = Vector3.Cross(a, b);
-                        Debug.Log("a: " + a.x + ", " + a.y + ", " + a.z + "      b: " + b.x + ", " + b.y + ", " + b.z + "      Norm: " + normal.x + ", " + normal.y + ", " + normal.z);
                         normal /= normal.magnitude;
 
                         // Rotate the normal around the bond by 90°
@@ -415,10 +420,15 @@ public class MoleculeLoader : MonoBehaviour
             carbonsObject.AddComponent<MeshRenderer>();
             carbonsObject.GetComponent<Renderer>().material.color = Color.black;
 
-            GameObject chlorinesObject = new GameObject("Carbons");
+            GameObject chlorinesObject = new GameObject("Chlorines");
             chlorinesObject.AddComponent<MeshFilter>();
             chlorinesObject.AddComponent<MeshRenderer>();
             chlorinesObject.GetComponent<Renderer>().material.color = Color.green;
+
+            GameObject fluorinesObject = new GameObject("Fluorines");
+            fluorinesObject.AddComponent<MeshFilter>();
+            fluorinesObject.AddComponent<MeshRenderer>();
+            fluorinesObject.GetComponent<Renderer>().material.color = Color.green;
 
 
             GameObject hydrogensObject = new GameObject("Hydrogens");
@@ -431,6 +441,7 @@ public class MoleculeLoader : MonoBehaviour
             List<CombineInstance> nitrogensCombineInstances = new List<CombineInstance>();
             List<CombineInstance> carbonsCombineInstances = new List<CombineInstance>();
             List<CombineInstance> chlorinesCombineInstances = new List<CombineInstance>();
+            List<CombineInstance> fluorinesCombineInstances = new List<CombineInstance>();
             List<CombineInstance> hydrogensCombineInstances = new List<CombineInstance>();
 
             MeshFilter[] cylindersMeshFilters = cylinders.GetComponentsInChildren<MeshFilter>(true);
@@ -438,6 +449,7 @@ public class MoleculeLoader : MonoBehaviour
             MeshFilter[] nitrogensMeshFilters = nitrogens.GetComponentsInChildren<MeshFilter>(true);
             MeshFilter[] carbonsMeshFilters = carbons.GetComponentsInChildren<MeshFilter>(true);
             MeshFilter[] chlorinesMeshFilters = chlorines.GetComponentsInChildren<MeshFilter>(true);
+            MeshFilter[] fluorinesMeshFilters = fluorines.GetComponentsInChildren<MeshFilter>(true);
             MeshFilter[] hydrogensMeshFilters = hydrogens.GetComponentsInChildren<MeshFilter>(true);
 
             for (int i = 0; i < cylindersMeshFilters.Length; i++)
@@ -496,6 +508,17 @@ public class MoleculeLoader : MonoBehaviour
                 Destroy(meshFilter);
             }
 
+            for (int i = 0; i < fluorinesMeshFilters.Length; i++)
+            {
+                MeshFilter meshFilter = fluorinesMeshFilters[i];
+                CombineInstance combine = new CombineInstance();
+                combine.mesh = meshFilter.sharedMesh;
+                combine.transform = meshFilter.transform.localToWorldMatrix;
+                fluorinesCombineInstances.Add(combine);
+                meshFilter.gameObject.SetActive(false);
+                Destroy(meshFilter);
+            }
+
             for (int i = 0; i < hydrogensMeshFilters.Length; i++)
             {
                 MeshFilter meshFilter = hydrogensMeshFilters[i];
@@ -527,6 +550,10 @@ public class MoleculeLoader : MonoBehaviour
             chlorinesObject.GetComponent<MeshFilter>().mesh.CombineMeshes(chlorinesCombineInstances.ToArray());
             chlorinesObject.transform.parent = group.transform;
 
+            fluorinesObject.GetComponent<MeshFilter>().mesh = new Mesh();
+            fluorinesObject.GetComponent<MeshFilter>().mesh.CombineMeshes(fluorinesCombineInstances.ToArray());
+            fluorinesObject.transform.parent = group.transform;
+
             hydrogensObject.GetComponent<MeshFilter>().mesh = new Mesh();
             hydrogensObject.GetComponent<MeshFilter>().mesh.CombineMeshes(hydrogensCombineInstances.ToArray());
             hydrogensObject.transform.parent = group.transform;
@@ -553,6 +580,7 @@ public class MoleculeLoader : MonoBehaviour
             Destroy(nitrogens);
             Destroy(carbons);
             Destroy(chlorines);
+            Destroy(fluorines);
             Destroy(hydrogens);
 
             Resources.UnloadUnusedAssets();
@@ -563,6 +591,7 @@ public class MoleculeLoader : MonoBehaviour
 
             var interaction = collisionHelper.AddComponent<MoleculeInteraction>();
             interaction.text = "ID: " + structureId + "\nMol. Weight: " + molecularWeight;
+            interaction.id = structureId;
 
             yield return new WaitUntil(() => true);
         }

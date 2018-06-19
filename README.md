@@ -2,4 +2,7 @@
 ## Introduction
 The recent general availability of low-cost virtual reality headsets and accompanying 3D engine support presents an opportunity to bring the concept of chemical space into virtual environments. While virtual reality applications represent a category of widespread tools other fields, their use in the visualization and exploration of abstract data such as chemical spaces has been experimental. Based on our previous work on [interactive 2D maps of chemical spaces](http://gdb.tools/tools), followed by interactive web-based 3D visualizations ([WebDrugCS](http://gdbtools.unibe.ch:8080/webDrugCS/), [WebMolCS](http://gdbtools.unibe.ch:8080/webDrugCS/)), and culminating in the [interactive web-based 3D visualization of extremely large chemical spaces](http://faerun.gdb.tools), virtual reality chemical spaces are a natural extension of these concepts. As 2D and 3D embeddings and projections of high-dimensional chemical fingerprint spaces were shown to be valuable tools in chemical space visualization and exploration, [existing pipelines](http://doc.gdb.tools/fun) of data mining and preparation can be extended to be used in virtual reality applications. Here we present an application based on the [Unity engine](https://unity3d.com/) and the [virtual reality toolkit (VRTK)](http://vrtk.io), allowing for the interactive exploration of chemical space populated by [Drugbank](http://www.drugbank.ca) compounds in virtual reality
 
+## Usage
+
+
 ### Download Binaries

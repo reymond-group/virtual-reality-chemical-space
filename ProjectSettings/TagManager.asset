@@ -10,6 +10,7 @@ TagManager:
   - ToolTip
   - Mover
   - ToolTipContent
+  - Structure
   layers:
   - Default
   - TransparentFX
