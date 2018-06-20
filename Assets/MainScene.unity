@@ -551,7 +551,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -69442336
+  randomSeed: 1091583706
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4044,6 +4044,18 @@ Prefab:
       propertyPath: lineColor.a
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 11479638, guid: 9ab61c80dfd411f4c86b8553b0c42cf1, type: 2}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11479638, guid: 9ab61c80dfd411f4c86b8553b0c42cf1, type: 2}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11479638, guid: 9ab61c80dfd411f4c86b8553b0c42cf1, type: 2}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9ab61c80dfd411f4c86b8553b0c42cf1, type: 2}
   m_IsPrefabParent: 0
@@ -6157,6 +6169,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1262726050}
+  - component: {fileID: 1262726051}
   m_Layer: 0
   m_Name: Mover
   m_TagString: Mover
@@ -6179,6 +6192,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1262726051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1262726049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e67958475b524499536ae387cb0d16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultSkybox: {fileID: 2100000, guid: 540b08131fc6ce347bf8ab7c8806aa6f, type: 2}
+  alternativeSkybox: {fileID: 2100000, guid: fa756b232992781448908e45ad28eece, type: 2}
 --- !u!1 &1302507039
 GameObject:
   m_ObjectHideFlags: 0
@@ -6514,7 +6540,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.78431374}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
