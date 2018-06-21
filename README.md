@@ -13,9 +13,7 @@ The recent general availability of low-cost virtual reality headsets and accompa
 You can download the precompiled windows binary here. Extract the contents of the zip folder and run `vrcs.exe`.
 
 ## Usage
-Keyboard: <kbd>F</kbd> toggles the visiblity of the floor grid, while <kbd>B</kbd> toggles the visiblity of the skybox (the space themed background).
-
-Navigation using a VR controller: Use the grab button (on the handle of the controller) to drag and move.
+Keyboard: <kbd>F</kbd> toggles the visiblity of the floor grid, while <kbd>B</kbd> toggles the visiblity of the skybox (the space themed background). Navigation using a VR controller: Use the grab button (on the handle of the controller) to drag and move.
 
 ![VRCS Controls](http://viz.gdb.tools/images/vrcs_controls.jpg)
 
